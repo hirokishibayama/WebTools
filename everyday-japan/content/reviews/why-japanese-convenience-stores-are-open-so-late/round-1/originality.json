@@ -1,0 +1,19 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Clear lane versus siblings: feel-so-different (food/atmosphere) and so-many-services (ATM/bills/parcels). Hours is the thesis.",
+    "The 2019–2026 reversal (franchise labor, tested closures, still-not-the-norm) is information most tourism listicles skip.",
+    "Local dual attitude toward overnight shifts is a Japanese-side supplement, not Wikipedia.",
+    "Visitor takeaway is “dense urban habit with gaps,” not “konbini are magical 24h Japan.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Late Hours Fit — walking density, small storage, service stacking, disaster",
+      "problem": "These causes overlap the two sibling konbini articles. Necessary as hour-justification, but disaster/service stacking can feel like a recap.",
+      "suggestion": "Keep each cause to one tight why-hours beat; do not expand into food culture or full service inventory."
+    }
+  ]
+}

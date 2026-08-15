@@ -1,0 +1,34 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many homes use a genkan where outdoor shoes are removed before entering living space.",
+      "status": "supported",
+      "note": "Standard residential pattern; still note newer/Western-style exceptions."
+    },
+    {
+      "claim": "Schools often require indoor shoes after arrival.",
+      "status": "supported",
+      "note": "Common but school-dependent; avoid 'all schools always'."
+    },
+    {
+      "claim": "Tatami restaurants, temple halls, and some clinics require shoe removal.",
+      "status": "supported",
+      "note": "Venue-dependent; outdoor precincts differ from inner halls."
+    },
+    {
+      "claim": "Ordinary shops, stations, and many offices keep outdoor shoes on.",
+      "status": "supported",
+      "note": "Important counterweight to 'everywhere' framing."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Do not imply every indoor space in Japan requires shoe removal.",
+    "Avoid 'all Japanese people always' language; note generational and venue variation.",
+    "Title uses traveler phrasing ('everywhere'); body correctly narrows to declared indoor living-style zones."
+  ],
+  "notes": [
+    "Differentiated from homes article by focusing on portable boundary across schools/temples/restaurants.",
+    "Human review required before publish; status must remain review."
+  ]
+}

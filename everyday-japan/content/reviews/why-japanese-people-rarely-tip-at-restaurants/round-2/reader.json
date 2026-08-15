@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Opens on the bill/cash chase; benefit sentence is shorter and clearer.",
+    "Middle section no longer piles training curriculum onto tax confusion.",
+    "Tips and FAQ still carry visitors to a clean exit."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Service Is Treated as Included",
+      "problem": "Still a long section with several subheads, though the through-line is clearer after revision.",
+      "suggestion": "Optional future trim only; not blocking."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "reviewer": "fact-source",
+  "score": 72,
+  "status": "revise",
+  "strengths": [
+    "Rosokutai is correctly framed as a Road Traffic Act roadside strip on roads without a sidewalk, not a curb",
+    "FAQ and intro refuse the false universal 'no sidewalks in Japan'",
+    "Zone 30, school-route paint, and leftover width versus philosophy are directionally sound"
+  ],
+  "verified": [
+    "路側帯 (rosokutai) is defined in the Road Traffic Act as a marked roadside strip, typically where there is no sidewalk",
+    "Vehicles keep left in Japan; pedestrians on roads without sidewalks are generally directed toward the right-hand edge (Road Traffic Act Art. 10), with exceptions",
+    "Zone 30 (30 km/h living-road zones) is a real municipal traffic-calming program",
+    "Building Standards Act Art. 42(2) (2項道路) concerns certain pre-existing sub-4 m streets and centerline setbacks on rebuild—not all residential roads"
+  ],
+  "questionable": [
+    "Residential streets 'often rely' on 20 km/h and 'suffer' 50 km/h as if those were the operative Japanese design pair",
+    "Article 42-2 presented as a general setback-road explanation for missing sidewalks"
+  ],
+  "unsupported": [
+    "20 km/h and 50 km/h as the humane versus dangerous operating speeds of Japanese shared residential streets"
+  ],
+  "needs_source": [
+    "Typical 'four to six meters' width band—plausible for 生活道路, not a cited national statistic"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Setback roads / Article 42-2",
+      "problem": "The article number is only partly specified. 42(2) roads are a subset of narrow pre-standard lanes. Treating them as the typical no-sidewalk mechanism is legally incomplete and easy to over-read.",
+      "suggestion": "Hedge or drop the article number. Describe lot-by-lot rebuild setbacks as one process; state that many 4–6 m roads never had a curb for width/cost reasons alone."
+    },
+    {
+      "severity": "major",
+      "location": "shared-space paragraph — 20 km/h and 50 km/h",
+      "problem": "Those figures are not established Japanese residential design speeds in the draft. Default unsigned limits, Zone 30, and actual driving speeds are different things.",
+      "suggestion": "Remove the numbers. Contrast slow local driving with arterial behavior without inventing km/h claims."
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ — Should pedestrians walk on the right or left?",
+      "problem": "The answer hedges ('specific provisions') without stating the usual legal default (right-hand edge, facing traffic). Practice does vary, so a hedge is required—but the FAQ currently withholds the one accurate clause.",
+      "suggestion": "State the usual right-edge default, then hedge that people follow the clearer edge and school-route paint. Do not write a legal exam."
+    }
+  ]
+}

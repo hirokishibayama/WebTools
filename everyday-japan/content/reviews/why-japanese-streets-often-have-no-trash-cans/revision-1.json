@@ -1,0 +1,25 @@
+{
+  "round": 1,
+  "edited_paths": [
+    "content/articles/why-japanese-streets-often-have-no-trash-cans/article.md",
+    "articles/why-japanese-streets-often-have-no-trash-cans.md"
+  ],
+  "changes": [
+    {
+      "issue": "mochikaeri misused as trash-habit label",
+      "action": "Replaced with carry-your-trash framing; clarified mochikaeri (持ち帰り) as takeaway food only."
+    },
+    {
+      "issue": "Triple closing restatement",
+      "action": "Compressed final section to two short paragraphs with one concrete infrastructure image."
+    },
+    {
+      "issue": "Minor polish while editing nearby lines",
+      "action": "Simplified intro bridge; softened 1990s memory specifics; reframed litter 'pride' as manners practice."
+    }
+  ],
+  "preserved": [
+    "1995 non-sole-cause hedge list untouched in substance",
+    "No new facts invented"
+  ]
+}

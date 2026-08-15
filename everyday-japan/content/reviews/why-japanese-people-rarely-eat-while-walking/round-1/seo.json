@@ -1,0 +1,25 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the query: why walking-eating is uncommon, with an immediate not-a-law answer.",
+    "H2s are natural sentences, not keyword stacks.",
+    "FAQ covers illegal / festivals / trains / drinks / outdoor eating—the related questions searchers actually have.",
+    "Internal link to the no-trash-cans article is used as reinforcement, not as a duplicate topic."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "konbini paragraph — link to late-open convenience stores",
+      "problem": "The late-hours sibling is a weak match for “not a license to eat while walking.” Searchers of this article do not need store hours.",
+      "suggestion": "If linking konbini, prefer the “feel different” sibling already listed in metadata, or drop the hours link."
+    },
+    {
+      "severity": "minor",
+      "location": "metadata related vs body",
+      "problem": "why-japanese-convenience-stores-feel-so-different is related in metadata but unused in the article.",
+      "suggestion": "Optional swap; SEO alone should not force a rewrite."
+    }
+  ]
+}

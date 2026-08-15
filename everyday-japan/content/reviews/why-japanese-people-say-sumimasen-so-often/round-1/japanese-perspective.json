@@ -1,0 +1,19 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 100,
+  "status": "pass",
+  "strengths": [
+    "Explains everyday Japanese experience, not only tourist observation",
+    "Avoids treating Japanese people as a monolith",
+    "Connects habit to social logic, not only surface manners"
+  ],
+  "issues": [],
+  "specific_revisions": [],
+  "duration_ms": 0,
+  "prompt_version": "1.0.0",
+  "scored_at": "2026-08-11T06:14:45.925Z",
+  "slug": "why-japanese-people-say-sumimasen-so-often",
+  "title": "Why Do Japanese People Say “Sumimasen” So Often?",
+  "round": 1,
+  "mock": true
+}

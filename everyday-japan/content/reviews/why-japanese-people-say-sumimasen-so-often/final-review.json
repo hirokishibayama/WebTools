@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "overall_score": 97,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "research claims",
+      "problem": "Research is alluded to without a verifiable source",
+      "suggestion": "Name the study/author or soften to 'observers of Japanese interaction note…'",
+      "sources": [
+        "fact-source"
+      ]
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "No FAQ section for related search questions",
+      "suggestion": "Add a short FAQ answering adjacent queries",
+      "sources": [
+        "seo-search-intent"
+      ]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 100,
+    "japanese_perspective": 100,
+    "cultural_accuracy": 98,
+    "fact_source": 87,
+    "seo": 100,
+    "english": 92,
+    "originality": 98
+  },
+  "final_summary": "Article Review passed. Everyday Japan editorial standards hold; ready to publish after light human glance if desired.",
+  "slug": "why-japanese-people-say-sumimasen-so-often",
+  "title": "Why Do Japanese People Say “Sumimasen” So Often?",
+  "scored_at": "2026-08-11T06:14:45.932Z",
+  "skill_agents": [
+    "review-reader-experience",
+    "review-japanese-perspective",
+    "review-cultural-accuracy",
+    "review-fact-source",
+    "review-seo-intent",
+    "review-english-naturalness",
+    "review-editorial-originality"
+  ],
+  "reviewer_ids": {
+    "review-reader-experience": "reader-experience",
+    "review-japanese-perspective": "japanese-perspective",
+    "review-cultural-accuracy": "cultural-accuracy",
+    "review-fact-source": "fact-source",
+    "review-seo-intent": "seo-search-intent",
+    "review-english-naturalness": "english-naturalness",
+    "review-editorial-originality": "editorial-originality"
+  }
+}

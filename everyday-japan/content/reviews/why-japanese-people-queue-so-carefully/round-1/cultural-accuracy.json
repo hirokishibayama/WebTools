@@ -1,0 +1,38 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Rejects queuing as unique national soul or proof nobody cuts",
+    "Disaster-orderliness coverage stays hedged: it has happened and is incomplete; other societies queue well",
+    "Failures are named (sneaker drops, New Year surges, rush-hour compression, space-saving for friends, tourist walking lanes)",
+    "Top-down crowd engineering (marks, ropes, number tickets, switchbacks) balances bottom-up ‘politeness’ myth",
+    "Combination frame—density + explicit markings + low verbal negotiation—is more accurate than a character trait"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Examples overall",
+      "problem": "The picture is still mostly big-city stations, bakeries, and theme-park rails. Rural platforms and small-town shops often lack door paint; waiting is looser. The article hedges with ‘many platforms’ and ‘where the system provides marks,’ but never says the visitor archetype is metropolitan.",
+      "suggestion": "One clause: busy urban stations are where the marks are densest; local lines and small shops may only have an informal front."
+    },
+    {
+      "severity": "minor",
+      "location": "Airport security scenario",
+      "problem": "‘Locals usually comply quickly. Confusion here is more often about signs’ slightly flatters Japanese passengers and parks confusion on visitors.",
+      "suggestion": "Confusion is about unfamiliar layouts for anyone; compliance is high when staff direct the file."
+    },
+    {
+      "severity": "minor",
+      "location": "Holiday bakery — ‘one bag’s width of space’",
+      "problem": "Japanese files are often tighter than this suggests. Overstating space can teach visitors to leave gaps that look like cutting—the article’s own tip.",
+      "suggestion": "Hedge as occasional room for a box, not a standard personal bubble."
+    },
+    {
+      "severity": "minor",
+      "location": "Escalator aside",
+      "problem": "One sentence treats escalators as the same family as queues without the Tokyo/Osaka standing-side split the sibling article depends on. Not false, but easy to over-unify.",
+      "suggestion": "Keep the link; do not imply one nationwide standing rule."
+    }
+  ]
+}

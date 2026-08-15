@@ -1,0 +1,19 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Angle is the soft-refusal system (face, alternatives, unfinished sentences)—not a single-word explainer",
+    "Misread taxonomy and “how to ask” sections are distinctive Everyday Japan value",
+    "Uses daijoubu as one tool with a dedicated link rather than cloning the companion article",
+    "“Soft refusal ≠ silence” corrects a common web cliché"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Bag-offer / daijoubu examples",
+      "problem": "Shared illustrative scenes with the daijoubu article",
+      "suggestion": "Acceptable with cross-links; prefer invitation/workplace/hotel beats as the signature scenes here"
+    }
+  ]
+}

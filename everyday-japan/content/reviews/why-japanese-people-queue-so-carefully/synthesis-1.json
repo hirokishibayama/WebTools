@@ -1,0 +1,106 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major<2; remaining issues are polish, hedges, and sibling-link tightness.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 9,
+  "overall_score": 87,
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 87,
+    "cultural_accuracy": 89,
+    "fact_source": 85,
+    "seo": 90,
+    "english": 84,
+    "originality": 89
+  },
+  "priority_notes": [
+    "No critical factual error. Disaster-orderliness and national-soul myths are already hedged.",
+    "Cultural accuracy and Japanese perspective support publish; do not invent first-person memoir or unique-soul language in any optional polish.",
+    "SEO alone must not drive rewrite.",
+    "Revision not required (major < 2)."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "queue-urban-archetype",
+      "location": "Examples overall / ‘many platforms’",
+      "problem": "Picture is still mostly metropolitan stations and designed shops; rural/local-line looseness is only implied.",
+      "suggestion": "One clause that busy urban stations hold the densest marks; small shops may only have an informal front.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-dwell-causation",
+      "location": "How Japanese People Experience Waiting — punctuality",
+      "problem": "Dwell-time link is directionally right but can be read as queues alone keeping the timetable.",
+      "suggestion": "Keep ‘one of the passenger-side tools’; soften ‘depends on.’ No invented seconds or on-time rates.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-cleaning-sibling",
+      "location": "School as rehearsal — classroom-cleaning link",
+      "problem": "Cleaning classrooms is editorial stitching, not how locals explain lining up; mild off-intent.",
+      "suggestion": "Keep lunch lines and drills; drop or soften the sōji parallel.",
+      "sources": ["japanese-perspective", "editorial-originality", "seo-search-intent", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-meiwaku-term",
+      "location": "Local waiting section — meiwaku; missing 整列乗車",
+      "problem": "meiwaku gloss is narrower than local use; platform practice is unnamed.",
+      "suggestion": "Gloss meiwaku as trouble imposed on others; optionally introduce seiretsu jōsha once.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-english-metaphors",
+      "location": "‘polite salon’; ‘the drawing just gets wet’; ‘Interpretation:’; ‘biological fact’",
+      "problem": "A few clever or worksheet phrases break the magazine voice.",
+      "suggestion": "Plain images; drop the Interpretation label; ‘Not by nature.’",
+      "sources": ["english-naturalness", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-repetition",
+      "location": "Bakery tickets, rain, alighting",
+      "problem": "Same three lessons recur across body, scenarios, tips, and FAQ.",
+      "suggestion": "One authoritative pass each; scenarios should add setting, not restated rules.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-loop-line",
+      "location": "Real-Life Scenarios — loop-line station",
+      "problem": "Insider jargon for first-time visitors.",
+      "suggestion": "‘Busy city loop line’ or ‘packed urban platform.’",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-spacing-airport",
+      "location": "Holiday bakery space; airport scenario",
+      "problem": "Bag-width space can overteach gaps; airport line slightly flatters ‘locals comply.’",
+      "suggestion": "Hedge spacing; treat confusion as layout, not nationality.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "id": "queue-sleep-link",
+      "location": "Sleep-on-trains sentence",
+      "problem": "Sibling wink more than a queuing need.",
+      "suggestion": "Optional trim; dwell point stands alone.",
+      "sources": ["editorial-originality"]
+    }
+  ],
+  "scored_at": "2026-08-15T13:30:00.000Z",
+  "slug": "why-japanese-people-queue-so-carefully",
+  "title": "Why Japanese People Queue So Carefully",
+  "existing_articles_count": 25,
+  "metadata": {
+    "title": "Why Japanese People Queue So Carefully",
+    "slug": "why-japanese-people-queue-so-carefully"
+  }
+}

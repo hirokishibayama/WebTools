@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Misreading list and scenario beats read natural and specific",
+    "Avoids “Japan is amazing” wonder tone",
+    "Closing “soft no is still a no” is crisp editorial judgment"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Opening — “Many visitors to Japan notice one unusual thing.”",
+      "problem": "Stock opener shared with sumimasen and other culture articles; “unusual” adds AI/tourism flavor",
+      "suggestion": "Open on the dinner invitation + chotto pause without the template sentence"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Thesis is operator plurality and path dependence—not punctuality, napping, or 'trains are amazing'",
+    "Commercial territory (line as neighborhood, department-store terminals) is the piece readers will not get from a subway-map explainer",
+    "Explicitly walls off the on-time sibling; sleep-on-trains is used as habit-on-a-familiar-corridor, not as a second thesis"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Why So Many Companies Were Allowed to Remain (station design paragraph)",
+      "problem": "Queue-at-doors 'because each operator’s timetable is tight' imports the punctuality article. Escalator lanes 'because transfer walks between companies can be long' is a weak graft of another sibling. The article must stay about who owns the lines.",
+      "suggestion": "Delete those causal links. If a cross-link remains, say platform manners are a different layer, not the reason the map is plural."
+    },
+    {
+      "severity": "minor",
+      "location": "late-night scenario → konbini link",
+      "problem": "Last trains differing by company is on-topic; the konbini waiting-room sentence is a light sibling garnish.",
+      "suggestion": "Keep last-train-per-operator; the konbini clause can stay one phrase or go."
+    }
+  ]
+}

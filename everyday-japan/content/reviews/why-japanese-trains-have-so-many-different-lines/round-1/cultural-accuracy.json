@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 77,
+  "status": "revise",
+  "strengths": [
+    "Labeled interpretation (path dependence, not 'Japan loves complexity') blocks mystique",
+    "What This Is Not correctly limits the rainbow-map feeling to big metro areas and rejects IC-card-as-merger",
+    "Tokyo Metro vs Toei, JR as not-a-metro, and Hankyu-style development (hedged as a pattern, not every private railway) are culturally right"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Why So Many Companies Were Allowed to Remain",
+      "problem": "Claims visitors queue at marked doors 'because each operator’s timetable is tight' and use escalator lanes 'because transfer walks between companies can be long.' That misattributes separate platform habits to operator plurality and borrows the punctuality article’s thesis.",
+      "suggestion": "Describe long transfer walks as a physical effect of stacked companies. Do not cause-explain queues or standing sides from plurality."
+    },
+    {
+      "severity": "minor",
+      "location": "## One City, Several Railways / closing hub list",
+      "problem": "Shinjuku, Umeda, Nagoya, Yokohama, and Hakata are listed as if they teach the same operator logic. Hakata is a real hub but a thinner patchwork than Tokyo/Osaka terminals.",
+      "suggestion": "Keep Hakata as an optional 'learn one hub' example without implying equivalent company density."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "reviewer": "fact-source",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "No false claim that all taxes/bills work at every store.",
+    "1970s chain expansion framed qualitatively without fake statistics.",
+    "Tourist bill-payment FAQ is appropriately restrictive."
+  ],
+  "verified": [
+    "Major chains commonly combine ATMs, slip payment, parcels, and printing with retail.",
+    "Service menus vary by chain and store size.",
+    "Konbini ATMs often help after bank-branch hours."
+  ],
+  "questionable": [
+    "Many apartments historically lacked home printers."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future numeric claim about konbini counts, fee schedules, or market share."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Parcels, Printing, and the Errand Stack",
+      "problem": "“Many apartments historically lacked home printers” is plausible social history without a cite.",
+      "suggestion": "Hedge to “home printers were less common for many households” or focus on last-minute printing demand."
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios — Amazon box",
+      "problem": "Brand-specific example is accurate for some pickups but narrower than needed.",
+      "suggestion": "Prefer “online order” / “e-commerce package” unless brand is essential."
+    }
+  ]
+}

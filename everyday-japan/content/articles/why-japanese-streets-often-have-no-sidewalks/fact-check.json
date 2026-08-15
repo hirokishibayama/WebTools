@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "路側帯 (rosokutai) is a Road Traffic Act roadside strip on roads without sidewalks.",
+      "status": "supported",
+      "note": "Road Traffic Act Article 2 definition."
+    },
+    {
+      "claim": "All Japanese streets lack sidewalks.",
+      "status": "false-stereotype",
+      "note": "Article rejects; arterials often have sidewalks."
+    },
+    {
+      "claim": "Article 42-2 setback roads widen lot-by-lot when rebuilt.",
+      "status": "supported-with-care",
+      "note": "Planning practice; visitors need not memorize the article number. Avoid over-legal tone."
+    },
+    {
+      "claim": "Shared streets are always a named design philosophy.",
+      "status": "unsupported",
+      "note": "Article treats many as leftover widths."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

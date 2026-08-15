@@ -1,0 +1,31 @@
+{
+  "reviewer": "reader-experience",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Opens on three concrete scenes (door sweets, office boxes, shrinking summer catalogs) before the title question, so the reader knows why the article exists.",
+    "The first section answers the search question by splitting omiyage, temiyage, ochugen/oseibo, and okaeshi instead of leaving “gifts” as one mood.",
+    "Visitor tips and FAQ give a finishable payoff: what to bring, what not to overspend, how to accept.",
+    "The “mild tax” office joke and the trapped-host scenario are the aha moments travelers can use."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "What Visitors Over-Read + Visitor Tips + FAQ",
+      "problem": "Modest scale, okaeshi debt, and “not every encounter” are restated three times. A careful reader may skim the last third as a recap.",
+      "suggestion": "Keep the warning once in Over-Read, once as a short tip; let FAQ stay one-line answers without restating the arms-race metaphor."
+    },
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience the Small Bag — internal-link sentence",
+      "problem": "Bow and “no” links stacked in one sentence read like a sitemap and stall the office-reentry scene.",
+      "suggestion": "Keep one cross-link; move the other to related reading or a later clause."
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios — Entering an apartment",
+      "problem": "Genkan is used without a gloss; first-time readers may miss that the gift is offered at the shoe threshold.",
+      "suggestion": "Add a brief gloss (entryway where shoes come off) or link the shoes article; do not turn this into a wrapping tutorial."
+    }
+  ]
+}

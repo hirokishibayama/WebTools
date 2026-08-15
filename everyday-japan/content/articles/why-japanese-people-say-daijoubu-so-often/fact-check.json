@@ -1,0 +1,15 @@
+{
+  "verdict": "pass",
+  "quality_score": 85,
+  "verified_facts": [
+    "Daijōbu is context-dependent and can affirm, reassure, or soft-decline.",
+    "Daijōbu desu is a common polite form in service interactions.",
+    "Article avoids claiming Japanese people never refuse directly."
+  ],
+  "needs_citation": [
+    "Linguistic corpus frequency claims were avoided; keep qualitative unless sourced."
+  ],
+  "bias": [],
+  "outdated": [],
+  "unsupported": []
+}

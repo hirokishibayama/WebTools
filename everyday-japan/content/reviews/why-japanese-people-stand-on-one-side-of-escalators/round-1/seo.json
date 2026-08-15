@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the core query (why one side / Tokyo vs Osaka)",
+    "FAQ covers stand-left everywhere?, walking allowed?, suitcases",
+    "H2s map natural related questions"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "No explicit FAQ for “which side should tourists stand on?” as a single visitor rule of thumb.",
+      "suggestion": "Optional short FAQ: watch local flow; default Tokyo left / Osaka right unless signs say otherwise."
+    }
+  ]
+}

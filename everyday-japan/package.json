@@ -1,0 +1,37 @@
+{
+  "name": "everyday-japan",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Everyday Japan — AI Editorial Operating System (content factory)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "scheduler": "tsx scripts/scheduler.ts",
+    "worker": "tsx scripts/worker.ts",
+    "os:reset": "tsx scripts/seed-reset.ts",
+    "os:reset:all": "tsx scripts/seed-reset.ts --all",
+    "editorial:score": "tsx scripts/editorial-score.ts",
+    "editorial:multi-review": "tsx scripts/multi-review.ts",
+    "editorial:review": "tsx scripts/article-review.ts",
+    "editorial:package-all": "tsx scripts/package-all-articles.ts"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "^15.1.0",
+    "next-mdx-remote": "^6.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

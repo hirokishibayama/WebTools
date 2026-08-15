@@ -1,0 +1,28 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0 after round-1 hedges; remaining items are minor polish",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 87,
+    "seo": 90,
+    "english": 87,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "four to six meters; Building Standards Act parenthesis; shoes-off one-liner",
+      "problem": "Approximate width unsourced; statute still named in passing; shoes remain a light editorial link.",
+      "suggestion": "Leave as hedges. Do not add article numbers or invented averages.",
+      "sources": ["fact-source", "reader-experience", "japanese-perspective"]
+    }
+  ],
+  "priority_notes": [
+    "Rosokutai vs sidewalk and not-all-streets remain sound.",
+    "Pedestrian right-edge is accurate and hedged.",
+    "No second revision round."
+  ]
+}

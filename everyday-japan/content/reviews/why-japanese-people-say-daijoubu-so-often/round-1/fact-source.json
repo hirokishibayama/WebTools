@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "No invented statistics or corpus-frequency percentages",
+    "Polysemy claims match everyday usage (affirm / reassure / soft decline)",
+    "Related phrases (heiki, kekkō desu, mondai nai) are described with appropriate caveats"
+  ],
+  "verified": [
+    "Daijōbu (大丈夫) is context-dependent and can affirm, reassure, or soft-decline",
+    "Daijōbu desu is a common polite form in service interactions",
+    "Hai and daijoubu overlap but are not equivalent"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Any future claim about relative frequency vs. kekkō desu would need a corpus or survey cite—currently kept qualitative (good)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Throughout",
+      "problem": "Observational claims about childhood acquisition and tourist-facing density are plausible but uncited",
+      "suggestion": "Keep qualitative hedges; do not upgrade to frequency stats without sources"
+    }
+  ]
+}

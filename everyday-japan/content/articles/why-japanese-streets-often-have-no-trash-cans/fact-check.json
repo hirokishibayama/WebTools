@@ -1,0 +1,27 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many public trash cans were removed after the 1995 Tokyo subway sarin attack.",
+      "status": "supported-with-care",
+      "note": "Widely cited contributing factor for stations/public spaces; not the only reason bins remain scarce today."
+    },
+    {
+      "claim": "People often carry trash until home or a konbini customer bin.",
+      "status": "supported",
+      "note": "Common urban habit; compliance varies."
+    },
+    {
+      "claim": "Japan has no litter.",
+      "status": "false-stereotype",
+      "note": "Article should reject this absolute."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Narrows scope to panel UX immediately so readers know they will get button help, not a full bathroom tour",
+    "Stop-first mental model and numbered calm approach reduce anxiety effectively",
+    "Venue-by-venue panel types (airport, konbini, Airbnb, older stations) are concrete and useful"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Visitors Feel Anxious — numbered list",
+      "problem": "Anxiety diagnosis and the seven-step routine partly restate tip/FAQ content",
+      "suggestion": "Keep one authoritative step list; shorten the other to avoid mid-article repetition"
+    }
+  ]
+}

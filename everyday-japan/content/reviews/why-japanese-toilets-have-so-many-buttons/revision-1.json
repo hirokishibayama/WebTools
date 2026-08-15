@@ -1,0 +1,29 @@
+{
+  "round": 1,
+  "revised_path": "content/articles/why-japanese-toilets-have-so-many-buttons/article.md",
+  "synced_to": ["articles/why-japanese-toilets-have-so-many-buttons.md"],
+  "changes": [
+    {
+      "issue": "Stock template opener",
+      "action": "Removed ‘Many visitors to Japan notice one unusual thing.’; open directly on the stall/panel scene"
+    },
+    {
+      "issue": "Otohime / apps historically unsupported blend",
+      "action": "Replaced with sound-masking buttons in the Otohime tradition; dropped apps-historically claim"
+    },
+    {
+      "issue": "Packaging cross-link stretch",
+      "action": "Removed packaging article parallel; kept mature-appliance feature stacking"
+    },
+    {
+      "issue": "1980s flat dating",
+      "action": "Softened to ‘especially from the late twentieth century onward’"
+    },
+    {
+      "issue": "Spaceship toilet cliché",
+      "action": "Replaced with ‘densest multi-row remotes’ category-peak wording"
+    }
+  ],
+  "invented_facts": false,
+  "notes": "Edited from review issues only; no new factual claims added."
+}

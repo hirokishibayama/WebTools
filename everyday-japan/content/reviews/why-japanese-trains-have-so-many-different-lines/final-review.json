@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "**Municipal and metro subways as extra layers**",
+      "problem": "'The Tokyo subway map is already a merger of systems' can sound like corporate fusion rather than a combined printed map.",
+      "suggestion": "Optional: overlay / combined map.",
+      "sources": ["cultural-accuracy", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Station design paragraph",
+      "problem": "Platform-manners disclaimer is accurate but slightly editor-facing.",
+      "suggestion": "Optional trim.",
+      "sources": ["reader-experience", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "Late night scenario",
+      "problem": "Konbini waiting-room link is light sibling garnish.",
+      "suggestion": "Keep last-train-per-company as the point.",
+      "sources": ["editorial-originality"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 88,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 89,
+    "originality": 90
+  },
+  "final_summary": "PASS after one revision. Fixed stacked-fare wording (no invented yen) and removed queue/escalator causation that bled into punctuality. 1987 JNR split, Tokyo Metro vs Toei, through-running, and IC-as-payment-only hold. Thesis stays operator plurality.",
+  "slug": "why-japanese-trains-have-so-many-different-lines",
+  "title": "Why Japanese Trains Have So Many Different Lines",
+  "scored_at": "2026-08-15T13:30:00.000Z"
+}

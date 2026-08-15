@@ -1,0 +1,25 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Angle is social occasions and relationship accounting, not wrapping design (packaging sibling) and not restaurant tips (tipping sibling).",
+    "The useful surprise is the split: ceremonial ochugen/oseibo can shrink while the small bag and office box remain because they do a job talk cannot do quietly.",
+    "Office tax, reciprocity trap, PTA money debate, and manners pages are observations generic Japan gift listicles skip.",
+    "Internal links to packaging and tipping are boundaries, not topic theft."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience the Small Bag — packaging paragraph",
+      "problem": "One paragraph overlaps the packaging article’s “the bag is the message” beat. It is short and correctly scoped, but readers of both will hear an echo.",
+      "suggestion": "Keep one sentence on shareable/clean presentation and the link; skip ribbon-level description here."
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "“The point was never the object” is a true line that could appear on any gift-culture page.",
+      "suggestion": "The following sentences (modest at the door, no catalog fantasy) already save it; optional to lead with the job (“I’m back with the group”) instead of the aphorism."
+    }
+  ]
+}

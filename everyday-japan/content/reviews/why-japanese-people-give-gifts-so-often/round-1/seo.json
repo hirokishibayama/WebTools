@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the query “why Japanese people give gifts so often” and immediately qualify “so often” as situation clusters, which is the honest intent match.",
+    "Omiyage, temiyage, ochugen, oseibo, okaeshi appear in natural prose, not stuffed lists.",
+    "FAQ covers the real follow-ups: every meetup?, what to bring, why food, are seasonal gifts required, refusing, expensive thanks.",
+    "Packaging and tipping asides are short and linked—on-intent, not a detour into wrapping design or restaurant tips."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Japanese Gift-Giving FAQ",
+      "problem": "A high-intent related query—omiyage vs temiyage—is answered in H2 but not as a FAQ heading searchers often use.",
+      "suggestion": "Optional FAQ: souvenir for the group vs bag when you visit a home. Do not keyword-stuff the H2s."
+    }
+  ]
+}

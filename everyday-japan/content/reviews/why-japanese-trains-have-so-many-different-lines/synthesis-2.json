@@ -1,0 +1,27 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0; remaining issues are optional wording (map 'merger', manners disclaimer, konbini garnish)",
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 88,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 89,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "subway map 'merger' / platform-manners disclaimer / late-night konbini",
+      "problem": "A few leftover hedges are slightly imprecise or editor-facing, not misleading on the core thesis.",
+      "suggestion": "Optional polish only; do not open a second revision round.",
+      "sources": ["cultural-accuracy", "fact-source", "reader-experience", "english-naturalness", "editorial-originality"]
+    }
+  ],
+  "priority_notes": [
+    "Core facts hold: 1987 JNR, Tokyo Metro vs Toei, through-running, IC ≠ merger.",
+    "Article remains about operator plurality, not punctuality."
+  ]
+}

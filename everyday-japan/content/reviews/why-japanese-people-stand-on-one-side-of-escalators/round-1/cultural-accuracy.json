@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 94,
+  "status": "pass",
+  "strengths": [
+    "Tokyo stand-left / Osaka stand-right is correctly stated and hedged as tendency",
+    "Acknowledges stand-both-sides safety campaigns and imperfect compliance",
+    "Avoids one-Japan escalator myth and nationwide “correct etiquette” framing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Tokyo Stands Left. Osaka Stands Right.",
+      "problem": "Origin stories are vague (“mid-twentieth-century campaigns”); fine if kept as popular lore, but easy to over-read as settled history.",
+      "suggestion": "Keep the current hedge; do not add a single definitive origin claim."
+    }
+  ]
+}

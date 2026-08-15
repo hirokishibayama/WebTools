@@ -1,0 +1,19 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Does not clone the trash-can sibling: 1995/bin history stays out; this piece is tabearuki manners and sidewalk logistics.",
+    "Stall-as-purchase versus wicket-bento, and tachi-gui versus walking, are angles generic “don’t eat while walking in Japan” posts usually skip.",
+    "Closing refuses national-personality proof and treats the habit as a workable response to crowding, wrapping, and disposal.",
+    "Visitor tips include “do not scold” and umbrella-plus-food—specific, not a purity lecture."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "exceptions + scenarios",
+      "problem": "Festival / ice cream / Harajuku is the same exception set many manners blogs already list; originality lives in the stall/wicket and pause-as-logistics framing, which can get buried under the list.",
+      "suggestion": "If trimming, cut duplicate scenario beats rather than the local distinctions."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Stock ‘unusual thing’ opener removed",
+    "Stall-scene lead is concrete and magazine-like",
+    "Tone stays calm; avoids Japan-is-amazing phrasing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Slightly tidy wrap-up cadence common to the corpus",
+      "suggestion": "Optional voice polish later; not a revision trigger"
+    }
+  ]
+}

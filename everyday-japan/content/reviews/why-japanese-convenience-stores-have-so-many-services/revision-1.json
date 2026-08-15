@@ -1,0 +1,21 @@
+{
+  "round": 1,
+  "source_path": "content/articles/why-japanese-convenience-stores-have-so-many-services/article.md",
+  "synced_to": ["articles/why-japanese-convenience-stores-have-so-many-services.md"],
+  "changes": [
+    "Tightened intro benefit sentence; kept explicit scope lock vs feel-so-different sibling.",
+    "Removed packaging cross-link digression; stayed on payment-interface thesis.",
+    "Replaced draft-meta “when that story is live” with a normal vending cross-link.",
+    "Hedged printer-history claim; replaced Amazon brand with generic online order.",
+    "Retuned scenarios toward slip-only, overtime pickup, last-minute print, after-hours cash, mixed queue—less food-adjacent echo of the sibling."
+  ],
+  "issues_addressed": [
+    "konbini-meta-live",
+    "konbini-packaging-digression",
+    "konbini-sibling-overlap",
+    "konbini-printer-history",
+    "konbini-amazon-brand"
+  ],
+  "invented_facts": false,
+  "differentiation_note": "Food/atmosphere remains in why-japanese-convenience-stores-feel-so-different; this piece stays on service-stack migration and counter errands."
+}

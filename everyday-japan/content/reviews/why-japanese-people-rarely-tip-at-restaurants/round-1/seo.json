@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match “why don’t people tip in Japan / restaurants” intent.",
+    "FAQ covers rude?, exceptional service, luxury, cash vs card, chase-with-money.",
+    "Keywords (tipping, service charge, omotenashi) appear naturally."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Mid-article tax digression",
+      "problem": "Tax-vs-tip clarification helps a common confusion but briefly competes with the core tipping intent.",
+      "suggestion": "Keep 2–3 sentences max or fold into FAQ; do not expand into a tax explainer."
+    }
+  ]
+}

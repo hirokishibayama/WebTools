@@ -1,0 +1,17 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Search intent still answered early and in FAQ",
+    "Few vs no trash cans nuance preserved in seo_title vs H1"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "Optional 'where should tourists throw trash' heading still absent.",
+      "suggestion": "Tips already cover it; optional only."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 73,
+  "status": "revise",
+  "strengths": [
+    "Explicitly rejects 'Japan invented shared streets' and the all-streets-lack-sidewalks stereotype",
+    "Arterials, new towns, and station plazas are named as the counter-pattern",
+    "Shopfronts and leftover width versus a named design movement are handled without mystique"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Why the Sidewalk Was Never Built — 20 km/h vs 50 km/h",
+      "problem": "Humane-at-20 / fragile-at-50 is European shared-space language. Japanese residential practice is not designed around those two numbers; Zone 30 already appears earlier as 30 km/h municipal work.",
+      "suggestion": "Drop the 20/50 pair. Say slow crawling versus arterial behavior, or stay with Zone 30 already in the piece. Do not invent a Japanese design speed."
+    },
+    {
+      "severity": "major",
+      "location": "## Why the Sidewalk Was Never Built — Setback roads / Article 42-2",
+      "problem": "Naming Article 42-2 as if it were the general sidewalk story over-legalizes and over-generalizes. Many no-sidewalk streets are already ordinary 4 m-class living roads, not only 2-項 setback lanes.",
+      "suggestion": "Hedge: lot-by-lot setback widening is one slow process on some older sub-standard lanes; many other neighborhood roads have no curb simply because the existing width fits a car, not two sidewalks. Do not quiz readers on the article number."
+    },
+    {
+      "severity": "minor",
+      "location": "Night in a residential grid",
+      "problem": "'Few streetlights' is too absolute; lighting varies widely by municipality and era of development.",
+      "suggestion": "Say lighting varies, or 'a dim grid,' not that residential Japan is generally unlit."
+    }
+  ]
+}

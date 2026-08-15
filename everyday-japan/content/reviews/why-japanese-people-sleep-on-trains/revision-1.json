@@ -1,0 +1,25 @@
+{
+  "round": 1,
+  "edited_paths": [
+    "content/articles/why-japanese-people-sleep-on-trains/article.md",
+    "articles/why-japanese-people-sleep-on-trains.md"
+  ],
+  "changes": [
+    {
+      "issue": "Unverified comparative transit crime-rate claim",
+      "action": "Rewrote safety paragraph and FAQ to rider-experienced relative orderliness; kept theft/chikan warnings; no new statistics."
+    },
+    {
+      "issue": "Duplicate closings / lyrical padding",
+      "action": "Merged two closing sections into one; removed brand self-reference and stacked metaphors."
+    },
+    {
+      "issue": "Minor polish",
+      "action": "Shortened intro bridge; tightened mask clause while editing the safety paragraph."
+    }
+  ],
+  "preserved": [
+    "No invented first-person Japanese anecdotes",
+    "Inemuri nuance and women-only cars retained"
+  ]
+}

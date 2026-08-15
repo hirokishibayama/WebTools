@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Genkan architecture accurate",
+    "School uwabaki pattern common",
+    "No invented stats"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Historical wooden floors paragraph",
+      "problem": "Historical causation is interpretive",
+      "suggestion": "Already labeled interpretation — keep"
+    }
+  ],
+  "verified": [
+    "Genkan as shoe-removal zone",
+    "School indoor shoes common",
+    "Tatami restaurants / temple halls often require removal"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Any future absolute density claims about venues"
+  ]
+}

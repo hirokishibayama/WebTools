@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "overall_score": 91,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "product-history paragraph",
+      "problem": "Late-twentieth-century popularization remains soft history without citation",
+      "suggestion": "Acceptable hedge; cite only if stronger dating is added",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "anxiety steps vs Visitor Tips",
+      "problem": "Light procedural overlap remains",
+      "suggestion": "Optional trim later",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Slightly corpus-common wrap-up cadence",
+      "suggestion": "Optional voice polish",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 92,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 93,
+    "fact_source": 88,
+    "seo": 93,
+    "english": 90,
+    "originality": 91
+  },
+  "final_summary": "PASS after one revision. Panel UX / feature-stacking angle is clear, culturally balanced, and visitor-practical. Round-1 majors (stock opener; Otohime/apps claim) resolved; remaining issues are minor polish only.",
+  "slug": "why-japanese-toilets-have-so-many-buttons",
+  "title": "Why Japanese Toilets Have So Many Buttons",
+  "scored_at": "2026-08-11T06:37:30.000Z"
+}

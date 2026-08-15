@@ -1,0 +1,27 @@
+{
+  "id": "topic-finder",
+  "name": "Topic Finder",
+  "stage": 1,
+  "purpose": "Generate article ideas from existing coverage, seed keywords, and manual ideas.",
+  "prompt": "editorial/prompts/01-topic-finder.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "existingArticleList",
+    "seedKeywords",
+    "manualIdeas"
+  ],
+  "optionalFutureInputs": [
+    "googleTrends",
+    "reddit",
+    "youtube",
+    "travelForums"
+  ],
+  "output": {
+    "file": "topic.md",
+    "template": "editorial/templates/topic.md"
+  },
+  "automation": {
+    "webSearch": false,
+    "replaceable": true
+  }
+}

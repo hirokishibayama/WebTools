@@ -1,0 +1,21 @@
+{
+  "id": "outline",
+  "name": "Outline Agent",
+  "stage": 3,
+  "purpose": "Create article structure following the eight-part Everyday Japan template.",
+  "prompt": "editorial/prompts/03-outline.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "topic.md",
+    "research.md"
+  ],
+  "dependsOn": ["research"],
+  "output": {
+    "file": "outline.md",
+    "template": "editorial/templates/outline.md"
+  },
+  "automation": {
+    "webSearch": false,
+    "replaceable": true
+  }
+}

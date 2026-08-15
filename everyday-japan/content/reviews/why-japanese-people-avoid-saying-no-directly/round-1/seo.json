@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Title matches core query about indirect / soft no in Japanese",
+    "Sections answer why, how to hear it, misreads, and how to ask",
+    "FAQ covers never-say-no myth, chotto, daijoubu-as-no, visitor refusal scripts",
+    "Links to daijoubu / sumimasen support cluster SEO without keyword stuffing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Title absolute tone",
+      "problem": "“Avoid Saying No Directly” can sound absolute; body correctly hedges",
+      "suggestion": "Body hedges are enough; optional seo_title “Why Japanese Soft Nos Are Common” only if retitling later"
+    }
+  ]
+}

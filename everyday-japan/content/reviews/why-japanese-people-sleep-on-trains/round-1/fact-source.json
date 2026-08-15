@@ -1,0 +1,36 @@
+{
+  "reviewer": "fact-source",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Inemuri definition is culturally standard",
+    "Safety section already rejects 'perfectly safe' travel-copy",
+    "Chikan / women-only cars grounded in real transit practice"
+  ],
+  "verified": [
+    "Inemuri (居眠り) as dozing while present in a setting",
+    "Women-only cars exist on some lines at certain hours",
+    "Long metropolitan commutes are common for many riders"
+  ],
+  "questionable": [
+    "Comparative claim that Japan's transit crime rates for some categories have historically been lower than in many large cities"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Cross-city transit crime rate comparison"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Quiet Cars, Relative Safety, and Real Risks",
+      "problem": "Asserts a comparative crime-rate fact ('historically been lower than in many large cities') without a source; overreaches beyond lived relative orderliness.",
+      "suggestion": "Hedge to rider experience: trains can feel relatively orderly, yet theft and groping still occur—avoid unverified rate comparisons."
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ — Is it safe to sleep on the train?",
+      "problem": "'Relatively safer than in some cities' repeats the same soft comparative claim.",
+      "suggestion": "Align FAQ wording with the revised body hedge."
+    }
+  ]
+}

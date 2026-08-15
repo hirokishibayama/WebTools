@@ -1,0 +1,75 @@
+{
+  "overall_score": 88,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 83,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "opening paragraph",
+      "problem": "Stock template opener (‘Many visitors to Japan notice one unusual thing’) shared with sibling articles",
+      "suggestion": "Open on a specific threshold/shoe-rack scene without the generic unusual-thing frame",
+      "sources": ["english-naturalness", "editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "location": "Why Cleanliness Boundaries Matter — packaging cross-link",
+      "problem": "Packaging parallel is editorial cleverness more than a local association",
+      "suggestion": "Keep courtesy point; soften or drop packaging link",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "Why Cleanliness Boundaries Matter — historical paragraph",
+      "problem": "Historical wooden-floor causation stated tightly without source",
+      "suggestion": "Hedge as longstanding residential practice / soft interpretation",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Schools — gyms/uwabaki",
+      "problem": "Gym footwear rules slightly flattened",
+      "suggestion": "Note gyms/special rooms may use different indoor footwear",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "mid sections",
+      "problem": "Boundary definition restated across several sections",
+      "suggestion": "Tighten one middle section",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Foreign visitor / local parallel closer is slightly formulaic",
+      "suggestion": "Vary cadence while keeping the insight",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 1,
+  "minor_count": 5,
+  "needs_revision": false,
+  "priority_notes": [
+    "[major/english+originality] Stock template opener → rewrite hook with a concrete shoe-boundary scene",
+    "[minor/japanese-perspective] Soften packaging parallel",
+    "[minor/fact-source] Hedge historical wooden-floor claim",
+    "Revision not required (critical=0, major=1 < 2). Proceed to Final Decision."
+  ],
+  "scored_at": "2026-08-11T06:35:00.000Z",
+  "slug": "why-japanese-people-take-off-their-shoes-everywhere",
+  "title": "Why Japanese People Take Off Their Shoes Everywhere",
+  "round": 1,
+  "existing_articles_count": 20,
+  "metadata": {
+    "title": "Why Japanese People Take Off Their Shoes Everywhere",
+    "slug": "why-japanese-people-take-off-their-shoes-everywhere"
+  }
+}

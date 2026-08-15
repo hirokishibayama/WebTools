@@ -1,0 +1,29 @@
+{
+  "reviewer": "fact-source",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Rosokutai remains a Road Traffic Act roadside strip, not a sidewalk",
+    "Pedestrian right-edge default is stated and immediately hedged with practice",
+    "Article 42-2 number removed; setbacks limited to extra-narrow older lanes",
+    "20/50 km/h claims removed; Zone 30 is the remaining numbered local program"
+  ],
+  "verified": [
+    "路側帯 defined for roads without sidewalks",
+    "Pedestrians on such roads: usual legal default is the right-hand edge; vehicles keep left",
+    "Zone 30 exists as municipal 30 km/h living-road calming"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Four-to-six-meter typical width band—plausible, not a cited statistic"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Older plots, narrow frontage — four to six meters",
+      "problem": "Width range is reasonable for 生活道路 but still unsourced.",
+      "suggestion": "Keep as approximate ('about four to six meters') without turning it into a national average."
+    }
+  ]
+}

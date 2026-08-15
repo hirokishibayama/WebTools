@@ -1,0 +1,53 @@
+{
+  "slug": "why-japanese-packaging-is-so-careful",
+  "title": "Why Is Japanese Product Packaging So Carefully Done?",
+  "introduction": {
+    "slug": "why-japanese-packaging-is-so-careful",
+    "rewritten": true,
+    "introduction_score": 80,
+    "introduction_path": "assets/why-japanese-packaging-is-so-careful/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-packaging-is-so-careful",
+    "patched": true,
+    "japanese_perspective_score": 78,
+    "perspective_path": "assets/why-japanese-packaging-is-so-careful/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 98,
+    "seo_quality": 100,
+    "overall": 91,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": []
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-05T15:15:39.431Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-05T15:15:39.431Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

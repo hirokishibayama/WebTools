@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Otohime apps-historically claim removed; sound-masking kept as ordinary feature",
+    "1980s dating softened to late-twentieth-century framing",
+    "Fact/Interpretation split and non-universality remain"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "product-history paragraph",
+      "problem": "Late-twentieth-century popularization is still soft history without a named source",
+      "suggestion": "Acceptable as hedged background; cite only if stronger dating is added later"
+    }
+  ],
+  "verified": [
+    "Washlet-style seats common but not universal",
+    "Core wash/stop/comfort controls as described",
+    "Wash usually needs intentional button press"
+  ],
+  "questionable": [
+    "Soft late-twentieth-century product-history framing (acceptable hedge)"
+  ],
+  "unsupported": [],
+  "needs_source": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "research",
+  "name": "Research Agent",
+  "stage": 2,
+  "purpose": "Collect structured research spanning Japanese, English, government, academic, and anecdotal sources.",
+  "prompt": "editorial/prompts/02-research.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "topic.md",
+    "editorNotes"
+  ],
+  "dependsOn": ["topic-finder"],
+  "output": {
+    "file": "research.md",
+    "template": "editorial/templates/research.md"
+  },
+  "automation": {
+    "webSearch": false,
+    "planned": "Attach search tool later; keep verification flags until then.",
+    "replaceable": true
+  }
+}

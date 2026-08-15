@@ -1,0 +1,49 @@
+{
+  "overall_score": 97,
+  "skill_scores": {
+    "reader": 100,
+    "japanese_perspective": 100,
+    "cultural_accuracy": 98,
+    "fact_source": 87,
+    "seo": 100,
+    "english": 92,
+    "originality": 98
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "research claims",
+      "problem": "Research is alluded to without a verifiable source",
+      "suggestion": "Name the study/author or soften to 'observers of Japanese interaction note…'",
+      "sources": [
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "No FAQ section for related search questions",
+      "suggestion": "Add a short FAQ answering adjacent queries",
+      "sources": [
+        "seo-search-intent"
+      ]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 1,
+  "minor_count": 1,
+  "needs_revision": false,
+  "priority_notes": [
+    "[major/fact-source] Research is alluded to without a verifiable source → Name the study/author or soften to 'observers of Japanese interaction note…'",
+    "[minor/seo-search-intent] No FAQ section for related search questions → Add a short FAQ answering adjacent queries"
+  ],
+  "scored_at": "2026-08-11T06:14:45.931Z",
+  "slug": "why-japanese-people-say-sumimasen-so-often",
+  "title": "Why Do Japanese People Say “Sumimasen” So Often?",
+  "round": 1,
+  "existing_articles_count": 20,
+  "metadata": {
+    "title": "Why Do Japanese People Say “Sumimasen” So Often?",
+    "slug": "why-japanese-people-say-sumimasen-so-often"
+  }
+}

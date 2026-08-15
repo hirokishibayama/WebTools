@@ -1,0 +1,32 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 81,
+  "status": "pass",
+  "strengths": [
+    "Does not treat tabearuki as illegal; “nobody is issuing tickets” is the right legal temperature.",
+    "Festivals, ice cream, drinks, theme parks, and snack streets are named as ordinary exceptions.",
+    "FAQ explicitly rejects “Japanese people never eat outdoors.”",
+    "Bin scarcity is framed as reinforcing inconvenience, not as the sole cause of the manners pattern—correctly split from the trash-can sibling article.",
+    "Rejects the unique-discipline / unique-cleanliness travel-writing myth."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Learn the Pause — outdoor eating as a “special case”",
+      "problem": "Overstates Japanese meal norms. Outdoor eating is widespread; what is uncommon on weekday sidewalks is combining eating with walking through other people’s path. The line also contradicts the FAQ.",
+      "suggestion": "Replace the two-step “special case / second special case” ladder with: seated meals at home are typical; outdoor eating happens often; walking-eating on a commuter sidewalk is the extra, crowded-space layer."
+    },
+    {
+      "severity": "minor",
+      "location": "## When Eating on the Move Is Ordinary — tourist neighborhoods",
+      "problem": "The snack-economy hedge is mostly right, but a visitor can still map “tourist and crowded” onto historic approaches where walking-eating is asked against, not invited.",
+      "suggestion": "One contrast: handheld-snack streets versus sightseeing streets that stay crowded but still treat tabearuki as a nuisance. Do not invent a municipal ban."
+    },
+    {
+      "severity": "minor",
+      "location": "School lunches / cleaning time",
+      "problem": "Desk kyushoku and classroom cleaning are real in many elementary schools, but they are presented as a clean causal pipeline into adult sidewalk manners.",
+      "suggestion": "Keep as one training thread among others, not as the origin story."
+    }
+  ]
+}

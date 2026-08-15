@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 83,
+  "status": "pass",
+  "strengths": [
+    "Most body prose is calm magazine feature tone with concrete scenes",
+    "Avoids ‘Japan is amazing’ wonder tone",
+    "Closing contrast (visitor quirk vs local end-of-street) is clear without exoticizing"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "opening paragraph",
+      "problem": "‘Many visitors to Japan notice one unusual thing.’ is stock AI/travel-template phrasing shared with sibling Everyday Japan articles",
+      "suggestion": "Open on a specific threshold scene (shoes lined at a restaurant step, genkan rack) without the generic ‘unusual thing’ frame"
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "‘A foreign visitor sees… / A local sees…’ is slightly formulaic parallel rhetoric",
+      "suggestion": "Keep the insight but vary the cadence so it feels less like a template closer"
+    }
+  ]
+}

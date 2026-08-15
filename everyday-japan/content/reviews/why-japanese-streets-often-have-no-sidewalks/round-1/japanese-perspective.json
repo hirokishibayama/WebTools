@@ -1,0 +1,24 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Locals would recognize the mixed-room street: kei truck waiting, parked bikes pushing walkers into the middle, neighborhood anger at highway speed",
+    "School-route paint, volunteers, and 'not automatically charming' match everyday complaint culture without invented first-person memoir",
+    "Seasonal geometry (snow, hedges) is a local taken-for-granted that tourism copy usually skips"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## How Japanese People Walk These Roads — genkan",
+      "problem": "Japanese people do not generally explain missing curbs through the genkan. The inside/outside shoe boundary is real, but it is a stretch as a reason the sidewalk was never built.",
+      "suggestion": "Do not treat genkan as causal. If kept, frame it only as how 'outside' feels, not as sidewalk philosophy."
+    },
+    {
+      "severity": "minor",
+      "location": "body-rules opening of the local section",
+      "problem": "'Children learn a set of body rules' is directionally true (traffic-safety education) but slightly postcard-universal.",
+      "suggestion": "Soften to what many school routes teach, without implying every household recites the same code."
+    }
+  ]
+}

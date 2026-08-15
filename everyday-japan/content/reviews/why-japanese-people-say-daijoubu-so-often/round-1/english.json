@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Concrete scenes and short paragraphs read like magazine feature copy",
+    "Strong lines (“verbal bandage,” “punctuation”) avoid empty wonder tone",
+    "Comparisons to English “I’m good” are clarifying, not exoticizing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Opening — “Many visitors to Japan notice one short word…”",
+      "problem": "Stock Everyday Japan / AI-adjacent opener shared with sibling culture pieces",
+      "suggestion": "Could open on the clerk’s bag question alone; not required for pass"
+    },
+    {
+      "severity": "minor",
+      "location": "Closing — “the useful insight is modest”",
+      "problem": "Slightly self-conscious editorial aside",
+      "suggestion": "Optional trim to a direct instruction: look at what just happened"
+    }
+  ]
+}

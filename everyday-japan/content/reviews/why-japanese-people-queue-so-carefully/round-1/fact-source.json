@@ -1,0 +1,44 @@
+{
+  "reviewer": "fact-source",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "No fake statistics, dates, or survey percentages",
+    "Platform boarding marks, number tickets, staff interventions, and alight-before-board are observable operator/shop practice",
+    "Disaster-orderliness is not asserted as a national law",
+    "Punctuality link is already framed as one passenger-side tool, not the whole timetable"
+  ],
+  "verified": [
+    "Many urban Japanese railway/metro platforms mark boarding positions so doors meet pre-formed lines (not every rural or minor-station platform)",
+    "School lunch lines, assemblies, and evacuation drills commonly socialize lining up (implementation varies by school)",
+    "Number-ticket systems at bakeries, clinics, and municipal counters are widespread",
+    "Letting passengers off before boarding is standard station practice and signage",
+    "Theme parks and airports use switchbacks, belt marks, and staff-directed files",
+    "Cutting and messy sales/New Year crowding occur and are socially noticed"
+  ],
+  "questionable": [
+    "‘Train punctuality depends on dwell time’ is directionally true in operations talk but stated a bit tightly; dwell also depends on crowding, luggage, door width, and incidents",
+    "School lining as a distinctive trainer of adult Japanese queuing—many countries line up at school; Japan-specific weight is interpretive",
+    "Classroom cleaning as ‘the same socialization’ as queuing is an editorial grouping, not a documented cause",
+    "International disaster coverage of orderly lines is real as a media pattern; treating any specific disaster as proof should stay hedged (the article does)"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future exact dwell-time seconds, on-time percentages, or survey of ‘patience’",
+    "Named disaster case studies if the myth paragraph is ever made specific"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience Waiting — punctuality/dwell",
+      "problem": "Dwell time is a real operations factor, but the sentence can be read as ‘queues keep the timetable alive’ without the other causes.",
+      "suggestion": "Keep ‘one of the passenger-side tools’; soften ‘depends on’ to ‘is affected by’ or ‘short boarding chaos eats dwell time.’ Do not invent numbers."
+    },
+    {
+      "severity": "minor",
+      "location": "School as rehearsal",
+      "problem": "Causal chain from childhood drills to adult platform files is plausible socialization, not a sourced finding. Cleaning-classroom link is extra causal stretch.",
+      "suggestion": "Keep as interpretation/habit; do not upgrade to history or psychology fact."
+    }
+  ]
+}

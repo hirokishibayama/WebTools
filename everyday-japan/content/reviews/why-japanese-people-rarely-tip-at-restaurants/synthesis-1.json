@@ -1,0 +1,63 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (reader density; unsupported staff-training claim)",
+  "critical_count": 0,
+  "major_count": 2,
+  "minor_count": 8,
+  "skill_scores": {
+    "reader": 84,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 90,
+    "fact_source": 78,
+    "seo": 93,
+    "english": 86,
+    "originality": 90
+  },
+  "priority_notes": [
+    "Fact/source major outranks SEO polish.",
+    "Middle-section density hurts reader experience after a strong opening."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "id": "tip-dense-middle",
+      "location": "Why Service Is Treated as Included (tax + training after Fact/Interpretation)",
+      "problem": "Stacked topics create mid-article dropout and dilute the included-service thesis.",
+      "suggestion": "Trim tax to a short clarification; keep training/return behavior as operational observation without curriculum claims.",
+      "sources": ["reader-experience", "seo-search-intent"]
+    },
+    {
+      "severity": "major",
+      "id": "tip-staff-training-claim",
+      "location": "Staff training paragraph",
+      "problem": "“Many employees are told…” asserts unverified training content.",
+      "suggestion": "Rewrite as common operational practice: leftover cash looks like forgotten change, so staff return it.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "id": "tip-stock-open",
+      "location": "Opening",
+      "problem": "Stock visitor-notice hook and long formulaic benefit sentence.",
+      "suggestion": "Lead with the chase/cash scene; shorten the thesis sentence.",
+      "sources": ["reader-experience", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "id": "tip-overbroad-mindread",
+      "location": "How Paying Works / pride section",
+      "problem": "Occasional broad mind-reading about what Japanese diners or staff feel.",
+      "suggestion": "Prefer behavioral hedges already used elsewhere in the piece.",
+      "sources": ["japanese-perspective", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "id": "tip-dramatic-moral",
+      "location": "Empty Tip Line section",
+      "problem": "“Moral completion of the meal” is slightly dramatic.",
+      "suggestion": "Use plainer payment-script wording.",
+      "sources": ["english-naturalness"]
+    }
+  ]
+}

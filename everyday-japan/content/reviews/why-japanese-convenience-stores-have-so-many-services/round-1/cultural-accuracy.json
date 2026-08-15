@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "“What This Is Not” correctly blocks government-office and total-replacement myths.",
+    "Store-size and regional variation are stated clearly.",
+    "Urban logistics framing avoids “unique national character” laziness."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "The Question at the Counter — “mini civic desk”",
+      "problem": "Metaphor is vivid but can overstate civic authority if left unchecked—partially rescued later by “What This Is Not.”",
+      "suggestion": "Keep metaphor; ensure the later correction stays nearby in reader memory (it does)."
+    }
+  ]
+}

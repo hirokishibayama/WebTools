@@ -1,0 +1,25 @@
+{
+  "id": "human-review",
+  "name": "Human Review",
+  "stage": 7,
+  "purpose": "Generate and complete the human editorial checklist before publish.",
+  "prompt": "editorial/prompts/07-human-review.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "draft.md",
+    "seo.md",
+    "fact-check.md"
+  ],
+  "dependsOn": ["fact-check"],
+  "output": {
+    "file": "review.md",
+    "template": "editorial/templates/review.md",
+    "checklist": "editorial/checklists/human-review.md"
+  },
+  "humanRequired": true,
+  "automation": {
+    "webSearch": false,
+    "replaceable": false,
+    "note": "Final gate remains human-led even after other stages are automated."
+  }
+}

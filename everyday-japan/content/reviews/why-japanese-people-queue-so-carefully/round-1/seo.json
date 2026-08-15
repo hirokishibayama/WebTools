@@ -1,0 +1,26 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Title and H1 match informational intent: why orderly lines, not a manners listicle",
+    "Intro promises mechanism plus where it breaks—matches ‘is Japan really that polite in lines?’ curiosity",
+    "H2s are natural language (floor marks, local experience, myth, scenarios, tips, FAQ)",
+    "Keywords (queuing, platforms, waiting) appear in context without stuffing",
+    "Internal links to escalators, punctuality, and sumimasen support related intent without hijacking the page"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "Searchers often type ‘is it rude to cut in line in Japan’ / ‘Japan queue etiquette.’ Cutting is answered, but the heading is only ‘Do people ever cut?’",
+      "suggestion": "Optional: add rudeness to that answer in one clause. Do not keyword-stuff a new H2."
+    },
+    {
+      "severity": "minor",
+      "location": "School as rehearsal — cleaning-schools link",
+      "problem": "Classroom-cleaning is a mild off-intent digression for a queuing query.",
+      "suggestion": "Keep station/school-lining links; leave cleaning to its own article."
+    }
+  ]
+}

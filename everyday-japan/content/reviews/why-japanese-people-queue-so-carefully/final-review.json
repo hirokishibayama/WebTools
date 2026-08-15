@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "overall_score": 87,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Examples overall / ‘many platforms’",
+      "problem": "Picture is still mostly metropolitan stations and designed shops; rural/local-line looseness is only implied.",
+      "suggestion": "One clause that busy urban stations hold the densest marks; small shops may only have an informal front.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience Waiting — punctuality",
+      "problem": "Dwell-time link is directionally right but can be read as queues alone keeping the timetable.",
+      "suggestion": "Keep ‘one of the passenger-side tools’; soften ‘depends on.’ No invented seconds or on-time rates.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "School as rehearsal — classroom-cleaning link",
+      "problem": "Cleaning classrooms is editorial stitching, not how locals explain lining up; mild off-intent.",
+      "suggestion": "Keep lunch lines and drills; drop or soften the sōji parallel.",
+      "sources": ["japanese-perspective", "editorial-originality", "seo-search-intent", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Local waiting section — meiwaku; missing 整列乗車",
+      "problem": "meiwaku gloss is narrower than local use; platform practice is unnamed.",
+      "suggestion": "Gloss meiwaku as trouble imposed on others; optionally introduce seiretsu jōsha once.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "‘polite salon’; ‘the drawing just gets wet’; ‘Interpretation:’; ‘biological fact’",
+      "problem": "A few clever or worksheet phrases break the magazine voice.",
+      "suggestion": "Plain images; drop the Interpretation label; ‘Not by nature.’",
+      "sources": ["english-naturalness", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Bakery tickets, rain, alighting",
+      "problem": "Same three lessons recur across body, scenarios, tips, and FAQ.",
+      "suggestion": "One authoritative pass each; scenarios should add setting, not restated rules.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios — loop-line station",
+      "problem": "Insider jargon for first-time visitors.",
+      "suggestion": "‘Busy city loop line’ or ‘packed urban platform.’",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Holiday bakery space; airport scenario",
+      "problem": "Bag-width space can overteach gaps; airport line slightly flatters ‘locals comply.’",
+      "suggestion": "Hedge spacing; treat confusion as layout, not nationality.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "Sleep-on-trains sentence",
+      "problem": "Sibling wink more than a queuing need.",
+      "suggestion": "Optional trim; dwell point stands alone.",
+      "sources": ["editorial-originality"]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 87,
+    "cultural_accuracy": 89,
+    "fact_source": 85,
+    "seo": 90,
+    "english": 84,
+    "originality": 89
+  },
+  "final_summary": "PASS. Queuing is framed as dense public infrastructure plus floor marks and low verbal negotiation, not a unique national soul. Disaster-orderliness stays hedged; cutting, sales chaos, and impatience are on the page. No critical or major issues; optional polish is urban/rural one-liners, a softer dwell-time verb, dropping the classroom-cleaning stitch, and a few English metaphors. Do not invent memoir or statistics.",
+  "slug": "why-japanese-people-queue-so-carefully",
+  "title": "Why Japanese People Queue So Carefully",
+  "scored_at": "2026-08-15T13:30:00.000Z"
+}

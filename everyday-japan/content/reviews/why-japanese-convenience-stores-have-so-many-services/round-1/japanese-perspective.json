@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Errand-first mindset (“pay the electricity slip”) matches how many locals use konbini.",
+    "Acknowledges mixed feelings about queues, apps, rural vs city use.",
+    "Avoids invented first-person Japanese anecdotes."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People See the Service Counter",
+      "problem": "“Growing up in Japan, children often watch…” is fine but borders on stock Everyday Japan childhood framing.",
+      "suggestion": "Keep one concrete childhood cue or swap for an adult commute-errand habit if space is tight."
+    }
+  ]
+}

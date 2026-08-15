@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Magazine-feature tone with concrete restaurant scenes.",
+    "Clean closings and short paragraphs in visitor tips.",
+    "Avoids “Japan is amazing” wonder tone."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Opening / benefit sentence",
+      "problem": "“Understanding that good service is usually treated as included…” is a long formulaic thesis sentence common in AI travel explainers.",
+      "suggestion": "Split into two shorter sentences focused on pay-the-bill behavior."
+    },
+    {
+      "severity": "minor",
+      "location": "The Question Behind the Empty Tip Line",
+      "problem": "“moral completion of the meal” is slightly dramatic.",
+      "suggestion": "Use plainer wording such as “finishing the social part of paying.”"
+    }
+  ]
+}

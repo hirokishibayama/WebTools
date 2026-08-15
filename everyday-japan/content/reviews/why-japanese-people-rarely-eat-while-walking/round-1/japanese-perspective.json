@@ -1,0 +1,31 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 80,
+  "status": "pass",
+  "strengths": [
+    "meiwaku is explained as practical trouble (sleeves, sudden stops, leftover wrappers), not as a mystical national virtue.",
+    "Stall-edge eating as part of the purchase versus a bento in a station wicket is a local distinction visitors miss.",
+    "tachi-gui versus tabearuki is correctly treated as a difference locals care about.",
+    "Spatial, not verbal, feedback on packed trains matches everyday Japanese public-space habit."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Learn the Pause — “Outdoor eating is already a special case.”",
+      "problem": "Japanese readers will not recognize outdoor eating itself as rare or special: parks, riverbanks, hanami, stall edges, and konbini counters are ordinary. The article’s own FAQ later says this. Framing outdoor eating as special makes the local lens sound tourist-theoretical.",
+      "suggestion": "Keep seated home meals as the default indoor pattern, but say outdoor eating is common; the extra layer is eating while moving through a busy sidewalk."
+    },
+    {
+      "severity": "minor",
+      "location": "supermarket bento / station wicket paragraph",
+      "problem": "“They usually look slightly annoyed at themselves” invents a typical facial script for locals.",
+      "suggestion": "Describe the situation (late, juggling rice and a wicket) without a claimed inner mood."
+    },
+    {
+      "severity": "minor",
+      "location": "urban examples throughout",
+      "problem": "The default street is dense downtown (Harajuku, station wickets, office 8 a.m.). Smaller towns and school-route ice cream are only lightly implied.",
+      "suggestion": "One hedge that quieter residential streets show more casual walking snacks, especially among kids, would match local variation without a new anecdote."
+    }
+  ]
+}

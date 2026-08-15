@@ -1,0 +1,41 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "No false criminal ban; private-site and event rules are separated from ordinary streets.",
+    "Causation is labeled (“Interpretation, not law”; bins support the habit without fully causing it).",
+    "No fake survey numbers, dates, or ordinances.",
+    "Ekiben-on-Shinkansen versus messy food on a packed commuter car is a defensible manners distinction."
+  ],
+  "verified": [
+    "Eating while walking is generally not a crime on ordinary Japanese streets.",
+    "tabearuki (食べ歩き) is the ordinary Japanese term for eating while walking.",
+    "tachi-gui (立ち食い) is standing-and-eating, distinct from walking-eating.",
+    "meiwaku (迷惑) is everyday language for imposing trouble on others.",
+    "Public street bins are often scarce relative to many Western downtowns (reinforcing, not sole cause).",
+    "Festival streets and many fair stalls are socially set up for handheld food."
+  ],
+  "questionable": [
+    "“Younger people may care less” — plausible generational hedge, not evidenced.",
+    "School lunch and cleaning time as a direct training pipeline into sidewalk tabearuki manners — interpretive, not documented causation."
+  ],
+  "unsupported": [
+    "Locals who eat a supermarket bento through a station wicket “usually look slightly annoyed at themselves, not proud of a cultural exception.”"
+  ],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "station wicket paragraph",
+      "problem": "Self-annoyance is written as an observed typical reaction, but it is invented psychology.",
+      "suggestion": "Delete the face/mood claim; keep the situational contrast (tickets, bodies, rice)."
+    },
+    {
+      "severity": "minor",
+      "location": "## What Visitors Are Actually Seeing — younger people",
+      "problem": "Generational slack is asserted without a survey; the “may” hedge is the only thing keeping it acceptable.",
+      "suggestion": "Keep the hedge; do not upgrade to “young people don’t care.”"
+    }
+  ]
+}

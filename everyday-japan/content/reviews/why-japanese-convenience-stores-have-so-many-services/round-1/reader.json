@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Opening mixed-queue scene answers the visitor question immediately.",
+    "Scope lock to the service stack (vs food/atmosphere sibling) is clear and useful.",
+    "Real-life scenarios and visitor tips are actionable."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Payment Culture — packaging cross-link paragraph",
+      "problem": "The packaging article link feels like a forced side trip and briefly derails the bill-payment explanation.",
+      "suggestion": "Cut the packaging cross-link; stay on slips, receipts, and payment interfaces."
+    },
+    {
+      "severity": "minor",
+      "location": "Parcels, Printing — vending machines paragraph",
+      "problem": "Vending comparison is interesting but secondary to the service-counter thesis.",
+      "suggestion": "Keep one short sentence max, or move to closing without draft caveats."
+    }
+  ]
+}

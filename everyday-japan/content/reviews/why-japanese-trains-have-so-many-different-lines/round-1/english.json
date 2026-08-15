@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Magazine cadence: short opening sentences, concrete nouns (green JR loop, Tokyu/Odakyu/Keio/Hankyu), little 'Japan is a country where' filler",
+    "Strong verbs and images: 'pile of operators,' 'drawer of logos,' 'the train changed worlds without asking you to stand up'",
+    "Interpretation is labeled; tone stays calm rather than wonder-clickbait"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## What This Is Not",
+      "problem": "Three stacked 'It is not the case that…' sentences sound like a brief, not a feature.",
+      "suggestion": "Vary openings: 'Not every Japanese town…' / 'IC cards did not make companies disappear.' / 'More lines do not always mean better service.'"
+    },
+    {
+      "severity": "minor",
+      "location": "## One City, Several Railways",
+      "problem": "'For visitors, the confusion is visual' is a mild stock contrast frame.",
+      "suggestion": "Stay in the scene: colors and English names multiply; commuters still memorize a route."
+    }
+  ]
+}

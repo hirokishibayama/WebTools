@@ -1,0 +1,37 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "No stock openers (‘Japan is a country where…’, ‘Many visitors notice one unusual thing’)",
+    "Short paragraphs, concrete verbs (toes near marks, tap a shoulder, hover at the counter)",
+    "Tone is magazine-calm, not travel-wonder",
+    "Closing instruction (‘Use the marks. Let people off.’) is native and useful"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Order You Can See — ‘polite salon’",
+      "problem": "‘They do not form a polite salon in the middle of the car’ is a strained metaphor.",
+      "suggestion": "‘They are not holding a polite little reception in the aisle’ or simply ‘they do not make a second polite queue in the aisle.’"
+    },
+    {
+      "severity": "minor",
+      "location": "Where the Myth Gets Too Clean — rain",
+      "problem": "‘The drawing just gets wet’ is clever but momentarily unclear (drawing = painted marks? geometry?).",
+      "suggestion": "‘The painted shape smears; the front of the line is still there.’"
+    },
+    {
+      "severity": "minor",
+      "location": "Why Careful Lines — ‘Interpretation:’",
+      "problem": "Label is editor-worksheet voice.",
+      "suggestion": "Drop the label; keep the sentence."
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ — ‘Not as a biological fact’",
+      "problem": "Slightly pedantic; nobody asked about biology.",
+      "suggestion": "‘Not by nature. Many are impatient and still stay in line…’"
+    }
+  ]
+}

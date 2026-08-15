@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "schedules": [
+    {
+      "id": "morning-factory",
+      "cron": "0 6 * * *",
+      "timezone": "Asia/Tokyo",
+      "command": "npm run scheduler",
+      "description": "Daily content factory: trend → score → produce → review queue"
+    },
+    {
+      "id": "analytics-feedback",
+      "cron": "0 22 * * *",
+      "timezone": "Asia/Tokyo",
+      "command": "npm run worker -- --queue=analytics --max=5",
+      "description": "Optional evening analytics (also included in scheduler)"
+    }
+  ],
+  "runners": ["cli", "github-actions", "cloud-run"],
+  "note": "CLI only for now. Wire cron / GHA / Cloud Run to the same npm scripts."
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Answers why so many machines with multi-factor explanation",
+    "FAQ hits vandalism myth, 24h, common purchase, hot cans",
+    "Natural keyword use (jidōhanbaiki, drinks, convenience)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "Cashless/IC payment question is common for visitors and only covered in body tips.",
+      "suggestion": "Optional one-line FAQ on coins vs IC/mobile variation."
+    }
+  ]
+}

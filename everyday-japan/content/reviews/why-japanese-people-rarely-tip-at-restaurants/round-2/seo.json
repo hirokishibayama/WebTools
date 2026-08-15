@@ -1,0 +1,10 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 94,
+  "status": "pass",
+  "strengths": [
+    "Title/intro/FAQ still match tipping-in-Japan restaurant intent.",
+    "Tax note is shorter and no longer competes with core intent."
+  ],
+  "issues": []
+}

@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Clear visitor hook: finished snack, no bin, tidy street contradiction",
+    "Practical scenarios and tips make the piece usable on the ground",
+    "Honest 'litter still exists' section prevents naive dropout"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Responsibility Moved Off the Sidewalk",
+      "problem": "The closing restates the same thesis three times (security + habit + disposal relocated), which slows the finish after a strong FAQ.",
+      "suggestion": "Keep one tight closing paragraph that lands the 'disposal relocated' insight; cut the repeated nuance paragraph."
+    },
+    {
+      "severity": "minor",
+      "location": "## Sorting Rules Shape Behavior",
+      "problem": "More institutional than scenic compared with konbini/station sections; some readers may skim.",
+      "suggestion": "Lead with one concrete apartment-morning bag scene before the rule list."
+    }
+  ]
+}

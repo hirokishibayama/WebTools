@@ -1,0 +1,40 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0 and major=0 after revision round 1",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 3,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 93,
+    "cultural_accuracy": 92,
+    "fact_source": 90,
+    "seo": 94,
+    "english": 91,
+    "originality": 91
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Why Service Is Treated as Included",
+      "problem": "Still a long multi-subhead section.",
+      "suggestion": "Optional future trim only.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Omotenashi subsection",
+      "problem": "Tourism-adjacent keyword remains, examples stay concrete.",
+      "suggestion": "Leave as-is.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Visitor/local parallel is slightly patterned.",
+      "suggestion": "Optional polish.",
+      "sources": ["english-naturalness"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "why-japanese-convenience-stores-feel-so-different",
+  "title": "Why Japanese Convenience Stores Feel So Different",
+  "introduction": {
+    "slug": "why-japanese-convenience-stores-feel-so-different",
+    "rewritten": false,
+    "introduction_score": 100,
+    "introduction_path": "assets/why-japanese-convenience-stores-feel-so-different/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-convenience-stores-feel-so-different",
+    "patched": false,
+    "japanese_perspective_score": 90,
+    "perspective_path": "assets/why-japanese-convenience-stores-feel-so-different/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 83,
+    "seo_quality": 92,
+    "overall": 86,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-05T15:15:39.420Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-05T15:15:39.421Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

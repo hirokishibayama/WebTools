@@ -1,0 +1,55 @@
+{
+  "slug": "why-japanese-vending-machines-are-everywhere",
+  "title": "Why Japanese Vending Machines Are Everywhere",
+  "introduction": {
+    "slug": "why-japanese-vending-machines-are-everywhere",
+    "rewritten": false,
+    "introduction_score": 100,
+    "introduction_path": "assets/why-japanese-vending-machines-are-everywhere/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-vending-machines-are-everywhere",
+    "patched": false,
+    "japanese_perspective_score": 95,
+    "perspective_path": "assets/why-japanese-vending-machines-are-everywhere/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 83,
+    "seo_quality": 92,
+    "overall": 86,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-11T06:05:03.783Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-11T06:05:03.783Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

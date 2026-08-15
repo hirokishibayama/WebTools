@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "overall_score": 85,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Learn the Pause — “Outdoor eating is already a special case.”",
+      "problem": "Overstates outdoor eating as special; contradicts Japanese everyday practice and the FAQ. The accurate uncommon pattern is eating while moving through a busy sidewalk.",
+      "suggestion": "Reframe: outdoor eating is common; walking-eating in commuter flow is the extra layer."
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "station wicket paragraph",
+      "problem": "Unsupported typical self-annoyance attributed to locals.",
+      "suggestion": "Delete the mood claim."
+    },
+    {
+      "severity": "minor",
+      "location": "middle and scenarios",
+      "problem": "Thesis and exception examples repeat.",
+      "suggestion": "Optional trim."
+    },
+    {
+      "severity": "minor",
+      "location": "Crowding section heading count",
+      "problem": "Three physical conditions vs four bold heads.",
+      "suggestion": "Fix count or pull interpretation out of the list."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 80,
+    "cultural_accuracy": 81,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 85,
+    "originality": 90
+  },
+  "final_summary": "PASS without a revision round: critical=0 and only one aggregated major, so the article was not patched. Legal and exception framing is sound (not a ban; festivals, ice cream, snack streets; outdoor eating exists; bins reinforce rather than cause the habit). The remaining major is a two-sentence overclaim that outdoor eating itself is a “special case.” Human editors may fix that line before publish; it does not fail the piece.",
+  "slug": "why-japanese-people-rarely-eat-while-walking",
+  "title": "Why Japanese People Rarely Eat While Walking",
+  "scored_at": "2026-08-15T22:30:00+09:00"
+}

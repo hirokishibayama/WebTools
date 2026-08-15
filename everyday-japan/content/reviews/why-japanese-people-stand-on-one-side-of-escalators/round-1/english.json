@@ -1,0 +1,23 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Concrete station scenes (morning rush, transfer pressure, luggage)",
+    "Mostly calm magazine tone without wonder-clickbait"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "opening / closing",
+      "problem": "Stock opener and a slightly sermonizing close (“one step, one lane, one commute at a time”).",
+      "suggestion": "Sharpen the first line; shorten the final cadence if it feels slogan-like."
+    },
+    {
+      "severity": "minor",
+      "location": "throughout",
+      "problem": "Occasional explanatory stacking (“The deeper point remains…”) reads a bit editorial-template.",
+      "suggestion": "Prefer scene → implication without meta signposting."
+    }
+  ]
+}

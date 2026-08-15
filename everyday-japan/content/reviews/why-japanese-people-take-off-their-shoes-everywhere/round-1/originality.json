@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Portable cleanliness boundary angle differentiates from a generic genkan/homes explainer",
+    "School cleaning link and zone cascade (outdoor → indoor → bathroom) add Everyday Japan value",
+    "Explicitly distinguishes from the homes and bathrooms sibling topics"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "opening + corpus pattern",
+      "problem": "Shared stock opener and similar section rhythm with other Daily Life pieces reduce distinctive voice at first glance",
+      "suggestion": "Lead with a sharper scene unique to shoe-boundary reading so the article does not feel interchangeable with siblings"
+    }
+  ]
+}

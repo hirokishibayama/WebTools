@@ -1,0 +1,36 @@
+{
+  "reviewer": "fact-source",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Does not claim tipping is illegal.",
+    "Service charge framed as printed pricing, not folklore percentages.",
+    "Consumption-tax vs tip confusion is correctly hedged."
+  ],
+  "verified": [
+    "Tipping is not customary in most everyday Japanese restaurants.",
+    "Staff often return leftover cash believing it was forgotten change.",
+    "Some venues add a printed service charge (sābisu-ryō)."
+  ],
+  "questionable": [
+    "Many employees are told to return forgotten items and unclear cash promptly."
+  ],
+  "unsupported": [
+    "Implied nationwide staff-training curriculum for tip returns."
+  ],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Why Service Is Treated as Included — Staff training paragraph",
+      "problem": "“Many employees are told…” asserts workplace training content without evidence and reads like a verified institutional fact.",
+      "suggestion": "Hedge to operational practice: leftover table cash often looks like forgotten change, so staff commonly return it quickly."
+    },
+    {
+      "severity": "minor",
+      "location": "Pricing and labor assumptions",
+      "problem": "No invented percentages, but readers may still want one non-numeric cue for when service charges appear.",
+      "suggestion": "Keep qualitative triggers (groups, private rooms, luxury) without fabricating rates."
+    }
+  ]
+}

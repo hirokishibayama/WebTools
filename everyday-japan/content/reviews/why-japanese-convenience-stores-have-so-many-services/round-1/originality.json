@@ -1,0 +1,24 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Explicit service-stack scope and sibling cross-link create intentional differentiation.",
+    "Density / hours / predictable chains causal model is stronger than a services listicle.",
+    "“What This Is Not” adds editorial spine beyond tourism FAQ clones."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Overlap with why-japanese-convenience-stores-feel-so-different",
+      "problem": "Bill/ATM/parcel/print inventory and some scenarios still echo the sibling’s “Services That Extend Beyond Shopping” section closely enough to risk feeling like a split of the same piece.",
+      "suggestion": "Lean harder into migration/why-accumulation and payment-slip culture; make scenarios counter-only and less food-adjacent; keep food/atmosphere strictly in the sibling."
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios",
+      "problem": "Package commute and traveler cash loop parallel sibling scenarios.",
+      "suggestion": "Retune details toward paperwork timing, mixed-queue staff switching, or slip-only visits."
+    }
+  ]
+}

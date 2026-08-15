@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Title/intro match the searcher’s “what does daijoubu mean / why so often” intent",
+    "H2s map naturally to meanings, forms, tips, and FAQ",
+    "FAQ answers yes/no ambiguity and bag refusal directly",
+    "Internal links to sumimasen / soft-no / bow support topical cluster without stuffing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "seo_title / body spelling",
+      "problem": "Mix of daijoubu / daijōbu is intentional for search vs. accuracy but can look inconsistent in SERP snippets",
+      "suggestion": "Keep as-is; optional one-line note already covers pronunciation"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Explains density as lived pattern plus commercial placement math",
+    "Safety section prevents the myth readers arrive with",
+    "Tips and FAQ match traveler needs (hot/cold, bins, konbini vs machine)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "opening",
+      "problem": "Same stock “Many visitors…” opener as sibling articles.",
+      "suggestion": "Open on the glowing box / hot-cold choice."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Washlet-style seats with multi-button panels are widespread but not universal in Japan.",
+      "status": "supported",
+      "note": "Body correctly notes older/simple toilets still exist."
+    },
+    {
+      "claim": "Common functions include rear wash, bidet wash, stop, dryer, heat, and sometimes flush/sound.",
+      "status": "supported",
+      "note": "Exact icons vary by brand; article avoids a fake universal keymap."
+    },
+    {
+      "claim": "Feature stacking grew through manufacturer competition since late-20th-century adoption.",
+      "status": "supported-with-softening",
+      "note": "Keep as historical interpretation; no need for precise first-year claims without citation."
+    },
+    {
+      "claim": "Most wash functions require a button press rather than auto-spraying on sit.",
+      "status": "supported",
+      "note": "Mention sensor lid/seat surprises separately from wash activation."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Never claim every toilet in Japan has a dense remote.",
+    "Do not imply Japanese people consciously celebrate 'futuristic toilets' daily.",
+    "Keep differentiation from the broader bathrooms article explicit."
+  ],
+  "notes": [
+    "Focus remains UX/anxiety/feature pile-up, not bathing system or public restroom cleanliness overview.",
+    "Human review required; status review only."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "reviewer": "fact-source",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Removed unverified cross-city crime-rate comparison",
+    "FAQ safety aligned with hedged body language",
+    "Theft and chikan remain as real risks without new invented stats"
+  ],
+  "verified": [
+    "Inemuri as cultural concept",
+    "Women-only cars on some lines/hours"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Quiet Cars, Relative Safety, and Real Risks",
+      "problem": "'Orderly enough' is experiential and soft—appropriate, but still a generalization.",
+      "suggestion": "Current hedge is acceptable; do not reintroduce rate comparisons."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=0; only minor polish items. Tokyo left / Osaka right verified as correctly framed.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 8,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 94,
+    "fact_source": 88,
+    "seo": 93,
+    "english": 86,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "opening",
+      "problem": "Formulaic visitor opener before the escalator scene",
+      "suggestion": "Lead with the empty-lane image",
+      "sources": [
+        "reader-experience",
+        "english-naturalness"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Why the Empty Lane Exists / Station Culture",
+      "problem": "Mild repetition of sorting logic and familiar station-manners checklist",
+      "suggestion": "Trim restatement; keep capacity debate and one concrete bridge",
+      "sources": [
+        "reader-experience",
+        "editorial-originality"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "origin paragraph",
+      "problem": "Popular historical lore without named source (already hedged)",
+      "suggestion": "Keep hedge; do not harden",
+      "sources": [
+        "fact-source",
+        "cultural-accuracy"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Station Culture bowing link",
+      "problem": "Analogy to bowing is stretched",
+      "suggestion": "Soften or remove",
+      "sources": [
+        "japanese-perspective"
+      ]
+    }
+  ],
+  "tokyo_osaka_check": {
+    "tokyo": "stand left / walk right — correct",
+    "osaka": "stand right / walk left — correct",
+    "hedging": "tendency not absolute; safety campaigns noted — good"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 76,
+  "status": "revise",
+  "strengths": [
+    "Omiyage, temiyage, ochugen/oseibo, and okaeshi are correctly treated as different social jobs, not one “gift-loving” trait.",
+    "Ceremonial decline is hedged as 2020s reporting (compliance, kyorei haishi, fewer habitual ochugen givers) rather than “the custom is dead.”",
+    "Not-all-Japanese and not-every-hello are stated clearly; café vs home vs office scales are right.",
+    "Host gifts are separated from restaurant tipping; packaging is a visibility note, not a wrapping-design essay.",
+    "Temiyage is not claimed as uniquely Japanese empty-handed etiquette—only more standardized in shop-bag form."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "What Visitors Over-Read — hospital visits and funerals",
+      "problem": "Lumps お見舞い and 香典 into one rule set (“flowers, incense money, no flashy wrapping”) and tells readers not to copy omiyage logic at hospitals. Hospital visits commonly do use fruit, sweets, or flowers (with item taboos), which is closer to temiyage than to funeral money. Funerals are a different channel (condolence money, muted wrapping, later okaeshi). The bundle can scare visitors off an appropriate sick-visit gift or mix celebratory/travel logic with 不祝儀.",
+      "suggestion": "Split the two: hospital お見舞い is still a modest food/flower visit gift with extra don’ts (ask locally); funerals are money and condolence wrapping, not office cookies. Keep “ask / look it up” without flattening the two events."
+    },
+    {
+      "severity": "minor",
+      "location": "Definition of temiyage",
+      "problem": "Temiyage is framed only as a home-visit bag. The same word is used for other visits (including some business calls). Fine for travelers, slightly narrow as a definition.",
+      "suggestion": "Keep the home-visit focus; add a clause that the same modest-bag logic can apply when visiting someone, not only apartments."
+    },
+    {
+      "severity": "minor",
+      "location": "Why Gifts Do Social Work / stacked calendars",
+      "problem": "Commercial calendars such as Valentine’s and White Day are another reason gifts feel frequent, especially to visitors who see chocolate displays. Omitting them is acceptable scope, but “trips, visits, ceremonies” is not the whole stack.",
+      "suggestion": "Optional one clause that retail love-day chocolate is a different, more commercial layer—do not turn the article into a Valentine explainer."
+    },
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — two hands",
+      "problem": "Receiving with two hands is common manners advice, not a universal casual-home rule among friends.",
+      "suggestion": "Hedge as a safe default with people you do not know well."
+    }
+  ]
+}

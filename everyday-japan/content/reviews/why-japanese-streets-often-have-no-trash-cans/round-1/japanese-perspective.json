@@ -1,0 +1,24 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Conditional bins (konbini customer vs machine vs home) match how locals actually read street space",
+    "Carry-home friction is admitted—complaints, sticky wrappers, tourist bags—not only ideal manners",
+    "Generational split on 1995 memory vs bin scarcity as 'normal' feels locally true"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Carry-Home Trash as Everyday Norm",
+      "problem": "Labeling the habit **mochikaeri** presents takeout jargon as if it were the everyday name for carrying trash home. Locals say ゴミを持って帰る; 持ち帰り usually means takeaway food.",
+      "suggestion": "Drop mochikaeri as a trash-habit label; describe carrying waste home in plain English, optionally noting takeaway packaging as a separate mochikaeri (持ち帰り) context."
+    },
+    {
+      "severity": "minor",
+      "location": "## Litter Still Exists — Keep the Picture Honest",
+      "problem": "'Many Japanese people take pride in not littering' edges toward national character talk even though the next sentences balance it.",
+      "suggestion": "Anchor in practice: 'Many people treat street litter as a personal failure of manners' rather than pride as a national trait."
+    }
+  ]
+}

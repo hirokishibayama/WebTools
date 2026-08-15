@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 83,
+  "status": "pass",
+  "strengths": [
+    "Panel-as-comfort-remote framing is concrete and non-exotic",
+    "Anxiety section uses specific failure modes instead of vague ‘surprising culture’ language",
+    "Closing stays practical (find stop, flush) rather than wonder-tone"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "opening paragraph",
+      "problem": "‘Many visitors to Japan notice one unusual thing.’ is the same stock template opener used in sibling articles",
+      "suggestion": "Open inside the stall with the panel itself (icons, dual flush + remote) without the generic unusual-thing sentence"
+    },
+    {
+      "severity": "minor",
+      "location": "This Is About the Panel — ‘exported into hotels…’",
+      "problem": "Slightly abstract product-export phrasing; readable but a touch corporate",
+      "suggestion": "Prefer a visitor-facing line about bilingual labels lagging behind installation"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Hook scenes (bag, fatigue check, suitcase) make the visitor question immediate",
+    "Early payoff: one word covers several English routines",
+    "Visitor tips and FAQ give a clear reason to finish",
+    "“When Daijoubu Is Not Enough” prevents overlearning the soft tool"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Soft “No Thanks” / Real-Life Scenes / Why the Word Feels Constant",
+      "problem": "The bag-offer + daijoubu soft-no illustration repeats across multiple sections, creating mild mid-article fatigue",
+      "suggestion": "Keep one fully worked soft-no scene early; later sections can nod briefly or vary the extra (ice, tray help) without re-teaching the same lesson"
+    },
+    {
+      "severity": "minor",
+      "location": "Overall length",
+      "problem": "Phrase inventory and form notes are useful but add a second “catalog” beat after the main aha",
+      "suggestion": "Keep the forms section; trim one redundant reassurance example if cutting is needed"
+    }
+  ]
+}

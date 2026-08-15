@@ -1,0 +1,26 @@
+{
+  "reviewer": "fact-source",
+  "score": 55,
+  "status": "fail",
+  "strengths": [
+    "No fake survey percentages",
+    "Direct-refusal counterexamples (policy, safety, medical) are accurate as categories",
+    "Soft tools (chotto, daijoubu, alternatives) described as common, not universal"
+  ],
+  "verified": [
+    "Trailing chotto… can function as a polite refusal",
+    "Daijōbu desu after offers often means soft no thanks",
+    "Direct refusal occurs for rules, safety, and strong preference"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "critical",
+      "location": "What Visitors Misread — *kannō shimasu*",
+      "problem": "Romanization/lexeme error: kannō shimasu is not standard Japanese for “I’ll consider it”; correct is kentō shimasu (検討します)",
+      "suggestion": "Correct the Japanese term; do not invent an alternate reading"
+    }
+  ]
+}

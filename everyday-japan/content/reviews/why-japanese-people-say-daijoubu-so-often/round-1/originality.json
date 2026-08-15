@@ -1,0 +1,19 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Core angle is lexical/pragmatic: one compact word doing several English jobs",
+    "Unique value vs. companion soft-no piece: reassurance, forms (desu / ja nai), when soft word fails, frequency-as-perception",
+    "Cross-links position this as the word explainer in a language-manners cluster",
+    "“Punctuation” / micro-check framing is more than tourism-phrasebook copy"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Daijoubu as a Soft “No Thanks” + shared bag/service scenes vs. avoid-saying-no article",
+      "problem": "Soft-refusal teaching and bag-offer scenes substantially overlap the companion article’s territory; risk of two near-identical lessons in the cluster",
+      "suggestion": "Keep soft-no as one necessary meaning with a tight example and a clear pointer to the companion piece; protect uniqueness in reassurance, forms, medical/deadline limits, and why visitors overhear it constantly"
+    }
+  ]
+}

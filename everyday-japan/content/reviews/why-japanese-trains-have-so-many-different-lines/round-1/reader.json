@@ -1,0 +1,30 @@
+{
+  "reviewer": "reader-experience",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Opening scene (three disagreeing maps, IC cards that do not unify the lines) makes the visitor problem immediate",
+    "Through-running is the clearest aha: stay seated while company names change",
+    "Visitor tips and FAQ are usable in a station: say the line name, do not treat Yamanote as subway, check last trains per operator"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## One City, Several Railways",
+      "problem": "The paragraph that announces what this article is and is not (punctuality vs plurality) reads like an editor's note and can stall momentum after the Paris/New York contrast.",
+      "suggestion": "Keep a short pointer to the punctuality piece, but fold it into one sentence instead of a meta thesis statement."
+    },
+    {
+      "severity": "minor",
+      "location": "## Why So Many Companies Were Allowed to Remain",
+      "problem": "Queueing and escalator-lane asides pull the reader into manners/punctuality just as the history is landing.",
+      "suggestion": "If the history section needs a station-design beat, keep transfer-walk length; drop door-queue causation."
+    },
+    {
+      "severity": "minor",
+      "location": "IC cards / company split (intro, live-inside-patchwork, What This Is Not, FAQ)",
+      "problem": "Payment-is-not-merger is taught three times. Worth repeating once; the fourth pass feels like a loop.",
+      "suggestion": "Keep the strongest version in What This Is Not and let earlier mentions stay one clause."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "overall_score": 91,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "opening",
+      "problem": "Formulaic visitor opener before the escalator scene",
+      "suggestion": "Lead with the empty-lane image",
+      "sources": [
+        "reader-experience",
+        "english-naturalness"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Why the Empty Lane Exists / Station Culture",
+      "problem": "Mild repetition of sorting logic and familiar station-manners checklist",
+      "suggestion": "Trim restatement; keep capacity debate and one concrete bridge",
+      "sources": [
+        "reader-experience",
+        "editorial-originality"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "origin paragraph",
+      "problem": "Popular historical lore without named source (already hedged)",
+      "suggestion": "Keep hedge; do not harden",
+      "sources": [
+        "fact-source",
+        "cultural-accuracy"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Station Culture bowing link",
+      "problem": "Analogy to bowing is stretched",
+      "suggestion": "Soften or remove",
+      "sources": [
+        "japanese-perspective"
+      ]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 94,
+    "fact_source": 88,
+    "seo": 93,
+    "english": 86,
+    "originality": 90
+  },
+  "final_summary": "PASS. Tokyo stand-left / Osaka stand-right is accurate and carefully hedged; no critical or major issues. Minor polish only (opener, mild repetition). No revision round required.",
+  "slug": "why-japanese-people-stand-on-one-side-of-escalators",
+  "title": "Why Japanese People Stand on One Side of Escalators",
+  "scored_at": "2026-08-11T06:37:44.125Z",
+  "changes": []
+}

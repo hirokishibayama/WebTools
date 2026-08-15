@@ -1,0 +1,48 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (mochikaeri term misuse; padded/triple closing)",
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 82,
+    "cultural_accuracy": 78,
+    "fact_source": 90,
+    "seo": 92,
+    "english": 85,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "## Carry-Home Trash as Everyday Norm — mochikaeri",
+      "problem": "mochikaeri is misused as the name for carrying trash home; in everyday Japanese it mainly means takeaway food.",
+      "suggestion": "Remove the trash-habit label; describe carrying waste home in plain language.",
+      "sources": ["cultural-accuracy", "japanese-perspective"]
+    },
+    {
+      "severity": "major",
+      "location": "## Responsibility Moved Off the Sidewalk",
+      "problem": "Closing restates the same disposal-relocated thesis multiple times.",
+      "suggestion": "Trim to one decisive closing with a concrete image.",
+      "sources": ["reader-experience", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "## Sorting Rules Shape Behavior",
+      "problem": "Slightly institutional mid-article density.",
+      "suggestion": "Optional concrete apartment-morning cue; not required if majors fixed first.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "intro bridge / litter pride line / FAQ tourist where-to-throw",
+      "problem": "Small polish items only.",
+      "suggestion": "Fix only if touching nearby text; do not invent new FAQ facts.",
+      "sources": ["english-naturalness", "japanese-perspective", "seo-search-intent"]
+    }
+  ],
+  "priority_notes": [
+    "Preserve careful 1995 non-sole-cause hedges; do not strengthen causation.",
+    "Do not invent first-person Japanese anecdotes while fixing mochikaeri."
+  ]
+}

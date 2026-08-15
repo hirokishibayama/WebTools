@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Title/intro match the traveler question about shoe removal beyond homes",
+    "H2s cover genkan, why, schools, public venues, tips, FAQ without keyword stuffing",
+    "FAQ answers adjacent queries (bare feet, schools, tatami, offices)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "title vs body",
+      "problem": "‘Everywhere’ in the title matches search phrasing but can overpromise; body already narrows correctly",
+      "suggestion": "Keep title for intent; ensure early paragraphs continue to redefine ‘everywhere’ as declared indoor living-style zones (already largely done)"
+    }
+  ]
+}

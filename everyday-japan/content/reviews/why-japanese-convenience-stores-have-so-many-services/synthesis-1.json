@@ -1,0 +1,64 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (draft meta cross-link; forced packaging digression; sibling overlap)",
+  "critical_count": 0,
+  "major_count": 3,
+  "minor_count": 7,
+  "skill_scores": {
+    "reader": 85,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 92,
+    "fact_source": 84,
+    "seo": 92,
+    "english": 76,
+    "originality": 82
+  },
+  "priority_notes": [
+    "Must stay differentiated from why-japanese-convenience-stores-feel-so-different.",
+    "English draft-meta wording is an easy high-priority fix.",
+    "SEO alone must not drive rewrite; originality/reader focus does."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "id": "konbini-meta-live",
+      "location": "Parcels/Printing vending cross-link",
+      "problem": "“When that story is live…” is draft/meta language unsuitable for publication.",
+      "suggestion": "Replace with a normal cross-link or remove the publishing caveat.",
+      "sources": ["english-naturalness"]
+    },
+    {
+      "severity": "major",
+      "id": "konbini-packaging-digression",
+      "location": "Payment Culture packaging paragraph",
+      "problem": "Packaging cross-link derails bill-payment intent and weakens service-stack focus.",
+      "suggestion": "Delete packaging link; stay on slips and payment interfaces.",
+      "sources": ["reader-experience", "seo-search-intent"]
+    },
+    {
+      "severity": "major",
+      "id": "konbini-sibling-overlap",
+      "location": "Service inventory + scenarios vs feel-so-different",
+      "problem": "Residual echo of the sibling’s services section and shared scenario shapes.",
+      "suggestion": "Sharpen why-services-migrated angle; retune scenarios to slip-only / mixed-queue paperwork; keep food atmosphere in the sibling.",
+      "sources": ["editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-printer-history",
+      "location": "Printing paragraph",
+      "problem": "Historical home-printer claim is soft/unsupported.",
+      "suggestion": "Hedge or emphasize last-minute demand instead.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-amazon-brand",
+      "location": "Scenarios / local perspective",
+      "problem": "Brand-specific Amazon example is narrower than needed.",
+      "suggestion": "Use generic e-commerce wording.",
+      "sources": ["fact-source"]
+    }
+  ]
+}

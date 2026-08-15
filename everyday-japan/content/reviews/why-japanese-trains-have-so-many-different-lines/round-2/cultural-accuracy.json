@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Path dependence vs mystique remains the right frame",
+    "Regional limit (not every town is a rainbow metro) and two Tokyo subway operators are correct",
+    "Manners are no longer falsely caused by operator plurality"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "**Municipal and metro subways as extra layers**",
+      "problem": "'The Tokyo subway map is already a merger of systems' can sound as if Tokyo Metro and Toei fused. They share printed maps more than they share a company.",
+      "suggestion": "Optional: 'tourist maps already draw two operators as one rainbow.'"
+    }
+  ]
+}

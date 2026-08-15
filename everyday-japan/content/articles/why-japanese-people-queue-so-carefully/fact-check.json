@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many platforms print boarding positions so doors meet pre-formed lines.",
+      "status": "supported",
+      "note": "Common operator practice; not every rural platform."
+    },
+    {
+      "claim": "Japanese people never cut lines.",
+      "status": "false-stereotype",
+      "note": "Article rejects this."
+    },
+    {
+      "claim": "Queuing is unique to Japan.",
+      "status": "unsupported",
+      "note": "Article compares; other societies queue well."
+    },
+    {
+      "claim": "School lunch lines and evacuation drills socialize waiting.",
+      "status": "supported",
+      "note": "Common educational practice; implementation varies by school."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

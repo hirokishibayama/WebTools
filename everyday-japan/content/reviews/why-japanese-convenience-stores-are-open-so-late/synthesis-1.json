@@ -1,0 +1,81 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (bathroom as night kit; OTC/children’s medicine as typical konbini buy)",
+  "critical_count": 0,
+  "major_count": 2,
+  "minor_count": 5,
+  "skill_scores": {
+    "reader": 82,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 78,
+    "fact_source": 78,
+    "seo": 91,
+    "english": 86,
+    "originality": 88
+  },
+  "priority_notes": [
+    "Fact and cultural accuracy veto a pass until visitor-facing amenities are hedged.",
+    "Seven-Eleven ~1400 / ~6% (2026) must stay hedged; do not freeze or inflate into a sector-wide minority.",
+    "Keep hours differentiated from feel-so-different and so-many-services.",
+    "SEO alone must not drive rewrite."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "id": "konbini-hours-bathroom",
+      "location": "Train-shaped days — bathroom in one box",
+      "problem": "Customer toilets are not a standard konbini amenity; listing them as part of missed-train infrastructure misleads visitors.",
+      "suggestion": "Drop bathroom from the guaranteed list; hedge if mentioned at all.",
+      "sources": ["fact-source", "cultural-accuracy", "reader-experience"]
+    },
+    {
+      "severity": "major",
+      "id": "konbini-hours-otc-medicine",
+      "location": "Night-store uses + 3 a.m. parent scenario",
+      "problem": "Fever/children’s medicine is not ordinary konbini inventory. OTC is limited and store-dependent; drugstores do that job more often.",
+      "suggestion": "Replace with a typical night buy or hedge “limited OTC at some stores.” Do not invent pharmacy stock.",
+      "sources": ["fact-source", "cultural-accuracy", "reader-experience", "japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-2024-minority",
+      "location": "Late Does Not Mean Every Store — 2024 sentence",
+      "problem": "“Noticeable minority” across major chains can inflate the reversal beside Seven-Eleven’s ~6% 2026 hedge.",
+      "suggestion": "Keep the 7-Eleven figure hedged; make post-2019 flexibility qualitative, not a cross-chain percentage.",
+      "sources": ["fact-source", "cultural-accuracy", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-instrument-metaphor",
+      "location": "How Japanese People Use the Night Store",
+      "problem": "“Weather and transport instrument” is editor language, not local phrasing.",
+      "suggestion": "Describe umbrella and missed-train actions in plain English.",
+      "sources": ["japanese-perspective", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-slogan-tip",
+      "location": "Visitor Tips — last bullet",
+      "problem": "“End of Japanese convenience” is slogan-like.",
+      "suggestion": "End on finding the next node.",
+      "sources": ["english-naturalness", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-sibling-causes",
+      "location": "Why Late Hours Fit — service stacking / disaster",
+      "problem": "Cause list overlaps sibling konbini articles if expanded.",
+      "suggestion": "Keep each beat to why the door stays open; no extra inventory.",
+      "sources": ["editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-closing-cute",
+      "location": "Closing — “That compromise is being edited.”",
+      "problem": "Slightly cute verb after a stronger “renegotiating” in history.",
+      "suggestion": "Optional align with “renegotiated.”",
+      "sources": ["english-naturalness"]
+    }
+  ]
+}

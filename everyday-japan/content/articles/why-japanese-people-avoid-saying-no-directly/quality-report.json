@@ -1,0 +1,58 @@
+{
+  "slug": "why-japanese-people-avoid-saying-no-directly",
+  "title": "Why Japanese People Avoid Saying “No” Directly",
+  "introduction": {
+    "slug": "why-japanese-people-avoid-saying-no-directly",
+    "rewritten": false,
+    "introduction_score": 100,
+    "introduction_path": "assets/why-japanese-people-avoid-saying-no-directly/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-avoid-saying-no-directly",
+    "patched": false,
+    "japanese_perspective_score": 95,
+    "perspective_path": "assets/why-japanese-people-avoid-saying-no-directly/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 83,
+    "seo_quality": 92,
+    "overall": 86,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-11T06:05:03.774Z",
+    "prompt_version": "1.0.0",
+    "slug": "why-japanese-people-avoid-saying-no-directly",
+    "title": "Why Japanese People Avoid Saying “No” Directly",
+    "mock": true
+  },
+  "scored_at": "2026-08-11T06:05:53.389Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

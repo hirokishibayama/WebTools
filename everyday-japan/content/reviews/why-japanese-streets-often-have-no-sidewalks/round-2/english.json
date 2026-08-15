@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Opening scene and hallway metaphor still concrete",
+    "Oracular 'waiting' and 'riddle' closers are gone",
+    "Tips stay imperative and physical"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor tips — 'moving blockade'",
+      "problem": "Slightly writerly for a tip list.",
+      "suggestion": "Optional: 'you block the only passing gap.'"
+    }
+  ]
+}

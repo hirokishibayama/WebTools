@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Hook is a real turn off a station boulevard; the shared-surface scene answers why to keep reading",
+    "Rosokutai versus curb is the aha visitors actually need",
+    "Tips and FAQ are usable on a first walk; the piece does not pretend every street is the same"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## How Japanese People Walk These Roads — genkan paragraph",
+      "problem": "The shoe-off / genkan aside pauses the walking-rules thread. Foreign readers may wonder why the house threshold suddenly appeared.",
+      "suggestion": "Keep at most one sentence tying outside grit to the street, or drop the genkan link so the mixed-room walking advice stays in one flow."
+    },
+    {
+      "severity": "minor",
+      "location": "## Painted Strips Are Not Sidewalks — eating-while-walking link",
+      "problem": "The food-in-motion detour is plausible but mid-explanation of paint versus curb; some readers will skim.",
+      "suggestion": "One clause is enough, or move the thought into tips; do not expand into a second topic."
+    }
+  ]
+}

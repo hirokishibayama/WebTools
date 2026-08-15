@@ -1,0 +1,19 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Soft refusal framed as everyday habit and face-saving, not performance for tourists",
+    "Locals reading chotto… as the refusal itself matches lived interaction",
+    "Variation (iya among friends, industry/generation differences, online bluntness) keeps the lens honest",
+    "No invented first-person Japanese diary voice"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Refusal Feels — childhood modeling paragraph",
+      "problem": "Slightly broad “growing up” framing",
+      "suggestion": "Acceptable with existing variation hedges; optional soften to “people often learn…”"
+    }
+  ]
+}

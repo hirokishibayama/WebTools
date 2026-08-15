@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "overall_score": 90,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Service inventory bullets",
+      "problem": "High-level function list still overlaps sibling topic inventory; thesis and scenarios keep pieces complementary.",
+      "suggestion": "No further rewrite required."
+    },
+    {
+      "severity": "minor",
+      "location": "1970s expansion mention",
+      "problem": "Qualitative history without cite (acceptable at current certainty).",
+      "suggestion": "Add a source only if introducing numbers later."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 93,
+    "fact_source": 89,
+    "seo": 93,
+    "english": 91,
+    "originality": 88
+  },
+  "final_summary": "PASS after one revision. Fixed draft-meta cross-link, removed packaging digression, retuned scenarios to counter errands, and kept clear differentiation from why-japanese-convenience-stores-feel-so-different. Ready to publish after light human glance if desired.",
+  "slug": "why-japanese-convenience-stores-have-so-many-services",
+  "title": "Why Japanese Convenience Stores Have So Many Services",
+  "scored_at": "2026-08-11T15:30:00+09:00",
+  "differentiation": {
+    "sibling": "why-japanese-convenience-stores-feel-so-different",
+    "this_article_focus": "service-stack migration, payment slips, parcels/printing/ATMs as errand infrastructure",
+    "sibling_focus": "food, atmosphere, neighborhood rhythm, konbini as daily hub"
+  }
+}

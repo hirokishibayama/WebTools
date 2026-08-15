@@ -1,0 +1,17 @@
+{
+  "verdict": "pass",
+  "quality_score": 84,
+  "verified_facts": [
+    "Major chains commonly combine retail with ATMs, slip payment, parcels, and printing.",
+    "Service availability varies by store; absolute nationwide uniformity is incorrect.",
+    "Tourist-relevant services center on ATMs, food, and some logistics—not utility bills."
+  ],
+  "needs_citation": [
+    "Any future numeric claim about total konbini count or exact fee schedules should cite current industry or government sources."
+  ],
+  "bias": [],
+  "outdated": [],
+  "unsupported": [
+    "No claim that konbini fully replace banks or government offices."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "reviewer": "fact-source",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "No invented yen amounts for ご祝儀, 香典, or department-store boxes.",
+    "Ochugen/oseibo decline is framed as 2020s reporting and surveys, not a census.",
+    "Practice definitions (shareable travel food, home-visit bag, mid-year/year-end courtesy, return gifts) match ordinary usage.",
+    "Interpretation of stacked calendars is labeled; tipping is correctly a different channel."
+  ],
+  "verified": [
+    "Omiyage is typically a trip souvenir, often shareable food for workplace or family—not a unique artisan object for one friend.",
+    "Temiyage is a modest item brought when visiting, especially a home.",
+    "Ochugen and oseibo are mid-year and year-end seasonal gifts historically aimed at people one is socially indebted to.",
+    "Okaeshi is a return gift after weddings, funeral incense money, or a large favor.",
+    "虚礼廃止 (kyorei haishi) is a real Japanese phrase for dropping empty formality, including seasonal gifts.",
+    "Many companies restrict or refuse gifts under compliance / anti-bribery rules.",
+    "Restaurant tipping is not the same custom as a host gift.",
+    "A first refusal of a small temiyage is often 遠慮; a hard refusal can read as rejecting the visit."
+  ],
+  "questionable": [
+    "“Surveys show fewer people saying they never miss ochugen” — plausible press/Hakuhodo-style wording, but the article does not name a survey and attributes it under “department-store campaign reporting.”",
+    "Lifetime-employment decline plus tighter compliance as the explanation that seasonal accounting “looks like a leftover corporate ritual” — real pressures exist; other drivers (cost, nuclear households, time, e-gifting, COVID) are omitted and the causal tone is firmer than the evidence shown.",
+    "Classroom regional snacks after summer break — happens, but allergy rules and school policy vary; “may” is the right verb and should not harden."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Ceremonial-market shrinkage (keep as press/market-research reporting; do not add fake percentages).",
+    "Hospital vs funeral item rules — not a citation gap so much as a merged, inaccurate rule list that should be split rather than sourced as one fact."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "What Visitors Over-Read — hospital visits and funerals",
+      "problem": "States a single item-rule package (flowers, incense money, no flashy wrapping) for two different institutions. That is not an accurate fact bundle. Hospital お見舞い gifts are often food or flowers; funerals center on 香典 and condolence presentation. “Do not copy omiyage logic there” overclaims for hospitals.",
+      "suggestion": "Untangle the two events. Do not invent yen figures or a complete 香典 table. Tell readers to ask locally."
+    },
+    {
+      "severity": "minor",
+      "location": "“So Often” Is a Cluster — surveys / 2020s reporting",
+      "problem": "One sentence hangs company bans, household 虚礼廃止, and “never miss ochugen” surveys on department-store campaign reporting. The hedge is present; the attribution is sloppy.",
+      "suggestion": "Keep hedges; say press and market surveys describe a shrinking ceremonial market. Do not invent a year, firm, or percentage."
+    },
+    {
+      "severity": "minor",
+      "location": "Why Gifts Do Social Work — Seasonal accounting",
+      "problem": "Employment instability and compliance are presented as the reason the twice-yearly settle-up looks leftover.",
+      "suggestion": "Hedge as one reason among several; do not add new statistics."
+    }
+  ]
+}

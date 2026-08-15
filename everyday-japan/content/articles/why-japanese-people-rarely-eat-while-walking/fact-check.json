@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Eating while walking is generally not illegal.",
+      "status": "supported",
+      "note": "No general criminal ban; private sites/events may restrict."
+    },
+    {
+      "claim": "Japanese people never eat while walking.",
+      "status": "false-stereotype",
+      "note": "Festivals, ice cream, tourist streets."
+    },
+    {
+      "claim": "Ekiben on long-distance trains is socially normal; messy food on packed commuter cars is less so.",
+      "status": "supported",
+      "note": "Common manners distinction."
+    },
+    {
+      "claim": "Bin scarcity fully causes the manners rule.",
+      "status": "unsupported",
+      "note": "Article treats it as reinforcing, not sole cause."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

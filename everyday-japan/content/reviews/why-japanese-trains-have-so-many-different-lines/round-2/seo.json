@@ -1,0 +1,11 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title, intro, and FAQ still answer why so many companies/colors",
+    "Off-intent queue/escalator links are gone from the history section",
+    "Related punctuality link is one sentence and correctly marked as a different question"
+  ],
+  "issues": []
+}

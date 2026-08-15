@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Stock visitor-notice opener removed.",
+    "Dramatic “moral completion” wording replaced.",
+    "Tone stays calm magazine feature English."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Parallel “A visitor sees… / A local sees…” is slightly patterned but effective.",
+      "suggestion": "Optional polish only."
+    }
+  ]
+}

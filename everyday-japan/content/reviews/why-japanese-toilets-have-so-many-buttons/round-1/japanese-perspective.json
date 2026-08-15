@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Rice-cooker comparison and ‘preferred pressure left as-is’ capture ordinary appliance fluency",
+    "Locals notice broken dryers/missing batteries as inconvenience — not futurism pride",
+    "Slippers vs buttons split keeps spatial etiquette separate from product UX"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Functions Piled Up — packaging cross-link",
+      "problem": "Packaging parallel is more brand-house style than a Japanese everyday association with toilet remotes",
+      "suggestion": "Keep feature-competition explanation; soften or remove the packaging analogy"
+    }
+  ]
+}

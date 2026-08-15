@@ -1,0 +1,30 @@
+{
+  "round": 1,
+  "edited_paths": [
+    "content/articles/why-japanese-streets-often-have-no-sidewalks/article.md",
+    "content/drafts/why-japanese-streets-often-have-no-sidewalks/draft.md"
+  ],
+  "changes": [
+    {
+      "issue": "Article 42-2 over-legalized as the general no-sidewalk mechanism",
+      "action": "Dropped the article number. Hedged setbacks as one slow process on extra-narrow older lanes; ordinary living roads can lack a curb without that statute."
+    },
+    {
+      "issue": "20 km/h vs 50 km/h as Japanese design speeds",
+      "action": "Removed the numbers. Contrast crawl versus arterial behavior; tied remaining point to Zone 30 already in the draft."
+    },
+    {
+      "issue": "FAQ/tip withheld the usual pedestrian-side default",
+      "action": "Stated usual right-hand edge (facing traffic / cars keep left), then hedged with clearer-edge and school-route practice."
+    },
+    {
+      "issue": "Genkan as sidewalk philosophy; eat-while-walking detour; lighting absolute; oracular English",
+      "action": "Compressed shoes-off to one outside-category sentence; shortened food/map/suitcase clause; 'lighting varies'; cut 'waiting' and 'riddle' lines; softened childhood body-rules to school routes."
+    }
+  ],
+  "preserved": [
+    "Rosokutai versus sidewalk distinction",
+    "Not-all-streets and trash-cans class-of-street analogy (geometry, not bins)",
+    "No new legal facts invented; 42-2 not specified as a visitor exam"
+  ]
+}

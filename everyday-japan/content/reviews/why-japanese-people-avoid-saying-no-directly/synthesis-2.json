@@ -1,0 +1,40 @@
+{
+  "overall_score": 91,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 92,
+    "fact_source": 91,
+    "seo": 92,
+    "english": 90,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Bag-offer example",
+      "problem": "Still shares one illustrative beat with the daijoubu companion article",
+      "suggestion": "Acceptable with cross-link; no further revision required",
+      "sources": ["editorial-originality"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 1,
+  "needs_revision": false,
+  "revision_reason": "Critical lexeme fixed; remaining issue is minor cluster-illustration overlap only",
+  "priority_notes": [
+    "[minor/originality] Shared bag beat with companion — leave with cross-link"
+  ],
+  "angle_vs_companion": {
+    "companion_slug": "why-japanese-people-say-daijoubu-so-often",
+    "this_angle": "Soft-refusal system across contexts",
+    "companion_angle": "Daijoubu lexical explainer",
+    "verdict": "Complementary cluster pair after critical fix"
+  },
+  "round": 2,
+  "slug": "why-japanese-people-avoid-saying-no-directly",
+  "title": "Why Japanese People Avoid Saying “No” Directly",
+  "existing_articles_count": 20,
+  "scored_at": "2026-08-11T06:32:00.000Z"
+}

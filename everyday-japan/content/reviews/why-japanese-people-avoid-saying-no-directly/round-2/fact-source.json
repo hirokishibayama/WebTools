@@ -1,0 +1,19 @@
+{
+  "reviewer": "fact-source",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Incorrect kannō reading removed",
+    "Soft tools and direct-refusal counterexamples remain accurate",
+    "No unsupported statistics introduced during revision"
+  ],
+  "verified": [
+    "kentō shimasu (検討します) can function as a polite non-committal hold",
+    "Trailing chotto… can function as polite refusal",
+    "Direct refusal occurs for rules, safety, and strong preference"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": []
+}

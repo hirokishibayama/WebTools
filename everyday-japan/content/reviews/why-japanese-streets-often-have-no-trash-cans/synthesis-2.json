@@ -1,0 +1,23 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0 and major=0 after revision",
+  "skill_scores": {
+    "reader": 92,
+    "japanese_perspective": 93,
+    "cultural_accuracy": 94,
+    "fact_source": 91,
+    "seo": 92,
+    "english": 89,
+    "originality": 91
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Sorting Rules / mochikaeri parenthetical / optional FAQ",
+      "problem": "Small polish leftovers only.",
+      "suggestion": "No further revision round required.",
+      "sources": ["reader-experience", "english-naturalness", "seo-search-intent"]
+    }
+  ]
+}

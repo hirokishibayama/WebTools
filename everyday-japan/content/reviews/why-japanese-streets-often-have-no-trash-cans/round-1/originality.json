@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Three-layer explanation (security / maintenance / habit) beats single-cause tourism copy",
+    "Conditional-bin social boundaries are a strong Everyday Japan differentiator",
+    "Honest litter section undercuts cliché cleanliness myth"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "corpus voice",
+      "problem": "House opener matches many sibling articles; originality lives in the middle, not the first line.",
+      "suggestion": "No forced rewrite of house hook; protect the conditional-bin and dual-cause angles in revision."
+    }
+  ]
+}

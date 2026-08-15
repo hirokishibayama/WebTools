@@ -1,0 +1,32 @@
+{
+  "reviewer": "reader-experience",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Opens inside a platform scene (marks, alighting, files) instead of a generic ‘visitors notice’ template",
+    "Answers why to keep reading in the intro: practical habit, not national magic, and it also breaks",
+    "Visitor tips are concrete and ordered by usefulness (floor first, let people off, repair by going to the end)",
+    "FAQ matches real searcher questions (patience, painted lines, no obvious line, phones, cutting, elevators)",
+    "Aha is clear: waiting as infrastructure / traffic engineering for bodies, not a personality"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios — ‘loop-line station’",
+      "problem": "‘Loop-line station’ is insider transit jargon; many first-time readers will not map it to a Yamanote-style circle line.",
+      "suggestion": "Say ‘a busy city loop line’ or ‘a packed urban platform’ without requiring local network knowledge."
+    },
+    {
+      "severity": "minor",
+      "location": "Bakery tickets, rain/umbrellas, let-people-off",
+      "problem": "Number tickets, rainy geometry, and alighting-before-boarding recur across body, scenarios, tips, and FAQ. Useful, but the middle can feel like the same lesson restated.",
+      "suggestion": "Keep one authoritative pass on each; let scenarios add a new setting rather than repeating the rule."
+    },
+    {
+      "severity": "minor",
+      "location": "Why Careful Lines Fit This Public Life — ‘Interpretation:’",
+      "problem": "The bold ‘Interpretation:’ label reads like an internal memo and briefly breaks magazine flow.",
+      "suggestion": "Fold the sentence into the paragraph without the label."
+    }
+  ]
+}

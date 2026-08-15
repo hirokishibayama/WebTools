@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Title and hook match informational intent: why so many companies/colors, not how to buy a JR Pass",
+    "H2s are natural questions and scene labels; FAQ covers JR, through-running, tickets, Yamanote, smaller cities",
+    "Keywords (JR, private railways, Tokyo subway, through-running, IC) appear in useful places without stuffing"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Why So Many Companies Were Allowed to Remain",
+      "problem": "Internal links to queueing and escalator sides are off-intent for a 'why so many lines' query and dilute the operator-plurality answer.",
+      "suggestion": "Keep the on-time article as the related-punctuality link; drop manners links from the history section."
+    }
+  ]
+}

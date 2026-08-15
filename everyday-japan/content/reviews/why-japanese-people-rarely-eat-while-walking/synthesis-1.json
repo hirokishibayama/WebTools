@@ -1,0 +1,56 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=1 (below the major>=2 trigger). Outdoor-eating “special case” overstatement is the only aggregated major.",
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 80,
+    "cultural_accuracy": 81,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 85,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Learn the Pause — “Outdoor eating is already a special case.”",
+      "problem": "Treats outdoor eating as rare/special, which Japanese everyday life and the article’s own FAQ contradict. Parks, riverbanks, stalls, and picnic seasons are ordinary; the uncommon layer is eating while moving through a busy sidewalk.",
+      "suggestion": "Keep seated home meals as a default indoor pattern; say outdoor eating is common; reserve “extra layer” for walking-eating in commuter flow.",
+      "sources": ["cultural-accuracy", "japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "station wicket paragraph",
+      "problem": "Invented typical self-annoyance on locals’ faces.",
+      "suggestion": "Drop the mood claim; keep the situational contrast.",
+      "sources": ["fact-source", "japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "thesis restated from intro through closing; scenarios echo exceptions",
+      "problem": "Pause-versus-motion is over-explained; fried-food and scenario beats repeat earlier sections.",
+      "suggestion": "Optional trim only; do not open a rewrite for this alone.",
+      "sources": ["reader-experience", "editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "location": "## Crowding, Hands, and Nowhere to Put the Wrapper",
+      "problem": "“Three physical conditions” then four bold heads, last one interpretation.",
+      "suggestion": "Recount or move the interpretation line out of the bold list.",
+      "sources": ["english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "tourist neighborhoods / opening burger / late-open konbini link",
+      "problem": "Small hedges and prop/link mismatches; sightseeing crowds are not automatically snack-street custom.",
+      "suggestion": "Polish only if a later human pass touches those sentences. Do not invent a tourist-street ban.",
+      "sources": ["cultural-accuracy", "english-naturalness", "seo-search-intent"]
+    }
+  ],
+  "priority_notes": [
+    "Watch items held: not illegal; festivals/ice cream/tourist snack streets as exceptions; does not claim Japanese people never eat outdoors; bins reinforce rather than solely cause the habit.",
+    "Do not merge this topic into the no-trash-cans sibling; keep tabearuki manners as the spine.",
+    "SEO issues are minor and must not force a rewrite."
+  ]
+}

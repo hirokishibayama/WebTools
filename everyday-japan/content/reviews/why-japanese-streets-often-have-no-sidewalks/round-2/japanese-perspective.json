@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Mixed-room street, hallway-speed anger, and 'not automatically charming' still read as local",
+    "School-route teaching is more accurate than a universal childhood code",
+    "Shoes-off is now atmosphere, not a fake sidewalk philosophy"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "shoes-off sentence",
+      "problem": "Still a light editorial link Japanese readers would not volunteer as the reason there is no curb.",
+      "suggestion": "Fine as one clause; do not expand."
+    }
+  ]
+}

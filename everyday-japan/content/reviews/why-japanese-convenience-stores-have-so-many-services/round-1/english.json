@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 76,
+  "status": "revise",
+  "strengths": [
+    "Concrete counter scenes and short scenario blocks read naturally.",
+    "Closing contrast (extraordinary outside / routine inside) fits magazine tone.",
+    "Mostly avoids wonder-clickbait."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Parcels, Printing — vending machines paragraph",
+      "problem": "“When that story is live, see …” is draft/meta language, not published prose.",
+      "suggestion": "Use a normal cross-link sentence or drop the conditional publishing note entirely."
+    },
+    {
+      "severity": "minor",
+      "location": "Intro benefit sentence",
+      "problem": "Long “Understanding why…” thesis sentence is slightly formulaic.",
+      "suggestion": "Tighten to traveler-facing outcomes: read the queue, use the counter, see the logistics."
+    }
+  ]
+}

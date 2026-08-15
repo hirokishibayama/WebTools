@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Stays on operator plurality: companies, suburbs, through-running, IC-as-payment, tourist-pass seams",
+    "Does not steal the punctuality or sleep-on-trains theses; sleep link remains habit-on-a-familiar-corridor",
+    "Line-as-neighborhood and department-store terminals remain the distinctive local supplement"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Late night scenario",
+      "problem": "Konbini as waiting room is still a light sibling garnish.",
+      "suggestion": "Harmless; last-train-per-company is the on-topic point."
+    }
+  ]
+}

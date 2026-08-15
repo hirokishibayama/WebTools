@@ -1,0 +1,69 @@
+{
+  "trend": {
+    "candidatesPerRun": 100
+  },
+  "topic": {
+    "topN": 10,
+    "minScore": 70
+  },
+  "duplicate": {
+    "blockAbove": 0.85,
+    "mergeAdviseAbove": 0.7
+  },
+  "writing": {
+    "childAgents": [
+      "draft",
+      "introduction",
+      "japanese-perspective",
+      "image-prompt",
+      "seo",
+      "internal-link"
+    ]
+  },
+  "quality": {
+    "minOverall": 75,
+    "minDimension": 60,
+    "maxRevisionRounds": 2,
+    "articleReview": {
+      "passAt": 85,
+      "humanReviewAt": 75,
+      "reviseIfCritical": true,
+      "reviseIfMajorAtLeast": 2
+    },
+    "childAgents": [
+      "review-reader-experience",
+      "review-japanese-perspective",
+      "review-cultural-accuracy",
+      "review-fact-source",
+      "review-seo-intent",
+      "review-english-naturalness",
+      "review-editorial-originality"
+    ],
+    "weights": {
+      "editorial_originality": 0.16,
+      "japanese_perspective": 0.18,
+      "cultural_accuracy": 0.2,
+      "reader_experience": 0.16,
+      "fact_source": 0.12,
+      "english_naturalness": 0.1,
+      "seo_search_intent": 0.08
+    }
+  },
+  "review": {
+    "slaMinutes": 10,
+    "humanRequired": true
+  },
+  "retry": {
+    "max": 3,
+    "backoffMs": [1000, 5000, 15000]
+  },
+  "paths": {
+    "jobs": "jobs",
+    "articles": "articles",
+    "assets": "assets",
+    "candidates": "data/index/candidates",
+    "metrics": "data/metrics",
+    "feedback": "data/feedback",
+    "analytics": "data/analytics"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Opening scene remains concrete.",
+    "Instrument metaphor and “end of Japanese convenience” slogan are gone.",
+    "Closing now matches the history section’s “renegotiating.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Night-store paragraph — OTC hedge",
+      "problem": "Two short factual sentences after “delayed train” are slightly instructional in an otherwise scenic paragraph.",
+      "suggestion": "Optional tighten on a later pass; not a rewrite trigger."
+    }
+  ]
+}

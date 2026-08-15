@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "overall_score": 91,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "## How Sleeping Interacts With Transit Culture",
+      "problem": "Technology craft paragraph remains slightly list-like.",
+      "suggestion": "Optional trim later.",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 90,
+    "seo": 93,
+    "english": 90,
+    "originality": 91
+  },
+  "final_summary": "PASS after one revision. Removed unverified crime-rate comparison, aligned FAQ safety hedges, and merged duplicate closings. No invented first-person; safety stays relative. Ready to publish.",
+  "slug": "why-japanese-people-sleep-on-trains",
+  "title": "Why Japanese People Sleep on Trains",
+  "scored_at": "2026-08-11T06:20:00.000Z"
+}

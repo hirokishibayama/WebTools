@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Station-boulevard hook still lands; paint-versus-curb aha is intact",
+    "Right-edge tip plus practice hedge is now usable instead of evasive",
+    "Shoes-off no longer derails the walking-rules section"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Setback roads parenthesis",
+      "problem": "Building Standards Act named without the article number is still a slight institutional bump for a visitor.",
+      "suggestion": "Acceptable hedge; optional later trim to 'building rules' only."
+    }
+  ]
+}

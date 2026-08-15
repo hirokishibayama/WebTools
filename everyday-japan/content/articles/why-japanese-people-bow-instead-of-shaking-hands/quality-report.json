@@ -1,0 +1,55 @@
+{
+  "slug": "why-japanese-people-bow-instead-of-shaking-hands",
+  "title": "Why Do Japanese People Bow Instead of Shaking Hands?",
+  "introduction": {
+    "slug": "why-japanese-people-bow-instead-of-shaking-hands",
+    "rewritten": false,
+    "introduction_score": 100,
+    "introduction_path": "assets/why-japanese-people-bow-instead-of-shaking-hands/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-bow-instead-of-shaking-hands",
+    "patched": true,
+    "japanese_perspective_score": 78,
+    "perspective_path": "assets/why-japanese-people-bow-instead-of-shaking-hands/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 93,
+    "seo_quality": 92,
+    "overall": 89,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-05T15:15:39.436Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-05T15:15:39.437Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

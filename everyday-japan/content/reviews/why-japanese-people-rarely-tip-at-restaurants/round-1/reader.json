@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Opening scene (bill, leftover cash, chase) instantly frames the visitor problem.",
+    "Visitor tips and FAQ answer practical pay-and-leave questions.",
+    "Fact vs Interpretation callout helps readers separate custom from wage myths."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Why Service Is Treated as Included (tax + training paragraphs after Fact/Interpretation)",
+      "problem": "The middle section stacks pricing, omotenashi, exits, tax labeling, and staff training without a clear beat change, so readers can lose the through-line before exceptions.",
+      "suggestion": "Shorten or relocate the tax/training material; keep one clean close after the Fact/Interpretation block before moving on."
+    },
+    {
+      "severity": "minor",
+      "location": "Opening",
+      "problem": "“Many visitors to Japan notice one unusual thing.” is a soft stock hook.",
+      "suggestion": "Lead with the cash-on-table or chase scene in the first line."
+    }
+  ]
+}

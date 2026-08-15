@@ -1,0 +1,17 @@
+{
+  "verdict": "pass",
+  "quality_score": 86,
+  "verified_facts": [
+    "Article explicitly rejects the stereotype that Japanese people never say no.",
+    "Soft tools (chotto, daijoubu, alternatives) are described as common, not universal.",
+    "Direct refusal is acknowledged in policy, safety, and personal contexts."
+  ],
+  "needs_citation": [
+    "Avoid absolute national psychology claims; keep situational framing."
+  ],
+  "bias": [
+    "Checked for exoticizing vagueness; balanced with direct-speech counterexamples."
+  ],
+  "outdated": [],
+  "unsupported": []
+}

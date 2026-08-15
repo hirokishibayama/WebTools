@@ -1,0 +1,48 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0 after hedges; remaining items are minor flow/FAQ wording.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 3,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 90,
+    "fact_source": 88,
+    "seo": 92,
+    "english": 90,
+    "originality": 89
+  },
+  "priority_notes": [
+    "No factual or cultural veto remains.",
+    "Seven-Eleven ~6% / ~1400 stays hedged; no all-konbini-24h claim.",
+    "SEO did not drive the revision."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "konbini-hours-otc-flow",
+      "location": "How Japanese People Use the Night Store — OTC aside",
+      "problem": "Correct drugstore/OTC hedge slightly stalls the scenic paragraph.",
+      "suggestion": "Optional later tighten; do not add medicine claims.",
+      "sources": ["reader-experience", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-faq-growing-share",
+      "location": "FAQ — Are all Japanese convenience stores open 24 hours?",
+      "problem": "“Growing share” is qualitative beside the hedged 7-Eleven number.",
+      "suggestion": "Leave unquantified.",
+      "sources": ["fact-source", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "id": "konbini-hours-sibling-causes",
+      "location": "Why Late Hours Fit — service stacking / disaster",
+      "problem": "Cause list still touches sibling topics at hour-justification length.",
+      "suggestion": "No further rewrite required.",
+      "sources": ["editorial-originality"]
+    }
+  ]
+}

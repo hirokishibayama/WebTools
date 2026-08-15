@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "States washlets are widespread but not universal; older/simple toilets remain",
+    "Avoids ‘Japanese people celebrate futuristic toilets’ stereotype",
+    "Public vs home remotes and accessibility motives are accurate and balanced"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing / Real-Life Panels — ‘spaceship toilet’",
+      "problem": "‘Spaceship toilet’ is a tourism-media cliché even when framed as category peak",
+      "suggestion": "Prefer ‘densest home remotes’ or ‘feature-heavy panel’ over spaceship language"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Title/intro match 'why few/no trash cans' search intent",
+    "seo_title wisely uses 'Few' while H1 keeps the common search phrasing",
+    "FAQ covers sarin, konbini bins, litter myth, PET bottles"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ / related intent",
+      "problem": "A common adjacent query—'where can tourists throw trash in Japan?'—is answered in tips but not as its own FAQ heading.",
+      "suggestion": "Optional short FAQ: 'Where should tourists throw trash?' pointing to konbini/hotel/carry."
+    }
+  ]
+}

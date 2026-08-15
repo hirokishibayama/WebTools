@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Older plots — four to six meters",
+      "problem": "Typical width band is plausible but unsourced.",
+      "suggestion": "Keep as approximate; do not invent a national statistic.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Setback roads parenthesis",
+      "problem": "Building Standards Act still named without the article number—safe hedge, slight institutional bump.",
+      "suggestion": "Optional later trim to 'building rules' only.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "shoes-off one-liner",
+      "problem": "Light editorial link, not a local explanation for missing curbs.",
+      "suggestion": "Do not expand.",
+      "sources": ["japanese-perspective", "editorial-originality"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 87,
+    "seo": 90,
+    "english": 87,
+    "originality": 88
+  },
+  "final_summary": "PASS after one revision. Removed over-legal Article 42-2 and the 20/50 km/h pair; stated the usual pedestrian right-edge default with a practice hedge. Rosokutai versus sidewalk and the not-all-streets frame are intact. Geometry article, not a trash-cans clone.",
+  "slug": "why-japanese-streets-often-have-no-sidewalks",
+  "title": "Why Japanese Streets Often Have No Sidewalks",
+  "scored_at": "2026-08-15T13:30:00.000Z"
+}

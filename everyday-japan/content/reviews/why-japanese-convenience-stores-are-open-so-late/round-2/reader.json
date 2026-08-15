@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Hook still earns the click; the 24-hour myth is corrected before a visitor can plan around it.",
+    "Bathroom and medicine hedges prevent a failed night errand.",
+    "Tips and FAQ remain practical: check the door, keep quiet, have a last-train backup."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Use the Night Store — OTC aside",
+      "problem": "The drugstore/OTC hedge is correct but briefly stalls the childhood-to-overtime scene.",
+      "suggestion": "Optional later: fold into one clause so the paragraph keeps moving."
+    }
+  ]
+}

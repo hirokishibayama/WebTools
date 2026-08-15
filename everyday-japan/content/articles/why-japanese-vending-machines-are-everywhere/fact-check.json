@@ -1,0 +1,27 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Japan has a very high density of vending machines relative to many countries.",
+      "status": "supported",
+      "note": "Industry estimates vary by year; avoid a single absolute number without source year."
+    },
+    {
+      "claim": "Machines sell hot and cold drinks and many niche products.",
+      "status": "supported",
+      "note": "True but assortment varies by location."
+    },
+    {
+      "claim": "Low vandalism alone fully explains density.",
+      "status": "nuance",
+      "note": "Safety helps; denser urban demand, land use, and 24h access also matter."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

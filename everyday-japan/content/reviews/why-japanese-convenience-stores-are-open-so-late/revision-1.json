@@ -1,0 +1,21 @@
+{
+  "round": 1,
+  "source_path": "content/articles/why-japanese-convenience-stores-are-open-so-late/article.md",
+  "synced_to": ["content/drafts/why-japanese-convenience-stores-are-open-so-late/draft.md"],
+  "changes": [
+    "Removed 2024 “noticeable minority” cross-chain claim; kept Seven-Eleven ~1,400 / ~6% (2026) hedged; noted pace differs by chain without naming unverified shares.",
+    "Dropped fever/children’s medicine as a typical night buy; hedged thin OTC at some stores; 3 a.m. scenario is drink/cooling sheets.",
+    "Removed bathroom from missed-train kit; hedged customer toilets; vending comparison no longer implies konbini toilets.",
+    "Replaced “weather and transport instrument” with plain umbrella/missed-train actions.",
+    "Softened visitor-tip slogan; aligned closing verb with “renegotiated.”"
+  ],
+  "issues_addressed": [
+    "konbini-hours-bathroom",
+    "konbini-hours-otc-medicine",
+    "konbini-hours-2024-minority",
+    "konbini-hours-instrument-metaphor",
+    "konbini-hours-slogan-tip",
+    "konbini-hours-closing-cute"
+  ],
+  "invented_facts": false
+}

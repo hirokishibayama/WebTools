@@ -1,0 +1,20 @@
+{
+  "reviewer": "fact-source",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Sarin date/deaths preserved without new invented figures",
+    "Contribution vs sole-cause bullets intact",
+    "No new unsupported causation introduced in revision"
+  ],
+  "verified": [
+    "Tokyo subway sarin attack March 20, 1995; 13 killed",
+    "Bin removals as a widely cited post-attack security response"
+  ],
+  "questionable": [
+    "Nationwide post-1995 bin-density trajectory remains directional, not quantified"
+  ],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": []
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Feature-stacking / sediment-of-competition angle is stronger than a tourism washlet listicle",
+    "Clear differentiation from the broader bathrooms sibling article",
+    "Jet-lag timing mismatch insight (learning dense UI under pressure) is a distinctive editorial observation"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "opening template",
+      "problem": "Identical corpus opener weakens first-glance originality versus other Everyday Japan pieces",
+      "suggestion": "Rewrite the hook as a stall-specific scene unique to this topic"
+    }
+  ]
+}

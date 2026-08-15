@@ -1,0 +1,22 @@
+{
+  "id": "seo",
+  "name": "SEO Agent",
+  "stage": 5,
+  "purpose": "Generate SEO title, meta description, slug, tags, FAQ, internal links, related articles, and schema metadata.",
+  "prompt": "editorial/prompts/05-seo.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "topic.md",
+    "draft.md",
+    "existingArticleList"
+  ],
+  "dependsOn": ["writer"],
+  "output": {
+    "file": "seo.md",
+    "template": "editorial/templates/seo.md"
+  },
+  "automation": {
+    "webSearch": false,
+    "replaceable": true
+  }
+}

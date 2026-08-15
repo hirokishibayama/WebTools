@@ -1,0 +1,10 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Core why-sleep intent still answered",
+    "FAQ safety/quiet/universal questions remain"
+  ],
+  "issues": []
+}

@@ -1,0 +1,41 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (unverifiable crime-rate comparison; duplicate lyrical closings)",
+  "skill_scores": {
+    "reader": 84,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 90,
+    "fact_source": 78,
+    "seo": 93,
+    "english": 86,
+    "originality": 89
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "## Quiet Cars, Relative Safety, and Real Risks (+ FAQ safety)",
+      "problem": "Comparative transit crime-rate claim is unverified and overclaims safety grounding.",
+      "suggestion": "Hedge to relative felt orderliness; keep theft/chikan warnings; align FAQ.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "major",
+      "location": "## How Japanese People Experience Train Sleep + ## Rest in Public, Still Shared Space",
+      "problem": "Two closings restate fatigue, low-contact rest, and visitor surprise; lyrical padding.",
+      "suggestion": "Merge into one closing; drop brand self-reference and stacked metaphors.",
+      "sources": ["reader-experience", "english-naturalness", "editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "location": "masks-as-privacy / technology craft / intro bridge",
+      "problem": "Slight digressions and template phrasing.",
+      "suggestion": "Shorten mask clause if editing the safety paragraph; optional elsewhere.",
+      "sources": ["japanese-perspective", "reader-experience", "english-naturalness"]
+    }
+  ],
+  "priority_notes": [
+    "No invented first-person Japanese sleep anecdotes.",
+    "Keep safety hedges; do not replace crime-rate claim with a new invented statistic."
+  ]
+}

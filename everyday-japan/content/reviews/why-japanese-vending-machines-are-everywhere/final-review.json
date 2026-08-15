@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "overall_score": 91,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "opening / “Japan is famous for”",
+      "problem": "Mild formulaic/brochure phrasing",
+      "suggestion": "Open on the glowing machine; drop “famous for”",
+      "sources": [
+        "reader-experience",
+        "english-naturalness"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Safety section / density claims",
+      "problem": "Comparative safety and density are hedged but uncited",
+      "suggestion": "Keep hedges; never harden into unique-safety myth or fake counts",
+      "sources": [
+        "fact-source",
+        "cultural-accuracy"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ / niche list",
+      "problem": "Payment FAQ optional; niche catalog is familiar but de-centered",
+      "suggestion": "Optional IC FAQ; keep niche short",
+      "sources": [
+        "seo-search-intent",
+        "editorial-originality"
+      ]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 93,
+    "cultural_accuracy": 95,
+    "fact_source": 87,
+    "seo": 92,
+    "english": 87,
+    "originality": 91
+  },
+  "final_summary": "PASS. Multi-factor density explanation; explicitly rejects unique-safety mythology. No critical or major issues; revision not required.",
+  "slug": "why-japanese-vending-machines-are-everywhere",
+  "title": "Why Japanese Vending Machines Are Everywhere",
+  "scored_at": "2026-08-11T06:37:44.125Z",
+  "changes": []
+}

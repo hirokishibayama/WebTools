@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the query: why konbini stay open late, plus the exception searchers need.",
+    "H2s are natural questions and scene labels, not keyword stuffed.",
+    "FAQ covers 24 hours?, last train?, rude at 2 a.m.?, shortening hours—real SERP companions.",
+    "Corrects “cities never sleep” intent without chasing nightlife keywords in the body."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "First body section — sibling cross-links",
+      "problem": "Feel-so-different and so-many-services links are editorially right but sit before this article has fully paid off hours.",
+      "suggestion": "Keep one short scope sentence; optional to move the second link later. Do not rewrite for keywords."
+    }
+  ]
+}

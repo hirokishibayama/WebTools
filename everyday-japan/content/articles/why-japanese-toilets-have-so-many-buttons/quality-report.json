@@ -1,0 +1,55 @@
+{
+  "slug": "why-japanese-toilets-have-so-many-buttons",
+  "title": "Why Japanese Toilets Have So Many Buttons",
+  "introduction": {
+    "slug": "why-japanese-toilets-have-so-many-buttons",
+    "rewritten": false,
+    "introduction_score": 100,
+    "introduction_path": "assets/why-japanese-toilets-have-so-many-buttons/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-toilets-have-so-many-buttons",
+    "patched": false,
+    "japanese_perspective_score": 95,
+    "perspective_path": "assets/why-japanese-toilets-have-so-many-buttons/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 98,
+    "reader_engagement": 83,
+    "seo_quality": 92,
+    "overall": 90,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 4"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-11T06:05:03.753Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-11T06:05:03.754Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Prefers “rarely tip” over absolute never; exceptions section is concrete.",
+    "Omotenashi is grounded in tea, pace, and utensils—not mystical uniqueness.",
+    "FAQ correctly separates no-tipping custom from wage claims."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Exceptions / Delivery, taxis, and other services",
+      "problem": "Useful boundary, but a single concrete restaurant-adjacent contrast (e.g. hotel dining vs casual lunch) would sharpen variation without expanding scope.",
+      "suggestion": "Add one short comparison sentence; do not invent tip norms for taxis."
+    },
+    {
+      "severity": "minor",
+      "location": "Professional pride and role clarity",
+      "problem": "“Accepting personal cash can feel like breaking workplace rules” is plausible but can read as universal staff psychology.",
+      "suggestion": "Keep the coworker-unfairness / house-rules hedge; avoid implying every refusal is pride-based."
+    }
+  ]
+}

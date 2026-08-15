@@ -1,0 +1,56 @@
+{
+  "overall_score": 86,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 90,
+    "seo": 93,
+    "english": 87,
+    "originality": 82
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Soft “No Thanks” section + bag/service scenes vs. companion soft-no article",
+      "problem": "Soft-refusal teaching and repeated bag-offer illustrations overlap the companion “avoid saying no” article, risking two near-identical lessons",
+      "suggestion": "Keep soft-no as one necessary meaning with a tight example and a pointer to the companion piece; lean on reassurance, forms, failure cases, and frequency-as-perception for uniqueness",
+      "sources": ["editorial-originality", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Opening / closing phrasing",
+      "problem": "Stock “many visitors notice…” opener and slightly self-conscious closing aside",
+      "suggestion": "Optional polish only; not revision-blocking",
+      "sources": ["english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "“national toolkit”",
+      "problem": "Light nationalizing of a high-frequency habit",
+      "suggestion": "Prefer “everyday conversational toolkit”",
+      "sources": ["cultural-accuracy"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 1,
+  "minor_count": 2,
+  "needs_revision": false,
+  "revision_reason": "Trigger is critical > 0 OR major ≥ 2; only one merged major remains",
+  "priority_notes": [
+    "[major/originality+reader] Soft-no teaching overlaps companion article → tighten soft-no beat; protect lexical-unique sections",
+    "[minor/english] Stock opener / modest-insight closing → optional polish",
+    "[minor/cultural] “national toolkit” → “everyday toolkit”"
+  ],
+  "angle_vs_companion": {
+    "companion_slug": "why-japanese-people-avoid-saying-no-directly",
+    "this_angle": "Lexical/pragmatic: daijoubu’s multiple jobs (reassure, confirm, soft decline), forms, and limits",
+    "companion_angle": "Social system of soft refusal (chotto, alternatives, face, workplace/service)",
+    "verdict": "Distinct enough to publish as a cluster pair; soft-no overlap noted but not fatal"
+  },
+  "round": 1,
+  "slug": "why-japanese-people-say-daijoubu-so-often",
+  "title": "Why Japanese People Say “Daijoubu” So Often",
+  "existing_articles_count": 20,
+  "scored_at": "2026-08-11T06:25:00.000Z"
+}

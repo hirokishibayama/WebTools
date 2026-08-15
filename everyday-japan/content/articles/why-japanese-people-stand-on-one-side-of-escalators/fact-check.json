@@ -1,0 +1,27 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many stations have a standing side and walking side on escalators.",
+      "status": "supported",
+      "note": "Common urban pattern; not universal in all buildings."
+    },
+    {
+      "claim": "Tokyo-area custom often stands on the left; Osaka-area often stands on the right.",
+      "status": "supported",
+      "note": "Widely reported regional difference; signage and campaigns vary; some stations discourage walking."
+    },
+    {
+      "claim": "Some operators ask passengers to stand on both sides for safety.",
+      "status": "supported",
+      "note": "Campaigns exist; practice still mixed."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

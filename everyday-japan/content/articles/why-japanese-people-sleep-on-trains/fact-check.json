@@ -1,0 +1,27 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Public dozing (inemuri) appears in trains and sometimes workplaces/classrooms.",
+      "status": "supported",
+      "note": "Context-dependent acceptability."
+    },
+    {
+      "claim": "Long metropolitan commutes are common.",
+      "status": "supported",
+      "note": "Varies widely by city and job."
+    },
+    {
+      "claim": "Sleeping on trains is always safe and universal.",
+      "status": "false",
+      "note": "Article correctly rejects both absolutes."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

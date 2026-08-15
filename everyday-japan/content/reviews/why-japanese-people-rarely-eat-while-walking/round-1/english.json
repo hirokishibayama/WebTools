@@ -1,0 +1,36 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Mostly magazine cadence: short scenes, few stock “Japan is a country where” lines.",
+    "Useful concrete verbs (tuck the bag, step out of the stream, pocket a greasy bag).",
+    "Closing image (three steps out of the stream) is specific rather than slogan-like wonder."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Crowding, Hands, and Nowhere to Put the Wrapper",
+      "problem": "The section promises “Three physical conditions” then runs four bold heads, the last being interpretation rather than a physical condition.",
+      "suggestion": "Say “a few conditions” or keep three physical bullets and move the interpretation line out of the bold list."
+    },
+    {
+      "severity": "minor",
+      "location": "wicket paragraph — “a different social object”",
+      "problem": "Academic phrasing in an otherwise spoken register.",
+      "suggestion": "Plain: it is a different situation / a different kind of public eating."
+    },
+    {
+      "severity": "minor",
+      "location": "## When Eating on the Move Is Ordinary — “Honesty requires the exceptions”",
+      "problem": "Writerly throat-clearing; slightly AI-editorial.",
+      "suggestion": "Start from what visitors will see on day one."
+    },
+    {
+      "severity": "minor",
+      "location": "Opening — “open burger”",
+      "problem": "The prop does not match the Japanese street being described.",
+      "suggestion": "Swap for a local handheld if the sentence is edited."
+    }
+  ]
+}

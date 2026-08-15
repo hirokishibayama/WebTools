@@ -1,0 +1,56 @@
+{
+  "slug": "why-japanese-homes-feel-different-from-western-homes",
+  "title": "Why Do Japanese Homes Feel Different From Western Homes?",
+  "introduction": {
+    "slug": "why-japanese-homes-feel-different-from-western-homes",
+    "rewritten": true,
+    "introduction_score": 80,
+    "introduction_path": "assets/why-japanese-homes-feel-different-from-western-homes/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-homes-feel-different-from-western-homes",
+    "patched": true,
+    "japanese_perspective_score": 78,
+    "perspective_path": "assets/why-japanese-homes-feel-different-from-western-homes/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 71,
+    "japanese_perspective": 86,
+    "reader_engagement": 93,
+    "seo_quality": 92,
+    "overall": 84,
+    "notes": {
+      "cultural_accuracy": [
+        "Absolute stereotype language",
+        "Shows nuance / limits"
+      ],
+      "japanese_perspective": [
+        "Local signals found: 3"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ missing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-05T15:15:39.425Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-05T15:15:39.426Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

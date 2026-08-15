@@ -1,0 +1,20 @@
+{
+  "round": 1,
+  "source_path": "content/articles/why-japanese-people-rarely-tip-at-restaurants/article.md",
+  "synced_to": ["articles/why-japanese-people-rarely-tip-at-restaurants.md"],
+  "changes": [
+    "Opened on the bill/cash chase scene; shortened the thesis sentence.",
+    "Replaced “moral completion” with plainer payment-script wording.",
+    "Softened mind-reading and staff-refusal psychology hedges.",
+    "Trimmed tax clarification; removed unsupported staff-training curriculum claim; kept operational return-cash explanation.",
+    "Added lunch-set vs hotel-dining variation cue."
+  ],
+  "issues_addressed": [
+    "tip-dense-middle",
+    "tip-staff-training-claim",
+    "tip-stock-open",
+    "tip-overbroad-mindread",
+    "tip-dramatic-moral"
+  ],
+  "invented_facts": false
+}

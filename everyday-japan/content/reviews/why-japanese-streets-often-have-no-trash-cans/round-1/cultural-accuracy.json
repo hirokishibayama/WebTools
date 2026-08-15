@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Rejects 'Japan has no litter' and 'Japanese people never create outdoor trash'",
+    "1995 framed as contributing factor with explicit non-sole-cause caveats",
+    "Regional and event variation (festivals, tourist peaks, trails) acknowledged"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## Carry-Home Trash as Everyday Norm — 'mochikaeri'",
+      "problem": "Using mochikaeri as the cultural keyword for trash-carry-home misstates common Japanese usage (takeout/takeaway), which can mis-teach readers a false 'cultural term'.",
+      "suggestion": "Remove or reframe: keep takeaway sense separate; call the waste habit carrying trash home / 持ち帰ること without packaging it as a named trash custom."
+    },
+    {
+      "severity": "minor",
+      "location": "## The 1995 Sarin Attack and Public Bins",
+      "problem": "'Bag checks, warnings' as remembered atmosphere is plausible but slightly compressed as a shared national memory.",
+      "suggestion": "Keep as 'often remember heightened station security' without listing specifics you cannot lightly verify for every city."
+    }
+  ]
+}

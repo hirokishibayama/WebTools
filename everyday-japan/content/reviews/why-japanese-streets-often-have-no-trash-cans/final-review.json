@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "overall_score": 92,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "## Sorting Rules Shape Behavior",
+      "problem": "Slightly more institutional than scenic mid-article.",
+      "suggestion": "Optional apartment-morning scene later.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Carry-home section parenthetical",
+      "problem": "mochikaeri clarification is accurate but a touch pedagogical.",
+      "suggestion": "Acceptable for precision; optional reorder.",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 92,
+    "japanese_perspective": 93,
+    "cultural_accuracy": 94,
+    "fact_source": 91,
+    "seo": 92,
+    "english": 89,
+    "originality": 91
+  },
+  "final_summary": "PASS after one revision. Fixed mochikaeri misuse and trimmed a triple closing; 1995 causation hedges remain intact. Ready to publish.",
+  "slug": "why-japanese-streets-often-have-no-trash-cans",
+  "title": "Why Japanese Streets Often Have No Trash Cans",
+  "scored_at": "2026-08-11T06:20:00.000Z"
+}

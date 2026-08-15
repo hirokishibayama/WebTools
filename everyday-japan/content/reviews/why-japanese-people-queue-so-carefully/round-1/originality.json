@@ -1,0 +1,26 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Not a Wikipedia politeness summary or ‘Japanese people love order’ clone",
+    "Distinct Everyday Japan angle: waiting as shared infrastructure and crowd engineering, with impatience intact",
+    "Concrete local scenes (microwave order, number-ticket hovering, staff two-meter gesture) are hard to get from generic Japan blogs",
+    "Sits beside escalators, train punctuality, and sumimasen without copying their theses (lane vs dwell vs apology vs file)",
+    "Closing refuses ‘perform patience as a personality’—avoids the cliché moral"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "School as rehearsal — students-clean link",
+      "problem": "The cleaning-schools hyperlink is brand-house stitching more than a surprising queuing insight.",
+      "suggestion": "If a sibling link is needed, punctuality and escalators already earn their keep."
+    },
+    {
+      "severity": "minor",
+      "location": "Sleep-on-trains sentence",
+      "problem": "‘People who sleep on trains still need the door process…’ is a witty product placement more than a queuing fact.",
+      "suggestion": "Optional trim; the dwell-time point stands without the nap."
+    }
+  ]
+}

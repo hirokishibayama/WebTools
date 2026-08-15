@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Title targets “why so many services / konbini ATM bill pay tickets” intent.",
+    "Differentiates from the sibling “feel so different” query in the intro.",
+    "FAQ matches ATM, tourist bills, parcels, printing variance."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Payment Culture packaging cross-link",
+      "problem": "Off-intent digression for readers searching service functions.",
+      "suggestion": "Remove packaging link; keep payment-interface thesis."
+    }
+  ]
+}

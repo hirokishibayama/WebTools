@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Goes beyond 'people are tired' into inemuri nuance, alcohol distinction, and risk habits",
+    "Green-car vs local-car contrast and night-shift daytime sleep are fresh visitor angles",
+    "Resists romanticizing train sleep as national quirk"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "closing",
+      "problem": "Final 'Everyday Japan articles belong' line is slightly self-referential brand talk.",
+      "suggestion": "Drop brand self-reference; keep the ordinary-to-locals / striking-to-visitors contrast."
+    }
+  ]
+}

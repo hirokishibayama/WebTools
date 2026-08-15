@@ -1,0 +1,49 @@
+{
+  "reviewer": "fact-source",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Does not claim all konbini are 24 hours.",
+    "Seven-Eleven 2026 hours change is hedged (“on the order of,” “around 6%,” figures will move).",
+    "1974 Seven-Eleven Tokyo opening and later 24-hour competition are consistent with chain history.",
+    "FTC point is correctly modal: indicated, could, some conditions—not a fake ban on 24-hour stores."
+  ],
+  "verified": [
+    "Japan’s first Seven-Eleven opened in Tokyo in 1974 with hours closer to 7 a.m.–11 p.m.",
+    "24-hour operation followed in the mid-1970s and became a competitive urban promise.",
+    "2019 franchisee/headquarters conflict over mandatory 24-hour opening was national news.",
+    "JFTC later flagged that forcing 24-hour operation could raise Antimonopoly Act concerns in some franchise conditions.",
+    "Seven-Eleven Japan’s 2026 public comments described on the order of about 1,400 domestic stores (~6%) with changed hours, including overnight closures—figures move."
+  ],
+  "questionable": [
+    "2024 reporting that stores not operating 24 hours had grown into a “noticeable minority” across major chains (no chain named, no figure; 7-Eleven’s later ~6% is a small share).",
+    "Closing windows “often adjustable in the late-night to early-morning range” (true of some tested patterns, not a uniform rule)."
+  ],
+  "unsupported": [
+    "A konbini after the last train reliably includes a customer bathroom.",
+    "Fever medicine / children’s medicine as a standard late-night konbini purchase."
+  ],
+  "needs_source": [
+    "Any future exact percentage of non-24h stores for Lawson, FamilyMart, or the sector as a whole."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Train-shaped days",
+      "problem": "Bathroom is stated as part of the missed-train kit. That is not generally true.",
+      "suggestion": "Drop bathroom from the guaranteed list; hedge if mentioned."
+    },
+    {
+      "severity": "major",
+      "location": "Parents / 3 a.m. children’s medicine",
+      "problem": "Presents OTC pediatric/fever medicine as ordinary konbini inventory. Unsupported as a general fact.",
+      "suggestion": "Delete or hedge; do not invent drugstore-level stock."
+    },
+    {
+      "severity": "minor",
+      "location": "2024 noticeable-minority sentence",
+      "problem": "Qualitative industry claim adjacent to a specific 7-Eleven 2026 number can be misread as one statistic.",
+      "suggestion": "Separate chain-specific 2026 hedge from a non-numeric “more flexible closing since ~2019.”"
+    }
+  ]
+}

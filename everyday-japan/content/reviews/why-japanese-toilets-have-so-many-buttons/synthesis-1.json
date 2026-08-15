@@ -1,0 +1,74 @@
+{
+  "overall_score": 87,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 92,
+    "fact_source": 84,
+    "seo": 93,
+    "english": 83,
+    "originality": 89
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "opening paragraph",
+      "problem": "Stock template opener (‘Many visitors to Japan notice one unusual thing’) shared with sibling articles",
+      "suggestion": "Open inside the stall with the panel itself without the generic unusual-thing sentence",
+      "sources": ["english-naturalness", "editorial-originality"]
+    },
+    {
+      "severity": "major",
+      "location": "What the Buttons Are Usually Trying to Do — Otohime line",
+      "problem": "‘Otohime-style sound buttons (or apps historically)’ mixes a known product category with an unsupported app timeline",
+      "suggestion": "Keep sound-masking; drop ‘apps historically’ or hedge lightly without researched history",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Why Functions Piled Up — packaging cross-link",
+      "problem": "Packaging analogy is brand-house style more than local association",
+      "suggestion": "Soften or remove packaging parallel",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Panels — spaceship toilet",
+      "problem": "Tourism-media cliché wording",
+      "suggestion": "Use ‘feature-heavy panel’ language instead",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "1980s popularization claim",
+      "problem": "Soft product history without citation",
+      "suggestion": "Keep as soft late-20th-century framing",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "anxiety steps vs tips",
+      "problem": "Some procedural repetition",
+      "suggestion": "Keep one authoritative step list",
+      "sources": ["reader-experience"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 2,
+  "minor_count": 4,
+  "needs_revision": true,
+  "priority_notes": [
+    "[major/english+originality] Rewrite stock opener",
+    "[major/fact-source] Soften Otohime/apps claim",
+    "Revision required (major ≥ 2)."
+  ],
+  "scored_at": "2026-08-11T06:35:00.000Z",
+  "slug": "why-japanese-toilets-have-so-many-buttons",
+  "title": "Why Japanese Toilets Have So Many Buttons",
+  "round": 1,
+  "existing_articles_count": 20,
+  "metadata": {
+    "title": "Why Japanese Toilets Have So Many Buttons",
+    "slug": "why-japanese-toilets-have-so-many-buttons"
+  }
+}

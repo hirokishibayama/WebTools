@@ -1,0 +1,56 @@
+{
+  "overall_score": 68,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 58,
+    "fact_source": 55,
+    "seo": 92,
+    "english": 86,
+    "originality": 86
+  },
+  "aggregated_issues": [
+    {
+      "severity": "critical",
+      "location": "What Visitors Misread — Misreading 1: *kannō shimasu*",
+      "problem": "Incorrect Japanese: kannō (感応) is not “I’ll consider it.” The intended phrase is kentō shimasu (検討します)",
+      "suggestion": "Replace with *kentō shimasu* (検討します); keep the soft-hold explanation",
+      "sources": ["cultural-accuracy", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Opening — “one unusual thing”",
+      "problem": "Stock / mildly exoticizing opener shared with sibling articles",
+      "suggestion": "Drop “unusual” or open directly on the invitation scene",
+      "sources": ["english-naturalness", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "Bag + daijoubu examples vs. companion article",
+      "problem": "Shared illustrative scenes with the daijoubu explainer",
+      "suggestion": "Keep cross-link; prefer invitation/hotel/workplace as signature scenes here",
+      "sources": ["editorial-originality", "reader-experience"]
+    }
+  ],
+  "critical_count": 1,
+  "major_count": 0,
+  "minor_count": 2,
+  "needs_revision": true,
+  "revision_reason": "critical > 0 (incorrect Japanese term kannō shimasu)",
+  "priority_notes": [
+    "[critical/cultural+fact] kannō shimasu → kentō shimasu (検討します)",
+    "[minor/english+cultural] Soften “unusual” opener",
+    "[minor/originality] Lean on non-bag signature scenes"
+  ],
+  "angle_vs_companion": {
+    "companion_slug": "why-japanese-people-say-daijoubu-so-often",
+    "this_angle": "Soft-refusal system: face, unfinished sentences, alternatives, misreads, asking strategy",
+    "companion_angle": "Single-word explainer for daijoubu’s multiple functions",
+    "verdict": "Angles are complementary; fix critical lexeme error before publish"
+  },
+  "round": 1,
+  "slug": "why-japanese-people-avoid-saying-no-directly",
+  "title": "Why Japanese People Avoid Saying “No” Directly",
+  "existing_articles_count": 20,
+  "scored_at": "2026-08-11T06:25:00.000Z"
+}

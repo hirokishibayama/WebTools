@@ -1,0 +1,34 @@
+{
+  "reviewer": "fact-source",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "March 20, 1995 and 13 deaths stated carefully",
+    "Explicit bullets prevent 1995→every missing bin causation overclaim",
+    "Maintenance/crow/overflow framed as parallel logic, not invented law"
+  ],
+  "verified": [
+    "Tokyo subway sarin attack on March 20, 1995",
+    "Attack killed 13 people; large number injured",
+    "Public/station bin removals widely reported as a post-attack security response"
+  ],
+  "questionable": [
+    "Exact density of bins 'not fully returning' nationwide by 2026—directionally fair, hard to quantify"
+  ],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## The 1995 Sarin Attack and Public Bins",
+      "problem": "'Injured thousands' is directionally correct but vague if a reader expects a precise casualty figure.",
+      "suggestion": "Keep 'thousands' or say 'thousands injured' without inventing a new exact count; do not tighten into a false precise number."
+    },
+    {
+      "severity": "minor",
+      "location": "causation framing throughout",
+      "problem": "None critical—article already separates contribution from sole cause.",
+      "suggestion": "Preserve the hedge list in any revision; do not strengthen causation language."
+    }
+  ]
+}

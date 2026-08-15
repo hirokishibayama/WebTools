@@ -1,0 +1,23 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0 and major=0 after revision",
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 90,
+    "seo": 93,
+    "english": 90,
+    "originality": 91
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Transit culture technology paragraph / soft orderly generalization",
+      "problem": "Non-blocking leftovers.",
+      "suggestion": "No further revision round required.",
+      "sources": ["english-naturalness", "fact-source"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Hook still earns the click: disagreeing maps plus unified payment",
+    "Through-running and fare stacking are concrete enough to use in a station",
+    "Tips stay practical (company name, last train per line, Yamanote is not subway)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Why So Many Companies Were Allowed to Remain",
+      "problem": "The clause that platform manners are a separate habit is accurate but slightly editor-facing.",
+      "suggestion": "Optional: end on the long walk into another building and drop the manners disclaimer."
+    }
+  ]
+}

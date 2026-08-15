@@ -1,0 +1,56 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (Article 42-2 over-legalized as general mechanism; 20/50 km/h imported as Japanese design speeds)",
+  "skill_scores": {
+    "reader": 85,
+    "japanese_perspective": 84,
+    "cultural_accuracy": 73,
+    "fact_source": 72,
+    "seo": 88,
+    "english": 83,
+    "originality": 87
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "## Why the Sidewalk Was Never Built — Setback roads / Article 42-2",
+      "problem": "Article 42-2 / 2項 setbacks are one class of older sub-standard lanes, not the typical explanation for every no-sidewalk street. Naming the statute without that limit over-legalizes.",
+      "suggestion": "Hedge or drop the article number. Separate slow lot-by-lot widening on some narrow lanes from ordinary 4–6 m living roads that simply never had a curb.",
+      "sources": ["fact-source", "cultural-accuracy"]
+    },
+    {
+      "severity": "major",
+      "location": "## Why the Sidewalk Was Never Built — 20 km/h vs 50 km/h",
+      "problem": "Those speeds are European shared-space rhetoric, not established Japanese residential design figures. Zone 30 already supplies a real local number.",
+      "suggestion": "Remove 20/50. Contrast crawl/local speed with arterial behavior; do not invent km/h.",
+      "sources": ["fact-source", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ — walk right or left; visitor tip on facing traffic",
+      "problem": "Hedged but incomplete: the usual legal default is the right-hand edge. Practice still varies.",
+      "suggestion": "State right-edge default, then hedge with clearer edge / school-route paint. Do not write a legal exam.",
+      "sources": ["fact-source", "seo-search-intent"]
+    },
+    {
+      "severity": "minor",
+      "location": "genkan paragraph; eating-while-walking aside",
+      "problem": "Causal stretch and slight off-intent padding on a geometry article.",
+      "suggestion": "Shorten; do not treat shoes or snacking as reasons the curb was never built.",
+      "sources": ["japanese-perspective", "reader-experience", "editorial-originality", "seo-search-intent"]
+    },
+    {
+      "severity": "minor",
+      "location": "Night scenario; shopfront 'waiting'; closing 'riddle'",
+      "problem": "Lighting over-generalized; two slightly oracular English lines.",
+      "suggestion": "Soften lighting; cut personification and riddle wink while editing nearby.",
+      "sources": ["cultural-accuracy", "english-naturalness"]
+    }
+  ],
+  "priority_notes": [
+    "Keep rosokutai versus sidewalk distinction; do not collapse into 'white line = sidewalk'.",
+    "Keep 'not all streets' and trash-cans analogy as class-of-street, not topic mix.",
+    "Never invent new legal details; hedge 42-2; pedestrian side must be accurate or hedged."
+  ]
+}

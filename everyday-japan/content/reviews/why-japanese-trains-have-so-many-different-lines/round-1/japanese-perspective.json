@@ -1,0 +1,24 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Line-as-address (living along the Keio, listings as geography) is something Japanese readers would recognize",
+    "Private terminals as commercial territory, landmark transfers, and fare-grumbling-while-tapping feel local rather than tourism copy",
+    "Avoids invented first-person memoir; uses 'many children' / 'some people… others…' hedges"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## How Japanese People Live Inside the Patchwork",
+      "problem": "'Staff answer with company names first: JR, Metro, Keio—not “the subway” as a single object' over-scripts a typical interaction. Staff often start from destination, ticket, or gate.",
+      "suggestion": "Hedge: staff often need the company or line name, because 'the subway' is not one object in a stacked hub."
+    },
+    {
+      "severity": "minor",
+      "location": "## Why So Many Companies Were Allowed to Remain (station design)",
+      "problem": "Locals do not experience door queues or escalator sides as consequences of operator plurality. Those habits sit on crowding and timetables.",
+      "suggestion": "Do not explain platform manners as adaptations to a multi-operator city."
+    }
+  ]
+}

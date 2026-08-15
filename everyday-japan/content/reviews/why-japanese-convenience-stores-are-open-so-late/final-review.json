@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "overall_score": 90,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Use the Night Store — OTC aside",
+      "problem": "Correct drugstore/OTC hedge slightly stalls the scenic paragraph.",
+      "suggestion": "Optional later tighten; do not add medicine claims.",
+      "sources": ["reader-experience", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "FAQ — Are all Japanese convenience stores open 24 hours?",
+      "problem": "“Growing share” is qualitative beside the hedged 7-Eleven number.",
+      "suggestion": "Leave unquantified.",
+      "sources": ["fact-source", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "Why Late Hours Fit — service stacking / disaster",
+      "problem": "Cause list still touches sibling topics at hour-justification length.",
+      "suggestion": "No further rewrite required.",
+      "sources": ["editorial-originality"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 90,
+    "fact_source": 88,
+    "seo": 92,
+    "english": 90,
+    "originality": 89
+  },
+  "final_summary": "PASS after one revision. Removed visitor-facing overclaims (konbini toilets; fever/children’s medicine as a typical night buy), kept Seven-Eleven’s 2026 ~1,400 / ~6% hours-change figure hedged, and dropped the 2024 “noticeable minority” wording that could inflate the reversal. Hours stay distinct from the food and services sibling articles. Ready to publish after a light human glance if desired.",
+  "slug": "why-japanese-convenience-stores-are-open-so-late",
+  "title": "Why Japanese Convenience Stores Are Open So Late",
+  "scored_at": "2026-08-15T22:40:00+09:00"
+}

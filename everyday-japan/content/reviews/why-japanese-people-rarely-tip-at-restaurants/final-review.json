@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "overall_score": 91,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Why Service Is Treated as Included",
+      "problem": "Still a long multi-subhead section.",
+      "suggestion": "Optional future trim only."
+    },
+    {
+      "severity": "minor",
+      "location": "Omotenashi subsection",
+      "problem": "Tourism-adjacent keyword remains; examples stay concrete.",
+      "suggestion": "Leave as-is."
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Visitor/local parallel is slightly patterned.",
+      "suggestion": "Optional polish."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 93,
+    "cultural_accuracy": 92,
+    "fact_source": 90,
+    "seo": 94,
+    "english": 91,
+    "originality": 91
+  },
+  "final_summary": "PASS after one revision. Removed unsupported staff-training claim, tightened the middle section and opening, and kept accurate rarely-tip framing with clear exceptions. Ready to publish after light human glance if desired.",
+  "slug": "why-japanese-people-rarely-tip-at-restaurants",
+  "title": "Why Japanese People Rarely Tip at Restaurants",
+  "scored_at": "2026-08-11T15:30:00+09:00"
+}

@@ -1,0 +1,31 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Opening scene is concrete, not “Japan is a country where.”",
+    "Short paragraphs, specific objects (rice balls, coffee machine, loungewear).",
+    "Fact/interpretation split reads like an editor, not a model reciting culture.",
+    "Closing insight is calm and specific."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Use the Night Store",
+      "problem": "“Weather and transport instrument” is slightly writerly/abstract.",
+      "suggestion": "Use the umbrella and missed-train actions in plain English."
+    },
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — final sentence",
+      "problem": "“The end of Japanese convenience” is stock magazine flourish.",
+      "suggestion": "Stay on the practical next step."
+    },
+    {
+      "severity": "minor",
+      "location": "Closing — “That compromise is being edited.”",
+      "problem": "Clever but a touch cute; not a blocker.",
+      "suggestion": "Optional: “That compromise is being renegotiated” to match the history section’s verb."
+    }
+  ]
+}

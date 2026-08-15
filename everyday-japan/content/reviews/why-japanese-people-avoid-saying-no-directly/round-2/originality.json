@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "System-of-refusal angle remains distinct from the daijoubu word explainer",
+    "Misreads + how-to-ask sections still supply Everyday Japan-specific value",
+    "Companion link keeps lexical detail outsourced rather than duplicated at length"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Bag-offer example",
+      "problem": "Still shares one illustrative beat with the daijoubu article",
+      "suggestion": "Acceptable with cross-link; no further revision required"
+    }
+  ]
+}

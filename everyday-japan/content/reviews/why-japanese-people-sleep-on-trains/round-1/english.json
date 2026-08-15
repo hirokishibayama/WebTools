@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Strong concrete verbs in the hook and scenarios",
+    "Mostly avoids stock 'unique Japanese culture' lines",
+    "Tone stays calm magazine feature, not guidebook cheer"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "final two sections",
+      "problem": "Lyrical closing ('borrowed darkness behind closed eyes', 'cities metabolize fatigue') stacks metaphor after the article has already explained the habit clearly.",
+      "suggestion": "Prefer one clean closing image; cut duplicate lyrical restatement."
+    },
+    {
+      "severity": "minor",
+      "location": "intro bridge",
+      "problem": "'Understanding this habit helps visitors see…' is slightly template-explanatory.",
+      "suggestion": "One shorter benefit line is enough."
+    }
+  ]
+}

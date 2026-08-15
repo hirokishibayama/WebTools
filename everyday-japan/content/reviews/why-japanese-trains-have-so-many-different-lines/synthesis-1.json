@@ -1,0 +1,41 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (misleading 'transfer fare'; manners/punctuality causation grafted onto operator plurality)",
+  "skill_scores": {
+    "reader": 85,
+    "japanese_perspective": 86,
+    "cultural_accuracy": 77,
+    "fact_source": 76,
+    "seo": 88,
+    "english": 86,
+    "originality": 78
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Live Inside the Patchwork (fares)",
+      "problem": "'Add a transfer fare' sounds like a surcharge. The real seam is stacked operator fares (sometimes with a transfer discount), without quoting yen.",
+      "suggestion": "Rewrite as paying more than a single-company trip of similar distance because fares stack—no invented yen.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "major",
+      "location": "## Why So Many Companies Were Allowed to Remain (station design)",
+      "problem": "Door queues blamed on tight operator timetables and escalator lanes blamed on inter-company walks misattribute separate habits and bleed into the punctuality/escalator siblings.",
+      "suggestion": "Keep long transfer walks as a physical fact of stacked companies. Do not cause-explain queues or standing sides from plurality.",
+      "sources": ["cultural-accuracy", "editorial-originality", "japanese-perspective", "seo-search-intent", "reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "staff script / JR–subway gates / 5 a.m. first train / Hakata / 'It is not the case that' / meta thesis / IC-card repetition",
+      "problem": "Over-scripted staff talk, gate mixing easy to over-read, clock-time as network fact, Hakata as equal patchwork, stiff negations, editor-note paragraph, IC-unifier taught too often.",
+      "suggestion": "Hedge staff and gates; drop the clock; keep Hakata modest; vary What This Is Not; shorten the punctuality pointer; trim repeat IC explanations.",
+      "sources": ["japanese-perspective", "fact-source", "cultural-accuracy", "english-naturalness", "reader-experience"]
+    }
+  ],
+  "priority_notes": [
+    "Critical facts to preserve: 1987 JNR split, Tokyo Metro vs Toei, through-running, IC cards do not merge companies.",
+    "Do not invent fare yen. Stay on operator plurality, not punctuality."
+  ]
+}

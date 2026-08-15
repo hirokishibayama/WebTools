@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Ochugen/oseibo ceremonial market has been shrinking; companies refuse gifts; fewer people never miss ochugen.",
+      "status": "supported-with-care",
+      "note": "Sankei 2026 citing Yano Research; Hakuhodo life institute figures in press. Hedge as reporting, not a single official census."
+    },
+    {
+      "claim": "Japanese people constantly give gifts as a personality trait.",
+      "status": "false-stereotype",
+      "note": "Article splits practices and decline."
+    },
+    {
+      "claim": "Omiyage is often shareable workplace/family food from a trip.",
+      "status": "supported",
+      "note": "Common practice; not every workplace."
+    },
+    {
+      "claim": "Restaurant tipping and temiyage are the same custom.",
+      "status": "false-stereotype",
+      "note": "Article separates them."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

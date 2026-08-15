@@ -1,0 +1,19 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Rejects the idea that Japanese speakers never admit difficulty",
+    "Treats soft refusal as one job of the word, not the national personality",
+    "Medical / deadline caveats correctly push against politeness-as-shield myths",
+    "Regional and industry variation acknowledged for service scripts"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience the Word — “national toolkit”",
+      "problem": "“National toolkit” lightly nationalizes a high-frequency lexical habit",
+      "suggestion": "Prefer “everyday toolkit” or “common conversational toolkit”"
+    }
+  ]
+}

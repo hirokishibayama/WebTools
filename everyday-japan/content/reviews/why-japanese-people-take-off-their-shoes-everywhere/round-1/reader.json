@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Clear portable-boundary framing",
+    "Concrete venue list + exceptions",
+    "Useful visitor tips"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Opening",
+      "problem": "Stock “Many visitors notice one unusual thing” opener",
+      "suggestion": "Open on a specific shoe-rack / restaurant genkan beat"
+    }
+  ]
+}

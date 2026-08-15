@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Rarely-vs-never framing and exceptions remain accurate.",
+    "Lunch-set vs hotel-dining cue clarifies venue variation.",
+    "Wage myth still correctly separated in FAQ."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Omotenashi subsection",
+      "problem": "Keyword still tourism-adjacent, though examples stay concrete.",
+      "suggestion": "Leave as-is unless shortening for space."
+    }
+  ]
+}

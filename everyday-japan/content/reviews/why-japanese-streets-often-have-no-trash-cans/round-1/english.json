@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Concrete street scenes and conditional-bin distinctions read like magazine feature writing",
+    "Avoids 'Japan is amazing' wonder tone",
+    "Short paragraphs mostly land cleanly"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "final section",
+      "problem": "Closing stacks explanatory restatement ('When you cannot find a can…' / 'If you remember only one nuance…') with similar cadence, feeling padded rather than decisive.",
+      "suggestion": "End on one concrete image (pocket/bag/hotel bin as hidden infrastructure) plus one sentence of insight."
+    },
+    {
+      "severity": "minor",
+      "location": "opening bridge paragraph",
+      "problem": "'Understanding the answer means holding two ideas at once' is slightly meta-editorial.",
+      "suggestion": "State the two factors in one plain sentence without the 'holding ideas' frame."
+    }
+  ]
+}

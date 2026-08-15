@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Density claim hedged without a false exact count",
+    "Safety-alone explanation correctly rejected",
+    "Hot/cold drinks as core of industry is sound"
+  ],
+  "verified": [
+    "Japan has historically very high vending-machine density relative to many countries (counts vary by year)",
+    "Drink machines with hot and cold selections are common",
+    "Vandalism and theft of machines occur; machines are secured/maintained",
+    "Attached recycling bins are typically for products bought there"
+  ],
+  "questionable": [
+    "Comparative crime-rate framing without named stats/years"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future exact national machine count or crime-rate statistic"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Safety section / density intro",
+      "problem": "Comparative safety and “one of the world’s highest densities” are directionally right but uncited.",
+      "suggestion": "Keep hedges; do not add invented numbers."
+    }
+  ]
+}

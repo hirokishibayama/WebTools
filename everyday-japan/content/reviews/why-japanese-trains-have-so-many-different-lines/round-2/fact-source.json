@@ -1,0 +1,29 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "1987 JNR split, Tokyo Metro vs Toei, through-running, and IC-as-payment-only remain intact",
+    "Fare language now describes stacked company fares rather than a phantom transfer surcharge",
+    "Gate mixing is limited to a valid connected journey; unpaid wandering is warned against; no yen invented"
+  ],
+  "verified": [
+    "Japanese National Railways divided and privatized in 1987 into JR companies",
+    "Tokyo Metro and Toei as two subway operators",
+    "Through-running (直通運転)",
+    "Yamanote is JR, not subway",
+    "Hankyu-associated rails-housing-department-store pattern",
+    "IC interoperability without corporate merger"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "**Municipal and metro subways as extra layers**",
+      "problem": "'Merger of systems' is slightly stronger than the institutional fact (two operators, often one printed map).",
+      "suggestion": "Call it an overlay or combined map, not a merger."
+    }
+  ]
+}

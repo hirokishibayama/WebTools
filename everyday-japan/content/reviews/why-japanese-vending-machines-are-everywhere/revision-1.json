@@ -1,0 +1,11 @@
+{
+  "reason": "Editorial hedge on cross-country crime comparison (1 major fact issue) + category label align",
+  "changes": [
+    "Replaced cross-country crime-rate assertion with location/time-variable outdoor viability framing",
+    "Category Everyday Life → Daily Life"
+  ],
+  "paths": [
+    "content/articles/why-japanese-vending-machines-are-everywhere/article.md",
+    "articles/why-japanese-vending-machines-are-everywhere.md"
+  ]
+}

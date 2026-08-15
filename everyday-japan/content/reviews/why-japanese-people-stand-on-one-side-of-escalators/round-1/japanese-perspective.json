@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Frames etiquette as situational alignment, not a national exam",
+    "Local irritation at blocking the walking lane is specific and believable",
+    "Learning-by-imitation and Tokyo–Osaka switchers feel everyday-true"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Station Culture, Not Just Escalators",
+      "problem": "Link from escalator lanes to bowing stretches the analogy more than locals would.",
+      "suggestion": "Keep station habits (queueing, exit-first); drop or soften the bowing parallel."
+    }
+  ]
+}

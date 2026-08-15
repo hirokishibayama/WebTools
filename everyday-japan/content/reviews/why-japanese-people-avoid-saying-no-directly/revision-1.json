@@ -1,0 +1,27 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-avoid-saying-no-directly",
+  "source_path": "content/articles/why-japanese-people-avoid-saying-no-directly/article.md",
+  "synced_path": "articles/why-japanese-people-avoid-saying-no-directly.md",
+  "changes": [
+    {
+      "severity": "critical",
+      "location": "What Visitors Misread — Misreading 1",
+      "before": "*kannō shimasu* (“I’ll consider it”)",
+      "after": "*kentō shimasu* (検討します, “I’ll consider it”)",
+      "reason": "Correct incorrect Japanese lexeme (感応 → 検討)"
+    },
+    {
+      "severity": "minor",
+      "location": "Opening",
+      "before": "Many visitors to Japan notice one unusual thing. + invitation montage",
+      "after": "Open directly on the invitation / chotto / daijoubu montage",
+      "reason": "Remove stock exoticizing opener while revising"
+    }
+  ],
+  "not_changed": [
+    "No new facts invented",
+    "Bag/daijoubu example retained with companion link (minor originality note only)"
+  ],
+  "revised_at": "2026-08-11T06:28:00.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Rejects the all-konbini-are-24h stereotype with urban/rural and chain-level variation.",
+    "Labor shortage, franchise strain, and 2019 conflict prevent a “Japan loves convenience” myth.",
+    "Fact vs interpretation in the history section is exactly the editorial standard.",
+    "Closing treats late hours as a compromise, not a cultural performance."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Train-shaped days — bathroom in one box",
+      "problem": "Customer toilets are not a standard konbini amenity. Treating them as part of the night-infrastructure package over-generalizes urban stores, especially small station boxes.",
+      "suggestion": "Do not list a bathroom as a given. Say restrooms exist at some locations and are not guaranteed."
+    },
+    {
+      "severity": "major",
+      "location": "Night-store uses + 3 a.m. scenario — children’s/fever medicine",
+      "problem": "OTC medicine at konbini requires specific staffing and inventory. Presenting fever/children’s medicine as a typical 3 a.m. purchase overstates what the format does versus a drugstore.",
+      "suggestion": "Hedge or replace with drinks, cooling sheets, or “limited OTC at some stores.”"
+    },
+    {
+      "severity": "minor",
+      "location": "Late Does Not Mean Every Store — 2024 noticeable minority",
+      "problem": "“Noticeable minority” across major chains sits next to Seven-Eleven’s ~6% figure and can sound like a larger national reversal than that chain’s number supports. Other chains have differed; the sentence blurs that.",
+      "suggestion": "Keep 7-Eleven’s 2026 figure hedged; make 2024 a qualitative “more stores allowed to close” rather than a cross-chain minority claim."
+    }
+  ]
+}

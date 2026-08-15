@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Payment sequence (sumimasen → bill → exact change → leave) matches everyday restaurant life.",
+    "Loyalty, reviews, and return visits as gratitude channels feel locally accurate.",
+    "How Japanese People Talk About Good Service avoids invented first-person memoir while sounding true."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Paying Works in Everyday Restaurant Life",
+      "problem": "“Japanese people usually do not walk out thinking…” is mostly fair but still a broad mind-reading frame.",
+      "suggestion": "Keep the behavioral claim; softenslightly to “most diners do not treat tipping as the closing step.”"
+    }
+  ]
+}

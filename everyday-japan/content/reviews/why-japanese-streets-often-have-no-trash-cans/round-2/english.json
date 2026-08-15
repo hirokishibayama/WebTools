@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Closing is tighter and less padded",
+    "Intro bridge is plainer",
+    "Magazine tone held without wonder-clickbait"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Carry-Home Trash as Everyday Norm — parenthetical",
+      "problem": "The mochikaeri clarification is accurate but slightly pedagogical mid-paragraph.",
+      "suggestion": "Acceptable tradeoff for cultural precision; could move to a short clause later if desired."
+    }
+  ]
+}

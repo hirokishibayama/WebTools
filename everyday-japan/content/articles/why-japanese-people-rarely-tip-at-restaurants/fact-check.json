@@ -1,0 +1,34 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Tipping is not customary in most everyday Japanese restaurants.",
+      "status": "supported",
+      "note": "Article correctly prefers 'rarely' over absolute 'never'."
+    },
+    {
+      "claim": "Staff may return tip cash believing it is forgotten change.",
+      "status": "supported",
+      "note": "Widely reported traveler/staff experience; framed as common outcome, not universal."
+    },
+    {
+      "claim": "Printed service charges can appear for groups, private rooms, or luxury dining.",
+      "status": "supported",
+      "note": "Advise reading the bill; do not invent percentages."
+    },
+    {
+      "claim": "No-tipping custom does not by itself prove a specific national wage level.",
+      "status": "supported",
+      "note": "Important caveat retained in FAQ."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid 'tipping is always rude/illegal' absolutism.",
+    "Acknowledge tourist-venue and hotel exceptions.",
+    "Do not romanticize omotenashi as mystical or tip-incompatible spirituality."
+  ],
+  "notes": [
+    "Human review required before publish; status remains review.",
+    "Cross-links to water/tea, bowing, and sumimasen support service-script context."
+  ]
+}

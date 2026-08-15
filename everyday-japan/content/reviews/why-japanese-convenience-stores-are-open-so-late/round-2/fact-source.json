@@ -1,0 +1,33 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Does not claim all konbini are 24 hours.",
+    "Seven-Eleven 2026 ~1,400 stores / ~6% remains hedged; figures will move.",
+    "Bathroom and OTC overclaims removed.",
+    "1974 opening, 2019 franchise news, and modal FTC wording still hold."
+  ],
+  "verified": [
+    "Japan’s first Seven-Eleven opened in Tokyo in 1974 with roughly 7 a.m.–11 p.m. hours.",
+    "24-hour operation followed and became a competitive urban promise.",
+    "2019 franchisee/headquarters conflict over 24-hour opening was national news.",
+    "JFTC indicated forcing 24-hour operation could raise competition-law concerns in some conditions.",
+    "Seven-Eleven Japan 2026 comments: on the order of about 1,400 domestic stores (~6%) with changed hours, including overnight closures."
+  ],
+  "questionable": [
+    "Closing windows “often tested in the late-night to early-morning range” (pattern, not a uniform rule)."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future Lawson/FamilyMart or sector-wide non-24h percentage."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ — growing share",
+      "problem": "Qualitative “growing share” has no number; fine if it stays unquantified.",
+      "suggestion": "Do not convert to a percentage without a cite."
+    }
+  ]
+}

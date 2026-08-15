@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Inemuri framed as context-dependent, not laziness theater",
+    "Alcohol vs commute fatigue distinction matches local social reading",
+    "No invented first-person Japanese memoir; observational 'growing up' framing stays editorial"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Quiet Cars, Relative Safety, and Real Risks — masks link",
+      "problem": "Mask-as-privacy signal is a real secondary use for some people but can feel like a stretch in a sleep article.",
+      "suggestion": "Shorten to one clause or drop if it pulls focus from sleep/risk habits."
+    }
+  ]
+}

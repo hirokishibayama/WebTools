@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Centers payment scripts and gratitude channels rather than a tourism myth about politeness.",
+    "Fact/Interpretation split and wage FAQ caveat add Everyday Japan editorial value.",
+    "Cross-links to water/tea, bowing, and sumimasen support a service-script cluster without cloning those pieces."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Omotenashi without a tip jar",
+      "problem": "Omotenashi section risks tourism-brochure overlap if left abstract; currently concrete enough but still a cliché keyword.",
+      "suggestion": "Keep concrete gestures; avoid expanding omotenashi as a brand slogan."
+    }
+  ]
+}

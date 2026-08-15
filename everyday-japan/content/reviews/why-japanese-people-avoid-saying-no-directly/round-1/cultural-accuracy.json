@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 58,
+  "status": "fail",
+  "strengths": [
+    "Explicitly dismantles “Japanese people never say no”",
+    "Situates softness in service / acquaintance / workplace contexts rather than national essence",
+    "Compares soft strategies worldwide without unique-harmony myth"
+  ],
+  "issues": [
+    {
+      "severity": "critical",
+      "location": "What Visitors Misread — Misreading 1: *kannō shimasu*",
+      "problem": "Wrong Japanese: kannō (感応) is not the polite “I’ll consider it” phrase. The intended expression is kentō shimasu (検討します)",
+      "suggestion": "Replace with *kentō shimasu* (検討します) and keep the gloss “I’ll consider it”"
+    },
+    {
+      "severity": "minor",
+      "location": "Opening — “one unusual thing”",
+      "problem": "Mild exoticizing cue for a common pragmatic pattern",
+      "suggestion": "Prefer “one social pattern” or drop “unusual”"
+    }
+  ]
+}

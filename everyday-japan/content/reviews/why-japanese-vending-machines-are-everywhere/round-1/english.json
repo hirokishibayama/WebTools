@@ -1,0 +1,23 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Strong concrete closing (“map” of where people pass/wait) without magic tone",
+    "Avoids most AI stock wonder phrases"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "What “Everywhere” Actually Looks Like",
+      "problem": "“Japan is famous for…” is mild brochure phrasing.",
+      "suggestion": "State the density observation without “famous for.”"
+    },
+    {
+      "severity": "minor",
+      "location": "closing",
+      "problem": "Final line “That is the everyday reason the lights stay on” is slightly slogan-like.",
+      "suggestion": "Optional trim; body already lands the point."
+    }
+  ]
+}

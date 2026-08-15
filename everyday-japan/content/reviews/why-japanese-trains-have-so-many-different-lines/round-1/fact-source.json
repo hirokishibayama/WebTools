@@ -1,0 +1,46 @@
+{
+  "reviewer": "fact-source",
+  "score": 76,
+  "status": "revise",
+  "strengths": [
+    "1987 JNR privatization/split into JR groups is stated correctly and not over-explained",
+    "Tokyo Metro and Toei as two subway operators is accurate",
+    "No invented yen figures; through-running and IC-as-payment-only are the right institutional facts"
+  ],
+  "verified": [
+    "Japanese National Railways divided and privatized in 1987 into JR companies",
+    "Tokyo has two subway operators: Tokyo Metro and Toei",
+    "Through-running (直通運転) lets some suburban trains continue onto subway tracks",
+    "Yamanote is a JR loop, not a subway",
+    "Hankyu-associated private railways historically combined rails, housing, and a terminal department store (pattern, not universal)",
+    "Suica, Pasmo, ICOCA and similar IC cards interoperate for payment without merging companies"
+  ],
+  "questionable": [
+    "Crossing company boundaries 'adds a transfer fare' (sounds like a surcharge rather than stacked operator fares, sometimes with a transfer discount)",
+    "Enter JR gate / exit subway gate on a valid tap (true for many IC through-journeys, easy to misread as any gate pair)"
+  ],
+  "unsupported": [
+    "Staff answer with company names first as a default script"
+  ],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "## How Japanese People Live Inside the Patchwork (fares)",
+      "problem": "'Crossing company boundaries can add a transfer fare' is the wrong mechanism. Riders typically pay each operator’s fare (sometimes with a 乗継割引). There is not a standard extra 'transfer fee,' and inventing a yen example would be worse.",
+      "suggestion": "Say you often pay more than a same-distance trip on one company because two (or more) fares stack—without quoting yen."
+    },
+    {
+      "severity": "minor",
+      "location": "## What This Is Not (IC gates)",
+      "problem": "JR-in / subway-out on one tap is true only for a valid connected journey. Readers may think unpaid corridors are fair game.",
+      "suggestion": "Keep the hedge 'depending on the journey' and add that you must follow a valid route, not wander between unpaid areas."
+    },
+    {
+      "severity": "minor",
+      "location": "## How Japanese People Live Inside the Patchwork",
+      "problem": "'The first train after 5 a.m.' is a mood detail, not a network fact; first trains vary by line.",
+      "suggestion": "Soften to early-morning first trains, without a clock-time that sounds official."
+    }
+  ]
+}

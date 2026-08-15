@@ -1,0 +1,29 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Regional standing sides match widely reported practice",
+    "Operator safety campaigns and capacity trade-offs are treated as contested, not settled law"
+  ],
+  "verified": [
+    "In Tokyo/Kanto stations, common pattern is stand left / walk right",
+    "In Osaka/Kansai stations, common pattern is stand right / walk left",
+    "Some operators ask passengers to stand on both sides for safety"
+  ],
+  "questionable": [
+    "Specific Osaka origin tied to mid-century campaigns/events (popular story, not firmly sourced here)"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future absolute claim about a single national campaign year or operator mandate"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Tokyo Stands Left. Osaka Stands Right. / origin paragraph",
+      "problem": "Historical origin is alluded to without a named source; currently hedged as unsettled popular explanation.",
+      "suggestion": "Leave as popular lore or name a source; do not harden into fact."
+    }
+  ]
+}

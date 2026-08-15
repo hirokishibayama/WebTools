@@ -1,0 +1,25 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the search: why residential Japanese streets lack raised sidewalks",
+    "H2s are natural questions and scenes, not stuffed keywords",
+    "FAQ covers 'do all streets…', white line, safety, why cities do not add curbs",
+    "Trash-cans sibling is used as analogy-plus-disambiguation, not a topic hijack"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ — walk right or left",
+      "problem": "Searchers who ask this get a dodge. Intent is a short practical answer.",
+      "suggestion": "Give the usual right-edge default plus a practice hedge; keep it shorter than a statute."
+    },
+    {
+      "severity": "minor",
+      "location": "genkan and eating-while-walking internal links",
+      "problem": "Related-site links are fine; as body paragraphs they slightly leave geometry/cross-section intent.",
+      "suggestion": "Keep links; shorten the asides so the page still answers sidewalks first."
+    }
+  ]
+}

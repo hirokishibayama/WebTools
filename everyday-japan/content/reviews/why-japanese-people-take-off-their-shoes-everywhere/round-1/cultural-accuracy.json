@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Rejects always-barefoot stereotype",
+    "Separates fact vs interpretation",
+    "Notes Western-style exceptions"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Title",
+      "problem": "“Everywhere” overstates; body correctly narrows",
+      "suggestion": "Keep body hedges; title OK as search phrasing"
+    }
+  ]
+}

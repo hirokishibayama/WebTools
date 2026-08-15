@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "opening paragraph",
+      "problem": "Stock template opener (‘Many visitors to Japan notice one unusual thing’) shared with sibling articles",
+      "suggestion": "Open on a specific threshold/shoe-rack scene without the generic unusual-thing frame",
+      "sources": ["english-naturalness", "editorial-originality"]
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Why Cleanliness Boundaries Matter — packaging cross-link",
+      "problem": "Packaging parallel is editorial cleverness more than a local association",
+      "suggestion": "Keep courtesy point; soften or drop packaging link",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "historical paragraph",
+      "problem": "Historical wooden-floor causation stated tightly without source",
+      "suggestion": "Hedge as longstanding residential practice / soft interpretation",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Schools — gyms/uwabaki",
+      "problem": "Gym footwear rules slightly flattened",
+      "suggestion": "Note gyms/special rooms may use different indoor footwear",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "mid sections",
+      "problem": "Boundary definition restated across several sections",
+      "suggestion": "Tighten one middle section",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "Foreign visitor / local parallel closer is slightly formulaic",
+      "suggestion": "Vary cadence while keeping the insight",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 83,
+    "originality": 88
+  },
+  "final_summary": "PASS. Portable cleanliness-boundary frame is strong, culturally hedged, and visitor-useful. One major English/originality issue (stock opener) remains but does not block publish under revision rules (major < 2). Light polish optional.",
+  "slug": "why-japanese-people-take-off-their-shoes-everywhere",
+  "title": "Why Japanese People Take Off Their Shoes Everywhere",
+  "scored_at": "2026-08-11T06:36:00.000Z"
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Title matches core query; intro answers why without stuffing",
+    "FAQ covers inemuri, quietness, safety, universality",
+    "Related internal links support topical cluster without derailing intent"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ",
+      "problem": "Optional adjacent intent: 'Is it rude to sleep on Japanese trains?' is implied but not headed.",
+      "suggestion": "Optional one FAQ line pointing to etiquette boundaries."
+    }
+  ]
+}

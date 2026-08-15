@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Closing now lands once with a concrete pocket/bag/hotel image",
+    "Practical scenarios and tips remain strong",
+    "1995 section still readable without drowning the habit story"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Sorting Rules Shape Behavior",
+      "problem": "Still a bit more institutional than scenic.",
+      "suggestion": "Optional future polish only; not blocking."
+    }
+  ]
+}

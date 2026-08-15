@@ -1,0 +1,25 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Locals would recognize omiyage as a mild office tax people joke about and still buy at the station.",
+    "The paired truths—“we don’t really do ochugen anymore” and cakes when invited to dinner—match how households actually talk.",
+    "Reciprocity as a trap, PTA debates, café meetups with nothing in hand, and looking up manners pages make taken-for-granted habits visible without invented memoir.",
+    "Threshold concentration (arriving, returning, marking a season) is the right everyday map, not “Japanese people are generous.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience the Small Bag — “Japanese people often prefer this to a long verbal performance of gratitude”",
+      "problem": "Slightly mind-reads a national preference; many people are simply following the expected object, not choosing gifts over speeches.",
+      "suggestion": "Frame as a common pattern: the wrapped item often does the thanks so the talk can stay light—not as a personality preference."
+    },
+    {
+      "severity": "minor",
+      "location": "What Visitors Over-Read — “not genetically remembered”",
+      "problem": "The manners-page correction is locally true; the genetic joke is not how people would describe looking up 香典 or お見舞い.",
+      "suggestion": "Say the defaults are looked up because ceremonial rules are not everyday knowledge—even for locals."
+    }
+  ]
+}

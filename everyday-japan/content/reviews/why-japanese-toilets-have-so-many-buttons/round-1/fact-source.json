@@ -1,0 +1,37 @@
+{
+  "reviewer": "fact-source",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Marks Fact vs Interpretation for washlet prevalence vs ‘many buttons’ feeling",
+    "Correctly separates sensor lid/seat surprises from intentional wash activation",
+    "Avoids fake universal icon keymap; notes brand/age variation"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "What the Buttons Are Usually Trying to Do — Otohime line",
+      "problem": "‘Otohime-style sound buttons (or apps historically)’ blends a known product category with vague ‘apps historically’ without grounding; easy to overread as a verified timeline",
+      "suggestion": "Keep sound-masking as a common feature; drop ‘apps historically’ or hedge as ‘some later apps/devices’ without implying a researched history"
+    },
+    {
+      "severity": "minor",
+      "location": "Why Functions Piled Up — 1980s onward",
+      "problem": "Electric toilet-seat popularization ‘from the 1980s onward’ is broadly consistent with industry history but stated without citation",
+      "suggestion": "Keep as soft product-history framing (‘from the late 20th century’ / ‘especially since the 1980s’) rather than a dated institutional claim"
+    }
+  ],
+  "verified": [
+    "Washlet-style seats with multi-function panels are common in Japanese homes/hotels/public facilities but not universal",
+    "Common controls include rear wash, front/bidet wash, stop, pressure/position, dryer, seat heat; flush may be separate",
+    "Most wash spray requires a button press rather than auto-wash on sit"
+  ],
+  "questionable": [
+    "Otohime-style buttons ‘or apps historically’ as a single casual claim",
+    "Precise ‘1980s onward’ popularization without named manufacturer timeline"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any specific first-year, market-share, or app-history claim"
+  ]
+}

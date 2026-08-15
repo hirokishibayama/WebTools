@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 95,
+  "status": "pass",
+  "strengths": [
+    "Dedicated anti-myth section rejects “Japan is uniquely safe so machines survive”",
+    "Frames relative outdoor viability + business model + norms without fairy-tale virtue",
+    "Rural gaps, removed machines, and litter near popular units prevent over-clean stereotypes"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Safety, Theft, and What Not to Mythologize",
+      "problem": "Still cites lower rates of “certain street crimes” historically—acceptable if kept comparative and partial, but easy to skim as uniqueness myth.",
+      "suggestion": "Keep current layered framing; avoid any stronger uniqueness claim."
+    }
+  ]
+}

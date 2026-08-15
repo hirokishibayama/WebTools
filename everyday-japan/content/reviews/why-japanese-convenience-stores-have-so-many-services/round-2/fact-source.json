@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Printer claim hedged to availability/convenience.",
+    "Brand-specific Amazon example removed.",
+    "No fake nationwide uniformity or full bank replacement."
+  ],
+  "verified": [
+    "Major chains commonly offer ATMs, slip payment, parcels, and printing.",
+    "Service menus vary by chain and store.",
+    "Bill payment usually requires resident slips—not a tourist default."
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Future numeric industry stats or fee schedules."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Services Accumulated",
+      "problem": "1970s expansion remains qualitative (acceptable) without a cite.",
+      "suggestion": "Keep qualitative unless adding a sourced figure later."
+    }
+  ]
+}

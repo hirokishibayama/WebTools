@@ -1,0 +1,19 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "24-hour stereotype is rejected with urban/rural and chain-pace variation.",
+    "Toilets and OTC are no longer treated as standard konbini kit.",
+    "Labor/franchise history still blocks a “Japan loves convenience” story.",
+    "Fact vs interpretation list is intact."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ — Are all Japanese convenience stores open 24 hours?",
+      "problem": "“A growing share of shortened-hour locations” is fair but looser than the hedged Seven-Eleven figure above.",
+      "suggestion": "Acceptable as qualitative. Do not add a sector percentage without a source."
+    }
+  ]
+}

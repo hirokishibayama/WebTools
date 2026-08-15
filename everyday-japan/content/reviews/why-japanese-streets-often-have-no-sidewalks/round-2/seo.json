@@ -1,0 +1,11 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Title/intro still answer why many Japanese residential streets lack raised sidewalks",
+    "FAQ now answers walk-left-or-right with a practical default plus hedge",
+    "Trash-cans link remains disambiguation of a similar title pattern, not a bin article"
+  ],
+  "issues": []
+}

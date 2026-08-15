@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Anti-myth safety section is the editorial differentiator vs tourism copy",
+    "Empty pedestal / removed machines and aging-neighborhood thin retail are fresh angles",
+    "Links to trash cans and konbini without cloning those articles"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Hot, Cold, and Niche Machines",
+      "problem": "Niche-machine list is familiar viral-Japan content; article correctly de-centers it, but the list still reads tourist-catalog briefly.",
+      "suggestion": "Keep short; emphasize drinks-as-core (already done)."
+    }
+  ]
+}

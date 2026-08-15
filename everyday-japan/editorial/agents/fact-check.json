@@ -1,0 +1,23 @@
+{
+  "id": "fact-check",
+  "name": "Fact Check Agent",
+  "stage": 6,
+  "purpose": "Review the draft for verified facts, citation needs, bias, outdated info, and unsupported claims.",
+  "prompt": "editorial/prompts/06-fact-check.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "draft.md",
+    "research.md",
+    "seo.md"
+  ],
+  "dependsOn": ["seo"],
+  "output": {
+    "file": "fact-check.md",
+    "template": "editorial/templates/fact-check.md"
+  },
+  "automation": {
+    "webSearch": false,
+    "planned": "Add live source verification later.",
+    "replaceable": true
+  }
+}

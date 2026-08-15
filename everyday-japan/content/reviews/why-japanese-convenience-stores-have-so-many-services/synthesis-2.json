@@ -1,0 +1,33 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0 and major=0 after revision round 1; differentiation from feel-so-different holds",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 2,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 93,
+    "fact_source": 89,
+    "seo": 93,
+    "english": 91,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Service inventory bullets",
+      "problem": "High-level function list still overlaps sibling topic inventory; thesis and scenarios keep pieces complementary.",
+      "suggestion": "No further rewrite required.",
+      "sources": ["editorial-originality"]
+    },
+    {
+      "severity": "minor",
+      "location": "1970s expansion mention",
+      "problem": "Qualitative history without cite (acceptable at current certainty).",
+      "suggestion": "Add a source only if introducing numbers later.",
+      "sources": ["fact-source"]
+    }
+  ]
+}

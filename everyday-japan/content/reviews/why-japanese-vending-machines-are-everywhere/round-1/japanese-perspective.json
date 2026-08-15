@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Machine as default hydration tool, not novelty",
+    "School-route and factory-edge scenes feel local",
+    "Konbini + machine same-day layering is accurate everyday use"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why Machines Fit Japanese Daily Life",
+      "problem": "“Offices may discourage long breaks” is plausible but a bit generic without scene detail.",
+      "suggestion": "Keep as light hedge or tie to a concrete commute beat."
+    }
+  ]
+}

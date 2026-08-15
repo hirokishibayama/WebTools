@@ -1,0 +1,55 @@
+{
+  "status": "HUMAN_REVIEW",
+  "overall_score": 82,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "What Visitors Over-Read — hospital visits and funerals",
+      "problem": "お見舞い and 香典 are merged into one rule list, and “do not copy omiyage logic” overclaims for hospital visits, where modest fruit/sweets/flowers are common.",
+      "suggestion": "Split sick-visit gifts from funeral condolence money. Ask locally. Do not invent yen figures.",
+      "sources": ["cultural-accuracy", "fact-source"]
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "2020s reporting sentence",
+      "problem": "Survey/compliance/虚礼廃止 attribution is slightly sloppy though hedged.",
+      "suggestion": "Keep press/survey hedges; no fake percentages."
+    },
+    {
+      "severity": "minor",
+      "location": "Seasonal accounting",
+      "problem": "Employment and compliance read as the full cause of ochugen fade.",
+      "suggestion": "Hedge as one reason among several."
+    },
+    {
+      "severity": "minor",
+      "location": "Over-Read + Tips + FAQ",
+      "problem": "Modest-gift / okaeshi warning repeats.",
+      "suggestion": "Optional trim."
+    },
+    {
+      "severity": "minor",
+      "location": "“not genetically remembered” / Interpretation label",
+      "problem": "Tone ticks, not accuracy failures.",
+      "suggestion": "Optional polish."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 87,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 76,
+    "fact_source": 78,
+    "seo": 91,
+    "english": 86,
+    "originality": 91
+  },
+  "final_summary": "HUMAN_REVIEW without a revision round (one major, no critical). The article correctly splits omiyage, temiyage, ochugen/oseibo, and okaeshi; hedges ceremonial decline; and stays off packaging design and restaurant tipping. PASS is blocked by the hospital/funeral gift-rule bundle. A human (or a later targeted patch) should untangle お見舞い from 香典 before publish.",
+  "slug": "why-japanese-people-give-gifts-so-often",
+  "title": "Why Japanese People Give Gifts So Often",
+  "scored_at": "2026-08-15T22:30:00+09:00",
+  "revision_note": "Flow threshold not met (critical=0, major=1). article.md unchanged; no draft copy."
+}

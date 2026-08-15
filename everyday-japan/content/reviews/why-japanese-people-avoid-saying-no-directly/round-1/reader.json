@@ -1,0 +1,19 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Opening invitation / chotto / daijoubu montage states the visitor problem fast",
+    "“What Visitors Misread” delivers memorable aha moments",
+    "Asking tips (easy-out questions) are immediately usable",
+    "Hard-boundary scenario prevents the soft-no myth from becoming the whole story"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Common Soft Refusal Tools vs Real-Life Scenarios",
+      "problem": "Bag + daijoubu appears again after the toolkit section",
+      "suggestion": "Keep one bag beat; vary later scenarios (already mostly done)"
+    }
+  ]
+}

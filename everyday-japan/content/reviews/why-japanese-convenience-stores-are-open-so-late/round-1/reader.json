@@ -1,0 +1,37 @@
+{
+  "reviewer": "reader-experience",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Hook is cinematic and immediately useful: last train, shutters, fluorescent konbini.",
+    "The article answers why hours exist, then what to do if a door is locked.",
+    "Scenarios and FAQ match first-time visitor questions without turning into a nightlife guide.",
+    "Sibling articles are scoped out early so this piece can stay on hours."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Why Late Hours Fit Japanese Daily Life — Train-shaped days",
+      "problem": "Missed-last-train konbini is framed as food, warmth, ATM, and a bathroom in one box. Many urban stores have no customer toilet. A visitor who plans around that sentence can get stuck.",
+      "suggestion": "Keep food, warmth, and ATM. Hedge restrooms: only some stores have them; do not count on one."
+    },
+    {
+      "severity": "major",
+      "location": "How Japanese People Use the Night Store + Real-Life Scenarios (3 a.m. parent)",
+      "problem": "Fever medicine and children’s medicine are presented as ordinary late-night konbini buys. OTC stock is limited and store-dependent; many shops have none. The scene teaches the wrong errand.",
+      "suggestion": "Use a reliable night buy (drink, cooling sheet, diapers if stocked) or hedge: a thin OTC shelf at some stores, not a pharmacy."
+    },
+    {
+      "severity": "minor",
+      "location": "Late Does Not Mean Every Store — 2024/2026 figures paragraph",
+      "problem": "The press-stat paragraph is denser than the surrounding magazine prose and may cause a mid-section skim.",
+      "suggestion": "Keep the 7-Eleven hedge; shorten the 2024 clause so the visitor takeaway lands faster."
+    },
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — last bullet",
+      "problem": "“Do not treat one locked door as the end of Japanese convenience” sounds like a slogan after otherwise practical advice.",
+      "suggestion": "End on the next-node instruction only."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Clear opening scene of the empty lane and why it matters in stations",
+    "Tokyo vs Osaka practical guidance is visitor-usable",
+    "Tips and FAQ answer the real travel question without fluff"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "opening",
+      "problem": "Shared site opener “Many visitors to Japan notice one unusual thing” feels formulaic before the concrete escalator scene.",
+      "suggestion": "Lead with the empty-lane image in the first sentence."
+    },
+    {
+      "severity": "minor",
+      "location": "Why the Empty Lane Exists",
+      "problem": "Partly restates the standing/walking logic already explained in the first H2.",
+      "suggestion": "Trim one repeat of the sorting-rule explanation; keep the capacity-vs-speed debate."
+    }
+  ]
+}

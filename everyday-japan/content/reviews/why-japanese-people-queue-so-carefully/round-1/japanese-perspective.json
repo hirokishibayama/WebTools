@@ -1,0 +1,38 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Locals framed as impatient people who still stay in line—face of patience ≠ inner calm, complaints later to friends",
+    "Teachers framed as safety/throughput (‘if you push, someone gets hurt’), not ‘because we are Japanese’",
+    "meiwaku, number-ticket hovering as local cutting, konbini microwave order, and staff tapping someone back two meters are everyday, not tourist-brochure",
+    "No invented first-person Japanese memoir",
+    "Staff teaching the line in real time matches how the habit is actually maintained"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience Waiting — meiwaku gloss",
+      "problem": "meiwaku is narrowed to ‘trouble for people behind you.’ Locals use it more broadly (blocking a path, noise, making staff do extra work).",
+      "suggestion": "Keep the queue example; gloss meiwaku as imposing trouble on others, then specify the line."
+    },
+    {
+      "severity": "minor",
+      "location": "Order You Can See / school rehearsal",
+      "problem": "The everyday local name for platform lining (seiretsu jōsha / 整列乗車) never appears, so a term commuters actually see on posters is missing.",
+      "suggestion": "Introduce **seiretsu jōsha (整列乗車)** once, with a short gloss, without turning the piece into a vocabulary lesson."
+    },
+    {
+      "severity": "minor",
+      "location": "School as rehearsal — classroom-cleaning link",
+      "problem": "Tying queuing to students cleaning classrooms is editorial sibling-glue more than a local association. Adults lining up at a bakery are not thinking of sōji.",
+      "suggestion": "Keep school lining and drills; drop or soften the cleaning-classroom parallel."
+    },
+    {
+      "severity": "minor",
+      "location": "‘poetry of queuing’ / ‘public movement has a correct shape’",
+      "problem": "Slightly puts essay psychology in local heads. Many people just follow the paint.",
+      "suggestion": "Prefer ‘they are not romantic about waiting’ / ‘they expect movement to have a usual pattern.’"
+    }
+  ]
+}

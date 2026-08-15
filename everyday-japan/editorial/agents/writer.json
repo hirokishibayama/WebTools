@@ -1,0 +1,31 @@
+{
+  "id": "writer",
+  "name": "Writer Agent",
+  "stage": 4,
+  "purpose": "Write a 2000–2500 word first draft in native English matching the reference editorial standard.",
+  "prompt": "editorial/prompts/04-writer.md",
+  "systemPrompt": "editorial/prompts/00-system.md",
+  "inputs": [
+    "topic.md",
+    "research.md",
+    "outline.md",
+    "referenceArticle"
+  ],
+  "dependsOn": ["outline"],
+  "output": {
+    "file": "draft.md",
+    "template": "editorial/templates/article.md"
+  },
+  "constraints": {
+    "minWords": 2000,
+    "maxWords": 2500,
+    "forbiddenPhrases": [
+      "Japan is the best",
+      "Japan is amazing"
+    ]
+  },
+  "automation": {
+    "webSearch": false,
+    "replaceable": true
+  }
+}

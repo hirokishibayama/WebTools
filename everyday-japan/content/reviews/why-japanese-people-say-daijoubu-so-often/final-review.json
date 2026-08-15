@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "overall_score": 86,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "Soft “No Thanks” section + bag/service scenes vs. companion soft-no article",
+      "problem": "Soft-refusal teaching and repeated bag-offer illustrations overlap the companion “avoid saying no” article, risking two near-identical lessons",
+      "suggestion": "Keep soft-no as one necessary meaning with a tight example and a pointer to the companion piece; lean on reassurance, forms, failure cases, and frequency-as-perception for uniqueness",
+      "sources": ["editorial-originality", "reader-experience"]
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Opening / closing phrasing",
+      "problem": "Stock “many visitors notice…” opener and slightly self-conscious closing aside",
+      "suggestion": "Optional polish only; not revision-blocking",
+      "sources": ["english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "“national toolkit”",
+      "problem": "Light nationalizing of a high-frequency habit",
+      "suggestion": "Prefer “everyday conversational toolkit”",
+      "sources": ["cultural-accuracy"]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 91,
+    "fact_source": 90,
+    "seo": 93,
+    "english": 87,
+    "originality": 82
+  },
+  "final_summary": "PASS. Lexical angle (one word, several English jobs) is distinct from the companion soft-refusal system piece. One major cluster-overlap note remains (soft-no/bag scenes) but does not meet the revision trigger (major ≥ 2). Ready to publish; optional trim of soft-no redundancy if editing further.",
+  "slug": "why-japanese-people-say-daijoubu-so-often",
+  "title": "Why Japanese People Say “Daijoubu” So Often",
+  "scored_at": "2026-08-11T06:25:00.000Z",
+  "companion_originality_note": "Pairs with why-japanese-people-avoid-saying-no-directly: this article owns the word; that article owns the refusal system."
+}

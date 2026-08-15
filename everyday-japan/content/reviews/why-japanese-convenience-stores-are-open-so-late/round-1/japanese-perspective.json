@@ -1,0 +1,25 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Locals treat the late store as a tool, not nightlife—this will read as true to Japanese readers.",
+    "The dual feeling (I use it at 1 a.m. / I would not want my child on that shift) is a real neighborhood conversation, not tourism copy.",
+    "Loungewear, underwear-after-laundry, overtime bento: unremarkable scenes, correctly framed as unremarkable.",
+    "No invented first-person Japanese memoir."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Use the Night Store — weather/transport instrument",
+      "problem": "“Weather and transport instrument” is editor language. Locals would say they buy an umbrella or wait after missing a train.",
+      "suggestion": "Describe the errands (umbrella, stand-and-eat, decide on a taxi) without the instrument metaphor."
+    },
+    {
+      "severity": "minor",
+      "location": "How Japanese People Use the Night Store — fever medicine / 3 a.m. children’s medicine",
+      "problem": "A parent buying children’s medicine at a konbini is possible but not the default local pattern; drugstores carry that role more often.",
+      "suggestion": "Keep the quiet parent errand; switch the product to something konbini actually hold at 3 a.m., or hedge OTC."
+    }
+  ]
+}

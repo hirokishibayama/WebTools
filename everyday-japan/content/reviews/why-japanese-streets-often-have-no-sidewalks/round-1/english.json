@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 83,
+  "status": "pass",
+  "strengths": [
+    "Opening scene is concrete magazine prose, not 'Japan is a country where'",
+    "Hallway / mixed-room metaphors stay physical",
+    "Tips are imperative and specific (suitcase width, backing-up beeps)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "shopfront paragraph — 'It was waiting for a rule about speed'",
+      "problem": "Personifies asphalt; slightly oracular AI cadence.",
+      "suggestion": "Say the same surface becomes a plaza when speed is banned, without 'waiting.'"
+    },
+    {
+      "severity": "minor",
+      "location": "## The Road Is Also the Sidewalk — 'That is not a riddle'",
+      "problem": "Closing winks at the reader; a bit of stock essay sign-off.",
+      "suggestion": "End on the hallway image and the several-jobs sentence; cut the riddle line."
+    }
+  ]
+}

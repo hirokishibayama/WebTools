@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Rejects universal sleeper stereotype and absolute silence/safety myths",
+    "Chikan and women-only cars named without exoticizing",
+    "Seasonal/exam/fiscal-year fatigue variation avoids fixed cultural costume"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "## Social Acceptance — With Boundaries",
+      "problem": "Inemuri-as-diligence reading is available culturally but easy for visitors to over-apply; article mostly hedges, still slightly prominent.",
+      "suggestion": "Keep the existing 'not a formal excuse' line; do not expand diligence framing in revision."
+    }
+  ]
+}

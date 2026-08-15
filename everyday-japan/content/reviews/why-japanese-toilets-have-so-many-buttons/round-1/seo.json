@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Matches searcher intent: what the buttons mean and why there are so many",
+    "Icon glossary + anxiety + tips + FAQ cover related queries (auto spray, dryer, sound, break risk)",
+    "Scope note pointing to bathrooms article reduces off-intent digression"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ — flower icon",
+      "problem": "Flower/front-spray icon is common but not universal; FAQ states ‘usually’ which is fine but could note brand variation in one clause",
+      "suggestion": "Add ‘on many panels’ to keep search answer accurate without overclaim"
+    }
+  ]
+}

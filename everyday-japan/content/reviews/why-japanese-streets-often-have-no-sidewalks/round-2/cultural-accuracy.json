@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "No-sidewalk pattern limited to a class of street; arterials and new towns still counter it",
+    "Setbacks no longer stand in for every residential cross-section",
+    "Shared-space language is now leftover width plus slow-versus-arterial behavior, not a 20/50 design myth"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Expectation — high-tech toilets and timed trains",
+      "problem": "The modern-contrast line is true as visitor memory but still a familiar Japan juxtaposition.",
+      "suggestion": "Optional; the uniqueness rejection in the same paragraph already does the important work."
+    }
+  ]
+}

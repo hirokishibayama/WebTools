@@ -1,0 +1,29 @@
+{
+  "round": 1,
+  "edited_paths": [
+    "content/articles/why-japanese-trains-have-so-many-different-lines/article.md",
+    "content/drafts/why-japanese-trains-have-so-many-different-lines/draft.md"
+  ],
+  "changes": [
+    {
+      "issue": "Misleading 'transfer fare'",
+      "action": "Rewrote as stacked operator fares, sometimes with a transfer discount; no yen figures."
+    },
+    {
+      "issue": "Queue/escalator causation and punctuality bleed",
+      "action": "Replaced manners links with physical transfer-walk seams; kept a short pointer that platform manners are a separate habit."
+    },
+    {
+      "issue": "Over-scripted staff; 5 a.m. first train; JR–subway gates; Hakata as equal hub; stiff negations; meta thesis",
+      "action": "Hedged staff and gates; dropped the clock time; modest hub list; varied What This Is Not; shortened the punctuality pointer."
+    }
+  ],
+  "preserved": [
+    "1987 JNR privatization",
+    "Tokyo Metro vs Toei",
+    "Through-running",
+    "IC cards do not merge companies",
+    "No invented yen",
+    "Thesis stays operator plurality, not punctuality"
+  ]
+}

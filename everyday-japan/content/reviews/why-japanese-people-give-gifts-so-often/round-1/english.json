@@ -1,0 +1,37 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "No stock “Japan is a country where / unique aspect / it may seem strange” scaffolding.",
+    "Magazine cadence: short scenes, then a toolkit thesis, then named practices.",
+    "Phrases like “mild tax,” “re-enter the group,” and “receipt for care” sound like an editor, not a brochure.",
+    "Closing stays specific (scale, home entry, no arms race) instead of “this fascinating custom.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "What Visitors Over-Read — “not genetically remembered”",
+      "problem": "Snarky metaphor; slightly AI-clever and off the calm magazine voice.",
+      "suggestion": "Replace with “not absorbed by osmosis” or “not something everyone just knows.”"
+    },
+    {
+      "severity": "minor",
+      "location": "Why Gifts Do Social Work — “Interpretation:” label",
+      "problem": "Reads like an editorial pipeline stamp rather than a sentence.",
+      "suggestion": "Fold into prose: “Frequency comes from stacked calendars—trips, visits, ceremonies—not a national hobby.”"
+    },
+    {
+      "severity": "minor",
+      "location": "Households as stages — “spiritually if not legally”",
+      "problem": "Winking legalese; a bit cute for the point (empty-handed visits exist elsewhere).",
+      "suggestion": "“Related to, not unique to Japan: don’t arrive empty-handed. The local version is more standardized in form.”"
+    },
+    {
+      "severity": "minor",
+      "location": "How Japanese People Experience the Small Bag — “The cookies are not about the cookies.”",
+      "problem": "Aphorism works once; it rhymes with the closing “the point was never the object,” which doubles the slogan.",
+      "suggestion": "Keep one; let the office-reentry sentence carry the other."
+    }
+  ]
+}
