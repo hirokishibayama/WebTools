@@ -1,0 +1,48 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0 but major>=2 (meat trays as national burnable; bag fees as general city practice).",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 87,
+    "cultural_accuracy": 76,
+    "fact_source": 74,
+    "seo": 91,
+    "english": 86,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Crows — meat trays in burnable",
+      "problem": "Instructs a national burnable category for meat trays; sorting is municipal.",
+      "suggestion": "Food-waste bags + net; tray type follows the local diagram.",
+      "sources": [
+        "cultural-accuracy",
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "major",
+      "location": "Land and cost — bag fees",
+      "problem": "Bag fees/designated bags read as what cities generally do.",
+      "suggestion": "Calendars common; fees/指定袋 only in some municipalities.",
+      "sources": [
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "School-cleaning analogy / incineration share",
+      "problem": "Sister-article kinship and unsourced ‘large share’.",
+      "suggestion": "Optional trim; keep incineration hedge.",
+      "sources": [
+        "japanese-perspective",
+        "cultural-accuracy"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "Sorting rules vary by municipality — never nationalize a fridge calendar."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Not everyone, not everywhere: Okinawa, Hokkaido, bikes, cars, uncool umbrellas",
+    "Higasa distinguished from rain",
+    "Hair/clothes as commute + appearance rules, not national vanity"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the body",
+      "problem": "Resemblance to wrapping is hedged; still a stereotype magnet.",
+      "suggestion": "Do not expand."
+    }
+  ]
+}

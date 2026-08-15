@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Count change aloud",
+      "problem": "Slight overgeneralization of narration vs visible count.",
+      "suggestion": "Optional hedge."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 92,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 89,
+    "originality": 88
+  },
+  "final_summary": "PASS without revision. Tray is a counting tool, not distrust; exceptions (no tray, IC, stalls) are in place. Top leftover issue is ‘count aloud’ as if universal. Publishable.",
+  "slug": "why-japanese-people-put-cash-on-a-tray-at-the-register",
+  "title": "Why Japanese People Put Cash on a Tray at the Register",
+  "scored_at": "2026-08-15T22:00:00+09:00"
+}

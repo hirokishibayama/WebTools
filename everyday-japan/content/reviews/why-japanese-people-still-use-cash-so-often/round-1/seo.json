@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Title and intro match the query without promising cash-only Japan",
+    "FAQ covers PayPay need, restaurant cards, otoshidama, how much cash",
+    "Keywords (PayPay, IC, cashless) sit in natural sentences"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "seo_title",
+      "problem": "seo_title duplicates H1; fine, not stuffed.",
+      "suggestion": "Leave; do not add a percentage-bait title."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Busy urban bilingual stack vs thin rural/live conductor is the right map",
+    "Manners announcements as crowd management, effectiveness mixed",
+    "Does not treat talkativeness as national need for instruction"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Staff live inside the same loop",
+      "problem": "Crew pointing-and-calling / live door confirmation is not the passenger PA. Blending them makes Japan sound like one continuous lecture.",
+      "suggestion": "Separate onboard crew checks from recorded speakers for riders."
+    }
+  ]
+}

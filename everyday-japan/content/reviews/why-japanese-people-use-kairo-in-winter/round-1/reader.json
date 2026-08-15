@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Konbini basket + platform stick-on scene explains the object before the chemistry.",
+    "Stick-on vs pocket vs toes is visitor-usable.",
+    "Not-everyone and hotel-vs-wooden-house contrast prevent over-buying."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Opening “dump bin near the register”",
+      "problem": "Can be read as a trash bin. Retail English “dump bin” is jargon.",
+      "suggestion": "“floor display” or “cardboard basket by the register.”"
+    },
+    {
+      "severity": "minor",
+      "location": "Visitor tips — airline sentence",
+      "problem": "Long and vague (“pile of mysteries”).",
+      "suggestion": "“Check the airline if you pack more than a few unused packs; do not pack a pack that is already hot.”"
+    }
+  ]
+}

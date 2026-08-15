@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Side-street cloth vs dark doorway is a clear visual hook.",
+    "Open/closed custom, how to part it, do not wipe hands, malls have none—usable on a first trip.",
+    "Sento is included without turning the piece into a bathhouse guide."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Short answer lists “kitchen smell control” vs later “fans do the real air work”",
+      "problem": "A careful reader gets two answers on smell.",
+      "suggestion": "Lede: shade and a soft split. Leave smell as a minor supporting role in the shopkeeper section."
+    }
+  ]
+}

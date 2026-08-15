@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Kei-car + blue arrow hook is visual",
+    "Disambiguates no-sidewalk article immediately",
+    "Taxi looping and delivery-block scenes answer the visitor’s irritation"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Drive — shitamachi",
+      "problem": "‘Shitamachi grid’ may be opaque on first read.",
+      "suggestion": "The later ‘inner Kyoto or a shitamachi grid’ pair is enough context; optional gloss."
+    }
+  ]
+}

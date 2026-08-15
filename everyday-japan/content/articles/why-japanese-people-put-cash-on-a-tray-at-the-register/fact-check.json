@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "The dish is commonly called カルトン (karuton).",
+      "status": "supported-with-care",
+      "note": "Shop slang; customers may not use the word. Etymology not asserted as a proven single source."
+    },
+    {
+      "claim": "Primary function is counting/visibility/dropped coins, not a verdict on the customer's hands.",
+      "status": "interpretation",
+      "note": "Hygiene is noted as a side reading, not the whole story."
+    },
+    {
+      "claim": "Tipping by leaving extra on the tray is not the expected reading.",
+      "status": "supported",
+      "note": "Matches rarely-tip article; staff may treat extra as forgotten money."
+    },
+    {
+      "claim": "Every shop uses a tray.",
+      "status": "false-stereotype",
+      "note": "Stalls, cramped counters, IC/self-checkout exceptions."
+    },
+    {
+      "claim": "Exact yen fee savings or survey percentages of cash vs IC.",
+      "status": "not-claimed",
+      "note": "No invented statistics."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not invent exact yen, fine, or survey percentages"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-use-kairo-in-winter",
+  "title": "Why Japanese People Use Kairo in Winter",
+  "overall_score": 70,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 86,
+    "cultural_accuracy": 85,
+    "fact_source": 58,
+    "seo": 90,
+    "english": 84,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "critical",
+      "location": "How Winter Feels — sokubi (足先)",
+      "problem": "Incorrect Japanese: 足先 is ashisaki, not sokubi; the gloss wrongly includes fingertips (手先 tesaki).",
+      "suggestion": "tesaki and ashisaki (手先・足先) — fingertips and toes.",
+      "sources": ["fact-source", "japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "dump bin / airline “pile of mysteries”",
+      "problem": "Dump bin sounds like trash; airline tip is cute and unclear.",
+      "suggestion": "Floor display; plain unused-vs-hot pack airline check.",
+      "sources": ["reader-experience", "english-naturalness"]
+    }
+  ],
+  "critical_count": 1,
+  "major_count": 0,
+  "minor_count": 1,
+  "needs_revision": true,
+  "revision_reason": "critical > 0 (wrong Japanese lexeme sokubi/足先)",
+  "priority_notes": [
+    "[critical/fact+jp] Fix 手先・足先 readings",
+    "Watch: kairo not everyone — already hedged (region, job, preference); do not add fake usage rates"
+  ],
+  "existing_articles_count": 45,
+  "scored_at": "2026-08-15T22:57:00+09:00"
+}

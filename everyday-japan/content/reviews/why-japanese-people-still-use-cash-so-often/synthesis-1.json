@@ -1,0 +1,40 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0, major=2 (part-time wages as cash; privacy rules at clinics).",
+  "skill_scores": {
+    "reader": 87,
+    "japanese_perspective": 84,
+    "cultural_accuracy": 86,
+    "fact_source": 78,
+    "seo": 90,
+    "english": 87,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "How Japanese People Carry Both — part-time job",
+      "problem": "Reads as if wages still arrive as cash. Locals know arubaito is usually bank transfer.",
+      "suggestion": "Pay hits an account; notes are withdrawn for shops that still want them.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "major",
+      "location": "Medical and municipal leftovers — privacy rules",
+      "problem": "Unsupported co-cause. Clinic terminals lag on billing and rollout, not a privacy-rule bundle.",
+      "suggestion": "Drop privacy rules; keep billing software and uneven terminals.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Low everyday crime",
+      "problem": "Hedged safety explanation can still echo a national myth.",
+      "suggestion": "Do not expand.",
+      "sources": ["cultural-accuracy"]
+    }
+  ],
+  "priority_notes": [
+    "Keep Japan-is-not-cash-only and cashless-% hedges intact. Do not invent a ratio."
+  ]
+}

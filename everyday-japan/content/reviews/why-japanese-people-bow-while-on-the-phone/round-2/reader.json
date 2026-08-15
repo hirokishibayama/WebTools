@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Shop scene still hooks; short answer now states the caller cannot see the bow without a mystic foil.",
+    "Childhood vs workplace is easier to follow.",
+    "Visitor tips still say you do not need to copy the hinge."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How the Body Learns — training video",
+      "problem": "Still anecdotal as a typical video.",
+      "suggestion": "Optional hedge: training often shows a slightly formal posture."
+    }
+  ]
+}

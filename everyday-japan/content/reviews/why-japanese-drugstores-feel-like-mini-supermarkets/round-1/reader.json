@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Toothpaste-to-chocolate aisle hook matches the search surprise",
+    "Split tourist tax-free vs local bulk run is the useful aha",
+    "Tips: walk back for cheap drinks, medicines not all self-serve, do not block aisles"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — souvenir price-check",
+      "problem": "Cosmetics cheaper-than-airport is already hedged; still a bit shopping-guide.",
+      "suggestion": "Keep one hedge line; snack bulk remains the local win."
+    }
+  ]
+}

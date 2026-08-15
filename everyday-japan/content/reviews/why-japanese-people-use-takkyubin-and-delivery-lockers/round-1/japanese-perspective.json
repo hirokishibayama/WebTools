@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Time windows because noon-at-home is not the default",
+    "Shared locker as building politics, pick up on the commute home",
+    "Cool parcels as family food, not 'loving logistics'"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "cat logo, the red-and-black truck",
+      "problem": "Yamato trucks are green-yellow with a cat; Japan Post is red-and-white; Sagawa is not a red-and-black house color. Locals would not recognize that scenery.",
+      "suggestion": "Name the actual ordinary vehicles: cat on green-yellow, Japan Post red, Sagawa, konbini back room."
+    }
+  ]
+}

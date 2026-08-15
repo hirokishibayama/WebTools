@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Pedestrian edge vs clearer edge",
+      "problem": "FAQ and body slightly differ on where to walk on a squeeze one-way.",
+      "suggestion": "Right-hand default, eyes for bikes and backing trucks—already the FAQ."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "final_summary": "PASS without a revision round on the current text. Thesis holds: arrows substitute for width, not a national maze. Pedestrian right-edge and bicycle plates are already treated as rules, not vibes.",
+  "slug": "why-japanese-cities-have-so-many-one-way-streets",
+  "title": "Why Japanese Cities Have So Many One-Way Streets",
+  "scored_at": "2026-08-15T23:10:00+09:00"
+}

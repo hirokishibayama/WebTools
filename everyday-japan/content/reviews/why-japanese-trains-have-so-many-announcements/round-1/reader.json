@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Hook dumps a real 30-second stack before the train moves",
+    "Clear split from the punctuality article: this is audio, not minutes",
+    "Tips tell visitors which messages are furniture vs delay language"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Visitor Tips — limited-express quieter",
+      "problem": "Implies a reserved-seat limited express is a quiet product. Those cars still name stops and often add bilingual repeats.",
+      "suggestion": "Say fewer crowding/manners loops, not a quiet car."
+    }
+  ]
+}

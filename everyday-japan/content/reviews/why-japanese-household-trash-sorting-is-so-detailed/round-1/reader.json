@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Fridge-calendar hook is instantly recognizable",
+    "Street-bin vs household split is the question visitors actually mix up",
+    "Tips are operational (guide, host, nets, designated bags, fly day-before)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why the Categories Multiplied",
+      "problem": "Incineration/contracts section is the right why, but a tired reader may bounce before crows-and-stickers scenes return.",
+      "suggestion": "Keep; scenarios already rescue the second half."
+    }
+  ]
+}

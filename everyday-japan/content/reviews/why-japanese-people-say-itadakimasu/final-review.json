@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "shokuiku lives-in-the-meal hedge",
+      "problem": "Must stay paired with food-education / not required doctrine.",
+      "suggestion": "Do not drop the hedge.",
+      "sources": ["japanese-perspective"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "final_summary": "PASS after one revision. Itadakimasu stays table manners and a school start-chorus, with a hedged shokuiku note that does not turn the phrase into a rite. Postwar “standardized origin” is gone. Copied to content/drafts/why-japanese-people-say-itadakimasu/draft.md.",
+  "slug": "why-japanese-people-say-itadakimasu",
+  "title": "Why Japanese People Say Itadakimasu",
+  "scored_at": "2026-08-15T23:22:00+09:00"
+}

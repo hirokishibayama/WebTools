@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Convenience stores commonly sell cheap vinyl umbrellas (biniru-gasa).",
+      "status": "supported",
+      "note": "Standard konbini / 100-yen shop retail; prices vary, article does not freeze a yen figure."
+    },
+    {
+      "claim": "Everyone in Japan uses an umbrella in any light rain.",
+      "status": "false-stereotype",
+      "note": "Article rejects; hoods, bikes, rural car trips, youth style."
+    },
+    {
+      "claim": "Rain umbrellas are the same as summer sun parasols (higasa).",
+      "status": "unsupported",
+      "note": "Article distinguishes UV/heat parasols from rain."
+    },
+    {
+      "claim": "Walk–train–walk commuting plus humidity makes light rain costly for clothes.",
+      "status": "supported-with-care",
+      "note": "Lived-practice explanation; not a meteorological study."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Regional weather and bicycle culture change the picture",
+    "Avoid inventing a national yen price for vinyl umbrellas"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

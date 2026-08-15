@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Title matches the search question; intro answers in the first screen.",
+    "FAQ covers dryers, futons, pollen, freeze, building rules, uniqueness.",
+    "Keywords (balcony, dryer, futon, pollen) appear in natural sentences."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ “Do Japanese homes not have dryers?”",
+      "problem": "This is the money query; the answer is good but long. Some searchers want a first-sentence yes/no.",
+      "suggestion": "Lead with “Many homes have some form of drying; a separate heat dryer for every load is less of a default.” Then the hedge."
+    }
+  ]
+}

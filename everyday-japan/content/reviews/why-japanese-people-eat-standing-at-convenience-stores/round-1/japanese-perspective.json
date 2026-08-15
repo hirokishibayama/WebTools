@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Heat, eat, sort trash, leave — shared shelf as time tool, not a café",
+    "Some people never eat in-store; both types in the same city",
+    "Night-staff break is not a photo opportunity"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "turns the shelf into meiwaku",
+      "problem": "meiwaku is dropped without a gloss.",
+      "suggestion": "If touching the line, add 迷惑 / nuisance."
+    }
+  ]
+}

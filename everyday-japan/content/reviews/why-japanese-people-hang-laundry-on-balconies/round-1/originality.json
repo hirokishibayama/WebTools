@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Angle is housing logistics, not “Japanese love nature.”",
+    "Neighbor drip conflict and underwear-on-the-rail privacy are details tourism pages skip.",
+    "Bathroom dryer as rainy-day clothesline ties to housing, not gadget wonder."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Structure vs sibling Everyday Japan explainers",
+      "problem": "Same skeleton as kairo/noren/phone pieces (scene, short answer, exceptions, scenarios, tips, FAQ, demystifying close). Correct for the series; not a clone of Wikipedia.",
+      "suggestion": "No rewrite. Signature details (frozen T-shirt rectangle, host asking about underwear) already differentiate."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Yamato takkyubin launched in the 1970s as mass consumer home delivery.",
+      "status": "supported",
+      "note": "Yamato 1976 takkyubin commonly dated; other carriers parallel."
+    },
+    {
+      "claim": "Japan Post, Sagawa, and others compete; not one company.",
+      "status": "supported",
+      "note": "Market structure."
+    },
+    {
+      "claim": "Konbini pickup/drop-off, hotel desks, and locker networks are widely used.",
+      "status": "supported",
+      "note": "PUDO and chain locker programs; building boxes vary."
+    },
+    {
+      "claim": "All lockers are refrigerated.",
+      "status": "false-stereotype",
+      "note": "Article notes cool options are limited."
+    },
+    {
+      "claim": "Takkyubin always means Yamato in every conversation.",
+      "status": "false-stereotype",
+      "note": "Often associated, used loosely; article tells readers to ask."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation",
+    "Hedge statistics; do not invent cashless percentages"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "status: review"
+  ]
+}

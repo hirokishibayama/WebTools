@@ -1,0 +1,19 @@
+{
+  "round": 1,
+  "article_path": "everyday-japan/content/articles/why-japanese-household-trash-sorting-is-so-detailed/article.md",
+  "changes": [
+    {
+      "issue": "Meat trays prescribed as burnable",
+      "action": "Replaced national instruction with: tie food-waste bags, use the net; tray category is a local-diagram question."
+    },
+    {
+      "issue": "Bag fees as general city practice",
+      "action": "Land-and-cost now: calendars are the common tool; some cities add designated bags or fees, others do not."
+    }
+  ],
+  "not_changed": [
+    "Did not invent incineration percentages",
+    "Did not add FAQ content",
+    "Kept street-bin vs household as two systems"
+  ]
+}

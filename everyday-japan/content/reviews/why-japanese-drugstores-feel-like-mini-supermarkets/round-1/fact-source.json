@@ -1,0 +1,29 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Named chains (Matsumotokiyoshi, Welcia, Sundrug, Tsuruha, Create) without claiming one chain",
+    "Classified OTC needs qualified staff; tax-free medicines may be restricted",
+    "Eggs/frozen food hedged with 'if the store carries them'"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Create",
+      "problem": "Create SD is the usual chain name; Create alone is still recognizable.",
+      "suggestion": "Leave unless revising for another reason."
+    }
+  ],
+  "verified": [
+    "Major drugstore chains commonly sell food, cosmetics, household goods, and OTC in one shop",
+    "登録販売者 / pharmacist rules for some medicine categories",
+    "Urban stores often run tax-free processes for eligible visitors",
+    "Assortment overlap across chains; flyers differ"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Any claim that cosmetics are always cheaper than airports (already hedged)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 93,
+  "status": "pass",
+  "strengths": [
+    "Intent: is it illegal / why so quiet / is texting OK / priority seats.",
+    "FAQ matches. Title is the query.",
+    "Sleep-on-trains comparison is on-intent (same car, different rule).",
+    "Bow-on-phone sibling is a different question (body/keigo), not cloned here."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Night buses and airplanes aside; women-only cars",
+      "problem": "Brief off-intent, already labeled as not this article.",
+      "suggestion": "Keep one sentence max."
+    }
+  ]
+}

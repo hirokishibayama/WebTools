@@ -1,0 +1,73 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=0. Legal default (road) and sidewalk exceptions are correctly taught; leftover issues are helmet digression, one walking-side hedge, and sibling-link tightness.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 7,
+  "overall_score": 89,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 90,
+    "fact_source": 88,
+    "seo": 92,
+    "english": 88,
+    "originality": 88
+  },
+  "priority_notes": [
+    "Watch item satisfied: sidewalk riding is exceptions (signs, under 13, 70+, disability, unavoidable), not the default.",
+    "No critical legal error. Pedestrian-first on sidewalks is stated.",
+    "Do not invent helmet fines in any polish. SEO must not force rewrite.",
+    "Revision not required."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "bike-helmet-aside",
+      "location": "What the Law Says — helmets",
+      "problem": "Second statute story (campaigns vs uncovered heads) can blur the sidewalk-exception lesson.",
+      "suggestion": "One sentence or FAQ; no invented penalties.",
+      "sources": [
+        "reader-experience",
+        "fact-source",
+        "seo-search-intent"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "bike-eat-link",
+      "location": "Street Design — eating-while-walking",
+      "problem": "Sibling wink.",
+      "suggestion": "Keep umbrellas/maps; drop the eat-walking parenthetical.",
+      "sources": [
+        "reader-experience",
+        "editorial-originality"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "bike-grandparent",
+      "location": "mamachari scenario",
+      "problem": "Grandparent image over-maps onto the 70+ exception.",
+      "suggestion": "Older rider / listed age category.",
+      "sources": [
+        "japanese-perspective"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "bike-keep-side",
+      "location": "Walking tip — keep right or left",
+      "problem": "Can be read as a national sidewalk-side rule.",
+      "suggestion": "Predictability, no reliable bike rail.",
+      "sources": [
+        "cultural-accuracy"
+      ]
+    }
+  ],
+  "scored_at": "2026-08-15T22:00:00+09:00",
+  "slug": "why-japanese-bicycles-often-ride-on-sidewalks",
+  "title": "Why Japanese Bicycles Often Ride on Sidewalks",
+  "existing_articles_count": 46
+}

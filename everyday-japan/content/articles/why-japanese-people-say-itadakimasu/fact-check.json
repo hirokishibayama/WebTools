@@ -1,0 +1,43 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Itadakimasu is a common pre-meal phrase meaning humble receiving.",
+      "status": "supported",
+      "note": "Standard Japanese usage."
+    },
+    {
+      "claim": "It is exactly a religious prayer for most speakers.",
+      "status": "false-stereotype",
+      "note": "Article treats daily use as manners/thanks; religious overlap possible but not required belief."
+    },
+    {
+      "claim": "School lunch often includes a group itadakimasu.",
+      "status": "supported",
+      "note": "Common elementary-school practice; wording/cues vary by school."
+    },
+    {
+      "claim": "Gochisousama is a common after-meal closer.",
+      "status": "supported",
+      "note": "Standard pairing."
+    },
+    {
+      "claim": "Visitors are required to say it.",
+      "status": "false-stereotype",
+      "note": "Article: not required; appreciated if matching the table."
+    },
+    {
+      "claim": "Everyone in Japan says it at every snack.",
+      "status": "false-stereotype",
+      "note": "Snacks, izakaya, solo eating often skip or mumble."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "No unsourced exact market sizes"
+  ]
+}

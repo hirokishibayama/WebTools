@@ -1,0 +1,39 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=1 (<2). Thesis already rejects untranslatable magic.",
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 84,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 90,
+    "originality": 91
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Lede — ‘offers it back’",
+      "problem": "The formula is mainly a request; offering back is typically こちらこそ as a reply.",
+      "suggestion": "Optional later line edit; do not treat as thesis failure.",
+      "sources": [
+        "cultural-accuracy",
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "location": "Packaging of the self",
+      "problem": "Wrapping comparison is hedged but extra.",
+      "suggestion": "Do not grow.",
+      "sources": [
+        "japanese-perspective",
+        "cultural-accuracy"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "Yoroshiku is a social job, not untranslatable magic."
+  ]
+}

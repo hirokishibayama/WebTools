@@ -1,0 +1,30 @@
+{
+  "reviewer": "fact-source",
+  "score": 58,
+  "status": "fail",
+  "strengths": [
+    "Iron-oxidation ingredients are the usual disposable formula, stated without a fake market-yen figure.",
+    "Burn risk and sleep/adhesive warnings match package reality.",
+    "Waste sorting is correctly “check local rules.”"
+  ],
+  "verified": [
+    "Disposable kairo are widely sold in Japanese winter retail; haru vs haranai types exist.",
+    "Many homes heat by room (AC heat, kerosene stove, kotatsu) rather than whole-house ducts as a universal default.",
+    "Misuse can burn."
+  ],
+  "questionable": [
+    "“Some teachers forbid students from sticking packs in ways that look sloppy.”"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Exact sales breakdowns (article already refuses to freeze a magazine number)."
+  ],
+  "issues": [
+    {
+      "severity": "critical",
+      "location": "**sokubi (足先)**",
+      "problem": "Incorrect Japanese: reading and meaning. 足先 ≠ sokubi; the gloss “fingertips and toes” merges 手先 and 足先.",
+      "suggestion": "tesaki / ashisaki (手先・足先)."
+    }
+  ]
+}

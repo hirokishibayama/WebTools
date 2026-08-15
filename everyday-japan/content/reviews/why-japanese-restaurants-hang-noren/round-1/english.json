@@ -1,0 +1,17 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "“Part it with a hand, the way you would part beads” is physical, not brochure.",
+    "“A cousin with worse poetry” for warehouse strip curtains is a human line.",
+    "Avoids “Japan is a country where” and “unique veil of Japanese soul” except as a myth to drop."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Travel copy “ancient veil of Japanese soul” in paragraph two",
+      "problem": "Fine as a one-time foil; do not repeat the soul language in the close (the close stays practical)."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "‘Shared metal box into someone else’s room’ is a concrete metaphor, not ‘unique Japanese respect.’",
+    "Shield of half-closed eyes / bag / book vs incoming voice is observational.",
+    "Avoids stock ‘At first glance Japan is quiet.’ Gloss: yūsen-seki, sumimasen."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing — ‘A Call Can Wait One Station’",
+      "problem": "Urban-interval assumption in the H2; body already notes rural rides.",
+      "suggestion": "Title is still a good urban mnemonic; FAQ already varies lines."
+    }
+  ]
+}

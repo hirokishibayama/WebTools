@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Intent: why handkerchiefs, restrooms without paper, tenugui difference, do all Japanese carry one.",
+    "FAQ matches. Tips are the practical SERP close.",
+    "Links to classroom cleaning, no trash cans, shoes, homes, toilets: mostly BYO-public-space logic."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Shoes-off and no-trash-cans analogies",
+      "problem": "Helpful BYO frame, slightly long as a chain of siblings.",
+      "suggestion": "One analogy is enough."
+    }
+  ]
+}

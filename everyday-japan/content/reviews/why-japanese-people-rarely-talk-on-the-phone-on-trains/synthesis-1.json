@@ -1,0 +1,62 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=0. Manners-not-law is correctly the spine. Leftovers: arrest wording, staff ‘calls,’ and a few off-intent asides.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 7,
+  "overall_score": 90,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 92,
+    "fact_source": 88,
+    "seo": 93,
+    "english": 90,
+    "originality": 89
+  },
+  "priority_notes": [
+    "Watch item satisfied: phone talking is operator/passenger manners, not a criminal ban.",
+    "Priority-seat history is not frozen as a nationwide turn-off law.",
+    "Do not add fake bylaws. Revision not required."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "phone-arrest-frame",
+      "location": "Announcements — arrested for a short call",
+      "problem": "Dramatizes manners by invoking arrest as the alternative.",
+      "suggestion": "Staff may ask you to stop; it is still not a statute with handcuffs (closing already says this more calmly).",
+      "sources": [
+        "cultural-accuracy",
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "phone-staff-calls",
+      "location": "Drivers and conductors make their own calls",
+      "problem": "Operations are radio/PA, not passenger-style phone chat.",
+      "suggestion": "Work noise with a uniform vs a passenger meeting.",
+      "sources": [
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "phone-asides",
+      "location": "Women-only cars; night bus/plane; escalator link",
+      "problem": "Mostly on-myth-bust but mid-article drift.",
+      "suggestion": "Keep stickers/read-the-car; trim extras.",
+      "sources": [
+        "reader-experience",
+        "seo-search-intent",
+        "editorial-originality"
+      ]
+    }
+  ],
+  "scored_at": "2026-08-15T22:00:00+09:00",
+  "slug": "why-japanese-people-rarely-talk-on-the-phone-on-trains",
+  "title": "Why Japanese People Rarely Talk on the Phone on Trains",
+  "existing_articles_count": 46
+}

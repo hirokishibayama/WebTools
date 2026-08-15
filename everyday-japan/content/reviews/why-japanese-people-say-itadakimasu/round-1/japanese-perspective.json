@@ -1,0 +1,24 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 75,
+  "status": "revise",
+  "strengths": [
+    "School lunch as a group start line, toddler prompting, solo mumbling, izakaya waves—weekday Japan, not a tea-ceremony brochure.",
+    "Guests vs self-cooked theatricality is something locals actually feel.",
+    "Correct that relatives may tease skippers and that the state does not care."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "How Children Learn the Start Button / Not a Church Prayer — school framing",
+      "problem": "Overcorrects against mysticism. Many Japanese readers remember kyūshoku talk about not wasting food and thanks to the people (and sometimes the lives) that became the meal. That is shokuiku, not a temple rite. Omitting it makes the cafeteria sound like only a starter pistol.",
+      "suggestion": "Add one hedged sentence: staff often frame it as starting together, not wasting food, and noticing who prepared it; some classrooms use stronger “lives in the meal” language as food education. Then keep: that is not a required doctrine at the family table."
+    },
+    {
+      "severity": "minor",
+      "location": "H2 “Not a Church Prayer”",
+      "problem": "Church is the wrong foil for a Japanese table. Locals would think 宗教 / お祈り, not church.",
+      "suggestion": "Rename toward “not a required religious prayer.”"
+    }
+  ]
+}

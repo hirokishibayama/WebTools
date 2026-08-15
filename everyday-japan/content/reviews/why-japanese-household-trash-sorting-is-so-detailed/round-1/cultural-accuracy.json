@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 76,
+  "status": "revise",
+  "strengths": [
+    "Municipal variation is the spine, including Tokyo 23 wards",
+    "Rejects national personality of loving sorting",
+    "Street bins and household calendar kept as two systems"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Crows — meat trays in burnable",
+      "problem": "Prescribes putting meat trays in burnable. Many municipalities collect clean trays as plastic/resource; dirty trays may be burnable. This nationalizes a ward diagram.",
+      "suggestion": "Tie food-waste bags; say tray category follows the local guide."
+    },
+    {
+      "severity": "minor",
+      "location": "School-cleaning comparison",
+      "problem": "Sorting visibility is not the same social technology as classroom cleaning.",
+      "suggestion": "Analogy at most, not kinship."
+    }
+  ]
+}

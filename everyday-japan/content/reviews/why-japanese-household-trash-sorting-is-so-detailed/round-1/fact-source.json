@@ -1,0 +1,45 @@
+{
+  "reviewer": "fact-source",
+  "score": 74,
+  "status": "revise",
+  "strengths": [
+    "Rules vary by municipality stated as fact vs interpretation",
+    "Rejected bag framed as route logistics, not a halted incinerator",
+    "National law as frame, pickup list as local"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Land and cost — bag fees",
+      "problem": "As first read, ‘Cities use calendars and bag fees’ treated paid/designated bags as general practice. Many cities collect without 有料指定袋.",
+      "suggestion": "Calendars common; fees/designated bags in some cities only."
+    },
+    {
+      "severity": "major",
+      "location": "Crows — meat trays",
+      "problem": "Meat-tray stream is municipal, not a national burnable rule.",
+      "suggestion": "Local diagram; do not instruct a national category."
+    },
+    {
+      "severity": "minor",
+      "location": "Incineration backbone",
+      "problem": "‘Large share’ of household waste burned is directionally right but unsourced.",
+      "suggestion": "Keep hedge; do not invent a percentage."
+    }
+  ],
+  "verified": [
+    "Municipalities set categories and days",
+    "Street bins ≠ household collection",
+    "Crows tear food-waste bags in many cities",
+    "Some apartments require city-designated bags"
+  ],
+  "questionable": [
+    "Bag fees as a general municipal tool",
+    "Meat trays as burnable everywhere"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Share of municipal solid waste incinerated",
+    "How common designated paid bags are"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Explicitly not a law; house rule of a crowded vehicle.",
+    "Rejects shy-nationality and phone-ban maps.",
+    "Priority-seat older ‘turn off for medical devices’ vs current stickers: correctly historicized, tells readers to read the car.",
+    "Holiday/sports/last-train loudness; manner posters exist because the rule is broken.",
+    "Does not invent extra etiquette in women-only cars."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Confusion — ‘You are unlikely to be arrested’ (later: house rule)",
+      "problem": "Arrest is the wrong legal ceiling for this manners topic; it slightly dramatizes a rule nobody enforces with handcuffs.",
+      "suggestion": "Staff can ask you to stop; a short call is not a crime. Drop arrest."
+    }
+  ]
+}

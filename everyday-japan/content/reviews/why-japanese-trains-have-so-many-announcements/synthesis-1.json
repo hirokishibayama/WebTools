@@ -1,0 +1,33 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0, major=2 (limited-express as quiet; crew checks blended with passenger PA).",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 82,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 88,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Staff live inside the same loop",
+      "problem": "Pointing-and-calling / live departure checks are not the recorded passenger soundtrack.",
+      "suggestion": "Separate crew procedures from speakers for riders.",
+      "sources": ["cultural-accuracy"]
+    },
+    {
+      "severity": "major",
+      "location": "Visitor Tips — limited-express quieter",
+      "problem": "特急 still announce stops and may be more bilingual; not a quiet product.",
+      "suggestion": "Fewer crowding/manners loops, still stop names; not a quiet car.",
+      "sources": ["reader-experience", "fact-source"]
+    }
+  ],
+  "priority_notes": [
+    "Keep urban vs rural density. Do not collapse this into the punctuality article."
+  ]
+}

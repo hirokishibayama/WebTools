@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 74,
+  "status": "revise",
+  "strengths": [
+    "Shop scene is spoken, not brochure English.",
+    "Smile-into-voicemail comparison is a natural analog.",
+    "Avoids “Japan is a country where.”"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "“national trance,” “politeness engine,” “spiritual technology,” “uniquely spiritual nation,” “Sentence’s Shadow”",
+      "problem": "Editorial voice fights mysticism with mystic diction. Reads like AI explaining Japan by naming the stereotype in every paragraph.",
+      "suggestion": "Replace with concrete nouns: script, posture, shop floor, keigo. Keep one analogy (voicemail gesture) in the close."
+    },
+    {
+      "severity": "minor",
+      "location": "“It is also easy to over-film.”",
+      "problem": "Slightly coined; meaning is clear but not native.",
+      "suggestion": "“It is also easy to over-film the one deep bow and miss the slouched personal calls.” → “Viral clips show the deep shop bow. Hours of slouched personal calls do not.”"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Crew PA split and limited-express hedge landed.",
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 89,
+    "fact_source": 88,
+    "seo": 90,
+    "english": 88,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Tune the Noise duplication",
+      "problem": "Sleep/overtime still doubled.",
+      "suggestion": "Leave.",
+      "sources": ["reader-experience"]
+    }
+  ],
+  "priority_notes": [
+    "Audio follows network density, not a national love of narration."
+  ]
+}

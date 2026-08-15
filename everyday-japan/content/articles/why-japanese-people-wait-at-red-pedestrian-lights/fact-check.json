@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Ignoring a pedestrian signal is a Road Traffic Act (道路交通法) obligation issue.",
+      "status": "supported",
+      "note": "Act requires obeying traffic signals; pedestrian signal-ignoring is a violation. Fine amounts not stated as exact figures."
+    },
+    {
+      "claim": "Japanese people always wait, even on empty streets.",
+      "status": "false-stereotype",
+      "note": "Article notes late night, rural, cyclists, drunk groups."
+    },
+    {
+      "claim": "School traffic-safety education teaches waiting and crossing drills.",
+      "status": "supported",
+      "note": "Common elementary 交通安全教室 / crossing practice; not a single national curriculum quote."
+    },
+    {
+      "claim": "meiwaku and being seen explain part of empty-street waiting.",
+      "status": "interpretation",
+      "note": "Separated from statute; social, not a legal term of art in the Act."
+    },
+    {
+      "claim": "Enforcement against pedestrians is always strict / never happens.",
+      "status": "unsupported",
+      "note": "Article hedges: possible fines, everyday anecdotes of warnings more than tickets."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not invent exact yen, fine, or survey percentages"
+  ]
+}

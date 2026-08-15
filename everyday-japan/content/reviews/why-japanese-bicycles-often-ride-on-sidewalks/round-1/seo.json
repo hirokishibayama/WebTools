@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Search intent is ‘are bikes allowed on Japanese sidewalks / why do they ride there.’ Intro answers both.",
+    "FAQ: default no, why anyway, pedestrian priority, unmarked sidewalk, children, rentals.",
+    "Legal Japanese term introduced once; no stuffing.",
+    "No-sidewalks sibling is on-intent for mixed streets."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Helmets; eat-while-walking link",
+      "problem": "Mild off-intent digressions.",
+      "suggestion": "Keep sidewalk law as the H2 spine."
+    }
+  ]
+}

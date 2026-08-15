@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Intent: why the dish, what it is called, is it rude to use a hand, tipping, cards.",
+    "FAQ covers karuton, touching hands, always, card, tipping-on-a-plate, careful counting.",
+    "Sibling links to rarely-tip and still-use-cash are adjacent, not duplicates of this tool-at-the-counter piece."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Gift-giving sibling",
+      "problem": "Needed to block wrapped-present-on-karuton, slightly extra.",
+      "suggestion": "Keep one sentence; already short."
+    }
+  ]
+}

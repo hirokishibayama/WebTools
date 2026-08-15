@@ -1,0 +1,30 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Correctly separates building 管理規約/使用細則 from national statute",
+    "Construction-noise municipal layer distinguished from household quiet",
+    "No invented crime for a late laugh"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Tips / FAQ — printed hour",
+      "problem": "8 or 9 p.m. vacuuming windows are common in 使用細則 but not documented as a survey.",
+      "suggestion": "Keep as ‘some buildings’; do not invent a national hour."
+    }
+  ],
+  "verified": [
+    "No nationwide statute banning home washing machines after 10 p.m.",
+    "Many buildings post house-rule quiet guidance",
+    "Wooden apaato often transmits more sound than RC mansion, with wide variation"
+  ],
+  "questionable": [
+    "Typical vacuuming cutoff of 8 or 9 p.m. as if a modal national hour"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "How common management-company notes are versus neighbor notes"
+  ]
+}

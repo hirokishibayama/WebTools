@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Talking on the phone on a train is generally not a criminal law.",
+      "status": "supported",
+      "note": "Operator manners requests; staff can ask you to stop."
+    },
+    {
+      "claim": "Railways announce silent mode and refrain from calls; priority seats often have stricter notices.",
+      "status": "supported",
+      "note": "Common JR/private operator マナー broadcasts; older 'turn off near priority seats' wording has changed by operator—article tells readers to read current stickers."
+    },
+    {
+      "claim": "Texting and silent phone use are normal.",
+      "status": "supported",
+      "note": "Everyday observation."
+    },
+    {
+      "claim": "Japanese trains are always silent.",
+      "status": "false-stereotype",
+      "note": "Night, sports, tourist, last-train exceptions."
+    },
+    {
+      "claim": "Sleeping is allowed because it is more private than a call.",
+      "status": "interpretation",
+      "note": "Article frames difference as who is conscripted to listen, not a legal ranking."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not invent exact yen, fine, or survey percentages"
+  ]
+}

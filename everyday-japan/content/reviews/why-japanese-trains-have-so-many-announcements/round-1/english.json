@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Broadcast booth / furniture / second radio station are concrete images",
+    "Little 'Japan is unique' filler",
+    "Closing tells visitors to hear utility, not a soundtrack to enjoy"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "fluorescent light simile",
+      "problem": "Slightly over-neat, still readable.",
+      "suggestion": "Leave unless cutting sleep-paragraph duplication."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Short answer smell control vs later fan correction",
+      "problem": "Slight job-list inconsistency.",
+      "suggestion": "Drop smell from the lede bundle.",
+      "sources": ["reader-experience", "cultural-accuracy"]
+    },
+    {
+      "severity": "minor",
+      "location": "Malls — fire codes",
+      "problem": "Unsourced lead reason; design/hassle is safer.",
+      "suggestion": "Hedge if a later copy-edit touches that paragraph.",
+      "sources": ["fact-source", "japanese-perspective"]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 84,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "final_summary": "PASS without a revision round. Noren is shop furniture and an open/closed cue, not a sacred veil; malls, chains, and cafes are named as places without one. Remaining notes are minor lede/cause trims.",
+  "slug": "why-japanese-restaurants-hang-noren",
+  "title": "Why Japanese Restaurants Hang Noren",
+  "scored_at": "2026-08-15T23:05:00+09:00"
+}

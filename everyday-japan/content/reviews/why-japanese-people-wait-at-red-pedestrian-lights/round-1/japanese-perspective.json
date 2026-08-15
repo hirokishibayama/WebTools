@@ -1,0 +1,19 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "School traffic-safety class, hand-raising at 横断歩道, and not embarrassing the adult in charge feel locally true.",
+    "meiwaku is used as imposed braking/copying, not as a mystical national trait.",
+    "Drunk last-train groups, rural vs city mutual complaints, and silent annoyance at tourists match how locals talk.",
+    "No invented first-person Japanese memoir."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Empty Streets — city/rural moral",
+      "problem": "City people ‘overly formal’ vs rural ‘fast cars’ is a real conversation, but slightly compressed into two camps.",
+      "suggestion": "Keep both comments; one clause that suburbs sit between them is enough."
+    }
+  ]
+}

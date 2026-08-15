@@ -1,0 +1,43 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many public restrooms lack paper towels; dryers are uneven.",
+      "status": "supported",
+      "note": "Widely observed; not claimed as 100% of buildings."
+    },
+    {
+      "claim": "Elementary packing lists often include handkerchief and tissues.",
+      "status": "supported",
+      "note": "Common school kit; not asserted as every school's written rule."
+    },
+    {
+      "claim": "hankachi and tenugui are different objects.",
+      "status": "supported",
+      "note": "Size/use distinction."
+    },
+    {
+      "claim": "All Japanese people, including youth, carry handkerchiefs.",
+      "status": "false-stereotype",
+      "note": "Article notes weaker habit among younger urban residents."
+    },
+    {
+      "claim": "Do not use someone else's used handkerchief.",
+      "status": "supported",
+      "note": "Ordinary hygiene/intimacy boundary."
+    },
+    {
+      "claim": "COVID changed every restroom dryer policy nationwide in one direction.",
+      "status": "unsupported",
+      "note": "Article notes variation by building and year only."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not invent exact yen, fine, or survey percentages"
+  ]
+}

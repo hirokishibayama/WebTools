@@ -1,0 +1,60 @@
+{
+  "slug": "why-japanese-people-say-yoroshiku-onegaishimasu",
+  "title": "Why Japanese People Say Yoroshiku Onegaishimasu",
+  "introduction": {
+    "slug": "why-japanese-people-say-yoroshiku-onegaishimasu",
+    "rewritten": false,
+    "introduction_score": 86,
+    "introduction_path": "assets/why-japanese-people-say-yoroshiku-onegaishimasu/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-say-yoroshiku-onegaishimasu",
+    "patched": false,
+    "japanese_perspective_score": 85,
+    "perspective_path": "assets/why-japanese-people-say-yoroshiku-onegaishimasu/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 85,
+    "reader_engagement": 85,
+    "seo_quality": 88,
+    "overall": 86,
+    "notes": {
+      "cultural_accuracy": [
+        "Does not overclaim untranslatable",
+        "Distinct from sumimasen / daijoubu"
+      ],
+      "japanese_perspective": [
+        "Email, first meetings, register without invented memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

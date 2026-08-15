@@ -1,0 +1,16 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Still not cash-only; shop-type mix intact"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Low everyday crime",
+      "problem": "Hedged safety beat remains.",
+      "suggestion": "Do not expand."
+    }
+  ]
+}

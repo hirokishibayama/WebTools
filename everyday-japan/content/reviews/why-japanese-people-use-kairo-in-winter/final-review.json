@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Teachers forbidding sloppy packs",
+      "problem": "Anecdotal school/work rule.",
+      "suggestion": "Keep “some.”",
+      "sources": ["fact-source"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 88,
+    "fact_source": 88,
+    "seo": 90,
+    "english": 88,
+    "originality": 88
+  },
+  "final_summary": "PASS after one revision. Critical Japanese error sokubi/足先 is now tesaki and ashisaki (手先・足先). Not-everyone (region, job, preference) was already in the draft. Copied to content/drafts/why-japanese-people-use-kairo-in-winter/draft.md.",
+  "slug": "why-japanese-people-use-kairo-in-winter",
+  "title": "Why Japanese People Use Kairo in Winter",
+  "scored_at": "2026-08-15T23:22:00+09:00"
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "‘Unofficial lane,’ ‘time-saving gutter,’ ‘manners are not that strong’ are concrete, not ‘unique Japanese cycling culture.’",
+    "Grim fair sentence about stealing from whichever side feels less likely to injure you today.",
+    "Terms glossed: futsū jitensha hodō tsūkō-ka, kei-sharyō, rosokutai, mamachari."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing / ‘Two Lanes Were Never Built’",
+      "problem": "Twin walking-rule / riding-rule close is slightly template.",
+      "suggestion": "Optional: end on the 200-meter parent-vs-commuter argument."
+    }
+  ]
+}

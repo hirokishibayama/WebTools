@@ -1,0 +1,58 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-say-itadakimasu",
+  "title": "Why Japanese People Say Itadakimasu",
+  "overall_score": 77,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 75,
+    "cultural_accuracy": 77,
+    "fact_source": 72,
+    "seo": 91,
+    "english": 78,
+    "originality": 86
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "School lunch framing vs shokuiku",
+      "problem": "Overcorrects against mysticism: cafeteria is only a start button. Many Japanese readers remember thanks for the cook/food, and sometimes “lives in the meal,” as food education—not a temple rite.",
+      "suggestion": "One hedged shokuiku sentence; still deny required doctrine.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "major",
+      "location": "Not a Church Prayer — postwar kyūshoku “standardized” the group start",
+      "problem": "Overclaims origin. The humble verb and table phrase are older; school lunch spread a group recitation.",
+      "suggestion": "Many adults learned a loud group start at lunch; that explains volume, not invention.",
+      "sources": ["fact-source"]
+    },
+    {
+      "severity": "major",
+      "location": "cosmic hymn / church / sacred pause / spell / password",
+      "problem": "Mystic foil language mystifies itadakimasu while denying religion.",
+      "suggestion": "Keep bless-you once. Cut spell/password/sacred. Retitle away from Church.",
+      "sources": ["cultural-accuracy", "english-naturalness"]
+    },
+    {
+      "severity": "minor",
+      "location": "“The state does not intervene.”",
+      "problem": "Snark.",
+      "suggestion": "Drop or “nobody is grading it.”",
+      "sources": ["english-naturalness"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 3,
+  "minor_count": 1,
+  "needs_revision": true,
+  "revision_reason": "major ≥ 2 (shokuiku omission; postwar origin overclaim; mystic diction)",
+  "priority_notes": [
+    "[major/jp] Add hedged food-education note without mystifying",
+    "[major/fact] Hedge postwar standardized-origin",
+    "[major/cultural+english] Cut spell/church/sacred pile",
+    "Watch: do not mystify itadakimasu"
+  ],
+  "existing_articles_count": 45,
+  "scored_at": "2026-08-15T22:57:00+09:00"
+}

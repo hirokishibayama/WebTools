@@ -1,0 +1,63 @@
+{
+  "slug": "why-japanese-trains-have-so-many-announcements",
+  "title": "Why Japanese Trains Have So Many Announcements",
+  "introduction": {
+    "slug": "why-japanese-trains-have-so-many-announcements",
+    "rewritten": false,
+    "introduction_score": 88,
+    "introduction_path": "assets/why-japanese-trains-have-so-many-announcements/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-trains-have-so-many-announcements",
+    "patched": false,
+    "japanese_perspective_score": 88,
+    "perspective_path": "assets/why-japanese-trains-have-so-many-announcements/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 88,
+    "reader_engagement": 86,
+    "seo_quality": 88,
+    "overall": 87,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits",
+        "Fact vs interpretation separated"
+      ],
+      "japanese_perspective": [
+        "Everyday local experience without invented first-person memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present",
+        "No keyword stuffing"
+      ]
+    },
+    "verdict": "review",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ],
+  "word_count": 2198,
+  "status": "review"
+}

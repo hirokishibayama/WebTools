@@ -1,0 +1,32 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Midnight empty-crossing hook is a scene visitors actually meet, not a slogan.",
+    "Short answer mixes law, school, and being seen, then warns against a national-personality reading.",
+    "Scenarios (scramble, school, suitcase, delivery bike, group leader) are usable on the street.",
+    "Tips rank by risk: busy areas first, flashing green, cluster-following, no scolding.",
+    "Aha: waiting is a public agreement that loosens when witnesses disappear."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Empty Streets — school cleaning drills",
+      "problem": "Classroom-cleaning cousin is a sibling wink; it does not help a visitor decide whether to wait.",
+      "suggestion": "Cut the cleaning-drill sentence; keep school-zone audience and yellow flags."
+    },
+    {
+      "severity": "minor",
+      "location": "How Japanese People Learn to Stop — ‘Interpretation, not statute’",
+      "problem": "Worksheet phrasing briefly stalls the magazine voice.",
+      "suggestion": "Say the social tug does more of the waiting than a ticket, without the memo label."
+    },
+    {
+      "severity": "minor",
+      "location": "Real-Life Scenarios vs FAQ",
+      "problem": "Empty-street, night, and cyclist exceptions are restated three times.",
+      "suggestion": "Let FAQ stay short; keep one vivid night scene in the body."
+    }
+  ]
+}

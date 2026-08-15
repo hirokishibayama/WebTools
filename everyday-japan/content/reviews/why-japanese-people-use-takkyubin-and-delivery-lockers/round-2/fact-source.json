@@ -1,0 +1,24 @@
+{
+  "reviewer": "fact-source",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "COD no longer causes cash culture or lockers",
+    "1970s Yamato plus competing carriers intact"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "locker fee FAQ",
+      "problem": "Still unsourced variation—correctly hedged.",
+      "suggestion": "Keep do-not-assume."
+    }
+  ],
+  "verified": [
+    "Multiple carriers and locker brands",
+    "COD exists as a shrinking leftover"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": []
+}

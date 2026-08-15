@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Standing eat-in ≠ walking eating is the spine, not a disclaimer",
+    "COVID seating removal, chain variation, no national furniture standard",
+    "Canned beer at the counter hedged by store rules and residential quiet"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "legal, lit, air-conditioned edge",
+      "problem": "'Legal' is a slightly odd word for a shop shelf.",
+      "suggestion": "Leave; not a stereotype."
+    }
+  ]
+}

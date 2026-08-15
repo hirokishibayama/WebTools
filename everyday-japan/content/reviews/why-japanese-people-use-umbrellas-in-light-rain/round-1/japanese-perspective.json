@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Peak-hour crossing as a sample, not a census",
+    "Complaints about poked eyes and abandoned vinyl as ordinary costs",
+    "Bicycle ponchos and quiet side streets break the viral photo"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the body",
+      "problem": "Locals talk hair, uniforms, and konbini umbrellas more than ‘packaging the body’.",
+      "suggestion": "Keep the commute reasons; the packaging sentence is already caveated."
+    }
+  ]
+}

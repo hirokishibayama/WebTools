@@ -1,0 +1,41 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-say-itadakimasu",
+  "source_path": "content/articles/why-japanese-people-say-itadakimasu/article.md",
+  "synced_path": "content/drafts/why-japanese-people-say-itadakimasu/draft.md",
+  "changes": [
+    {
+      "severity": "major",
+      "location": "School lunch paragraph",
+      "before": "Not theology; start together only",
+      "after": "Hedged shokuiku note: waste, cook, sometimes lives-in-the-meal as food education, not required doctrine",
+      "reason": "Japanese readers would recognize school food-education talk; do not mystify it as a rite"
+    },
+    {
+      "severity": "major",
+      "location": "School as a manners factory",
+      "before": "Postwar school lunch standardized a group start",
+      "after": "Phrase older than kyūshoku; lunch made the chorus loud and daily",
+      "reason": "Do not invent origin"
+    },
+    {
+      "severity": "major",
+      "location": "Diction / H2 / close",
+      "before": "cosmic hymn, Church Prayer, sacred pause, spiritual technology, spell, password, church service",
+      "after": "grand speech; Required Religious Prayer; textbook pause; table manners; required line; test",
+      "reason": "Do not mystify itadakimasu"
+    },
+    {
+      "severity": "minor",
+      "location": "Skippers",
+      "before": "The state does not intervene",
+      "after": "Nobody is grading it",
+      "reason": "Drop snark"
+    }
+  ],
+  "not_changed": [
+    "No new historical dates or survey numbers",
+    "Visitor-not-required and gochisōsama pairing kept"
+  ],
+  "revised_at": "2026-08-15T23:10:00+09:00"
+}

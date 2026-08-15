@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "House rules / printed hour / closer",
+      "problem": "No-curfew restated; 8–9 p.m. is building-anecdotal; last line slightly oracular.",
+      "suggestion": "Leave. Do not add a fake national hour."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 88,
+    "originality": 88
+  },
+  "final_summary": "PASS without a revision round on the current text. The article already refuses a nationwide curfew: thin walls, posted building hours, and neighbor practice. Top leftover issue is restating that point and treating 8–9 p.m. as a familiar example rather than a survey.",
+  "slug": "why-japanese-apartments-are-quiet-at-night",
+  "title": "Why Japanese Apartments Are Quiet at Night",
+  "scored_at": "2026-08-15T23:10:00+09:00"
+}

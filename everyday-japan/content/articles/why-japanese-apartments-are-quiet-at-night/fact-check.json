@@ -1,0 +1,33 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "There is no nationwide statute setting a single washing-machine curfew for every home.",
+      "status": "supported",
+      "note": "Everyday limits are typically building house rules (管理規約・使用細則) and neighbor practice; construction noise is a separate municipal layer."
+    },
+    {
+      "claim": "Japanese apartments are legally silent everywhere at night.",
+      "status": "false-stereotype",
+      "note": "Article rejects; children, parties, and building type vary."
+    },
+    {
+      "claim": "Wooden apaato often transmit more sound than many concrete mansion buildings.",
+      "status": "supported-with-care",
+      "note": "Typical construction difference; individual buildings vary. Mansion here means apartment/condo, not luxury house."
+    },
+    {
+      "claim": "Slippers exist primarily as a noise-control invention.",
+      "status": "unsupported",
+      "note": "Article treats slippers as a cleanliness habit with a noise side effect."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note building type, family status, and regional variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not freeze a specific national quiet hour as law"
+  ]
+}

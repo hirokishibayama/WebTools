@@ -1,0 +1,61 @@
+{
+  "slug": "why-japanese-people-hang-laundry-on-balconies",
+  "title": "Why Japanese People Hang Laundry on Balconies",
+  "introduction": {
+    "slug": "why-japanese-people-hang-laundry-on-balconies",
+    "rewritten": false,
+    "introduction_score": 86,
+    "introduction_path": "assets/why-japanese-people-hang-laundry-on-balconies/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-hang-laundry-on-balconies",
+    "patched": false,
+    "japanese_perspective_score": 86,
+    "perspective_path": "assets/why-japanese-people-hang-laundry-on-balconies/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 86,
+    "reader_engagement": 85,
+    "seo_quality": 86,
+    "overall": 86,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits",
+        "Fact vs interpretation separated"
+      ],
+      "japanese_perspective": [
+        "Everyday local experience without invented first-person memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present",
+        "No keyword stuffing"
+      ]
+    },
+    "verdict": "review",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Not a reprint of ‘don’t talk on trains’ listicles: conscription, sleep-vs-call burden, earphone leak, voice memo treated like a call.",
+    "Separates from bow-while-on-the-phone (different habit).",
+    "Portable preference vs not a global law you enforce abroad is a fresh closer."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Escalator and many-lines / on-time links",
+      "problem": "A couple of series winks.",
+      "suggestion": "Acoustic crowding can stand without the escalator sibling if trimming."
+    }
+  ]
+}

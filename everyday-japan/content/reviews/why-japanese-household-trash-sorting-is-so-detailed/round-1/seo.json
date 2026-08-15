@@ -1,0 +1,11 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Intent: why household sorting is so detailed",
+    "FAQ covers same-all-over?, street cans, burnable, crows, konbini bins, short stays",
+    "Sister-article disambiguation is on-intent, not a keyword dump"
+  ],
+  "issues": []
+}

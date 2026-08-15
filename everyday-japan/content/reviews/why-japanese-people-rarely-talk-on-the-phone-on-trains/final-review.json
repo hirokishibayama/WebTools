@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 90,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Arrest wording / staff ‘calls’",
+      "problem": "Slightly imprecise legal/operations contrast.",
+      "suggestion": "Optional polish; body already says not typically a law."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 92,
+    "cultural_accuracy": 92,
+    "fact_source": 88,
+    "seo": 93,
+    "english": 90,
+    "originality": 89
+  },
+  "final_summary": "PASS without revision. Texting vs voice, manners vs law, and priority-seat sticker-reading are all in place. Top leftover issue is ‘arrest’ as a rhetorical ceiling. Publishable.",
+  "slug": "why-japanese-people-rarely-talk-on-the-phone-on-trains",
+  "title": "Why Japanese People Rarely Talk on the Phone on Trains",
+  "scored_at": "2026-08-15T22:00:00+09:00"
+}

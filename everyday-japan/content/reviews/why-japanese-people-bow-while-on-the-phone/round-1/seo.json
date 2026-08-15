@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Matches the exact search puzzle: bowing when nobody can see.",
+    "FAQ hits sacred-phone myth, “do all Japanese people,” visitor copy, video chat.",
+    "Differentiates from in-person ojigi via internal link without keyword stuffing."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ “Is this because Japanese people think phones are sacred?”",
+      "problem": "Useful as a myth query, but ranking this high in the FAQ keeps the sacred framing in SERP snippets.",
+      "suggestion": "Keep the Q; make the first sentence a blunt no, then habit/training."
+    }
+  ]
+}

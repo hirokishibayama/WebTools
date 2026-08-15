@@ -1,0 +1,26 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Mini-market vs pharmacy and multi-chain map are already structural.",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 87,
+    "originality": 86
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Donki-type / Create",
+      "problem": "Insider shorthand; not misleading.",
+      "suggestion": "Do not expand Donki. Leave Create unless a later pass glosses Don Quijote.",
+      "sources": ["japanese-perspective", "english-naturalness", "fact-source"]
+    }
+  ],
+  "priority_notes": [
+    "Tourist tax-free vs local bulk is the article. Do not turn it into a shopping ranking."
+  ]
+}

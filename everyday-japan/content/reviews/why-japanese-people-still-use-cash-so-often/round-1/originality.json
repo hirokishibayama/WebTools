@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Angle is stacked rails, not 'Japan loves cash' tourism copy",
+    "Distinct from the cash-tray (karuton) sibling article",
+    "Shop-type vs birth-year split is the 'I didn't know that' beat"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Keep notes unfolded / trays",
+      "problem": "Brief tray mention overlaps the register-tray article without stealing it.",
+      "suggestion": "Keep one line; do not explain karuton here."
+    }
+  ]
+}

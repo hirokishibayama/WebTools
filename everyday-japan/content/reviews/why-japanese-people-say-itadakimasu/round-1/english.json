@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "“Let’s eat, with a layer of thanks folded in” is native and accurate.",
+    "“The soup gets cold” is a human closer.",
+    "Avoids “this unique aspect of Japanese culture.”"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "cosmic hymn / church service / sacred pause / mandatory spell / password",
+      "problem": "Dramatic foil language. Sounds like an essay arguing with a travel blog, not a magazine feature.",
+      "suggestion": "Cut the metaphor pile. Keep bless-you; keep “table words.”"
+    },
+    {
+      "severity": "minor",
+      "location": "“The state does not intervene.”",
+      "problem": "Snark that nobody was asking.",
+      "suggestion": "“Nobody is grading it” or drop."
+    }
+  ]
+}

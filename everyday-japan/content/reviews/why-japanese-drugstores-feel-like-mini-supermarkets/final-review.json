@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 87,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Donki-type / Create",
+      "problem": "Insider shorthand for Don Quijote; Create SD shortened.",
+      "suggestion": "Leave; body already names multiple chains."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 87,
+    "originality": 86
+  },
+  "final_summary": "PASS without revision. Chains compete as discounters with a real pharmacist/registered-seller corner; tax-free tourist baskets and Tuesday tissue runs share a floor without turning Japan into Matsukiyo-only.",
+  "slug": "why-japanese-drugstores-feel-like-mini-supermarkets",
+  "title": "Why Japanese Drugstores Feel Like Mini-Supermarkets",
+  "scored_at": "2026-08-15T23:20:00+09:00"
+}

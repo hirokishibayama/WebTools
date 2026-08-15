@@ -1,0 +1,17 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Concrete register basket, inverted vinyl, quiet side street",
+    "Avoids ‘it may seem strange but they use umbrellas’"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closer",
+      "problem": "‘The forest is weather plus commuting, not a national mood’ is slightly slogan-like.",
+      "suggestion": "Earned; leave."
+    }
+  ]
+}

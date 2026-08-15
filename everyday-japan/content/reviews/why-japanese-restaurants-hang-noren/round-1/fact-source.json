@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Noren-wake is real business vocabulary.",
+    "Edo shop-street cloth is real in paintings; article correctly says a 2019 ramen shop is not 1720.",
+    "No fake ordinance that shops must hang noren."
+  ],
+  "verified": [
+    "A noren is a split shop curtain used at many restaurants and some sentō.",
+    "Hanging/taking in often signals open/closed for small shops, as custom.",
+    "Many malls, chains, and cafes have none."
+  ],
+  "questionable": [
+    "Fire codes as a primary reason malls omit noren.",
+    "Kitchen smell control as a practical job of the curtain."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "A specific century or first attestation if a later edit adds a date."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "When There Is No Noren — fire codes / HVAC",
+      "problem": "Causal claim without a source; corporate design is the safer account.",
+      "suggestion": "Hedge or drop fire code as the lead reason."
+    }
+  ]
+}

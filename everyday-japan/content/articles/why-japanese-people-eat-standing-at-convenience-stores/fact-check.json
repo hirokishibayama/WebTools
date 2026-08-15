@@ -1,0 +1,39 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Many konbini provide microwaves, utensils, and customer bins; some have eat-in counters or few seats.",
+      "status": "supported",
+      "note": "Chain-dependent; kiosks may have none."
+    },
+    {
+      "claim": "Eat-in policies changed during COVID; not all stores restored seating.",
+      "status": "supported-with-care",
+      "note": "Franchise/local variation."
+    },
+    {
+      "claim": "Standing eat-in is the same as tabearuki.",
+      "status": "false-stereotype",
+      "note": "Article distinguishes."
+    },
+    {
+      "claim": "All konbini allow eating inside.",
+      "status": "false-stereotype",
+      "note": "Article rejects this."
+    },
+    {
+      "claim": "Eating standing is a traditional Japanese dining custom.",
+      "status": "unsupported",
+      "note": "Article frames as space/schedule compromise."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation",
+    "Hedge statistics; do not invent cashless percentages"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "status: review"
+  ]
+}

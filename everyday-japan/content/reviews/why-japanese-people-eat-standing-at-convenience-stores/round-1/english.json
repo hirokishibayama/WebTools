@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Thirty centimeters of shelf, civic counter plus dining ledge — specific",
+    "Closing is calm, not 'unique culture'",
+    "Almost no stock AI openers"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "meiwaku",
+      "problem": "Unexplained Japanese in an otherwise glossed article.",
+      "suggestion": "Gloss if the alcohol sentence is edited."
+    }
+  ]
+}

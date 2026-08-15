@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Opening sequence (lights, soup, noren out) and taking it in while staff still clean is how small shops actually run.",
+    "Noren-wake as business vocabulary, not a visitor bow to cotton.",
+    "Faded noren as a tired awning is a local eye."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "When There Is No Noren — “Fire codes, HVAC” as the mall reason",
+      "problem": "Shopkeepers would more often say 見た目・チェーンのルール・邪魔. Fire code may be a factor in some buildings, not the everyday explanation.",
+      "suggestion": "Lead with corporate design and sightlines; mention building rules only as a maybe."
+    }
+  ]
+}

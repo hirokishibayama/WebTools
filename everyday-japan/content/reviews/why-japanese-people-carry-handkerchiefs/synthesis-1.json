@@ -1,0 +1,59 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=0. Not-universal and object-splitting (hankachi/tenugui/oshibori) are already in the short answer. Leftovers: germ-pole exoticism, COVID-dryer overread, sibling-chain.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 7,
+  "overall_score": 88,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "priority_notes": [
+    "Watch item satisfied: handkerchiefs are common via school/restrooms/summer, not universal especially among youth.",
+    "Do not add carrier percentages. Revision not required."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "hankachi-pole-germ",
+      "location": "Intro — train-pole barrier",
+      "problem": "Leads with a germ-oddity; main job is wet hands and sweat.",
+      "suggestion": "Keep pole grip in the later ‘sometimes’ list.",
+      "sources": [
+        "cultural-accuracy"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "hankachi-covid-dryers",
+      "location": "Visitor Confusion — COVID-era dryers",
+      "problem": "Can be over-read as national policy; already hedged.",
+      "suggestion": "Leave hedge; do not add a nationwide timeline.",
+      "sources": [
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "hankachi-sibling-chain",
+      "location": "Shoes, trash cans, classroom cleaning",
+      "problem": "BYO-public-space franchise stitching.",
+      "suggestion": "One analogy; keep school packing list as the local engine.",
+      "sources": [
+        "seo-search-intent",
+        "editorial-originality"
+      ]
+    }
+  ],
+  "scored_at": "2026-08-15T22:00:00+09:00",
+  "slug": "why-japanese-people-carry-handkerchiefs",
+  "title": "Why Japanese People Carry Handkerchiefs",
+  "existing_articles_count": 46
+}

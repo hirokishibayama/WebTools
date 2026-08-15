@@ -1,0 +1,33 @@
+{
+  "round": 2,
+  "slug": "why-japanese-people-use-kairo-in-winter",
+  "title": "Why Japanese People Use Kairo in Winter",
+  "overall_score": 89,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 88,
+    "fact_source": 88,
+    "seo": 90,
+    "english": 88,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Teachers forbidding sloppy packs",
+      "problem": "Anecdotal.",
+      "suggestion": "Keep “some.”",
+      "sources": ["fact-source"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 1,
+  "needs_revision": false,
+  "revision_reason": "Critical lexeme fixed; not-everyone hedges already sufficient.",
+  "priority_notes": [
+    "Watch: kairo not everyone — still explicit in lede, exceptions, FAQ"
+  ],
+  "scored_at": "2026-08-15T23:20:00+09:00"
+}

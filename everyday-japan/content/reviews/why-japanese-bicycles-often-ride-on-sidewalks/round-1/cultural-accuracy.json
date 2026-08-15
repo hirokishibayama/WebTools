@@ -1,0 +1,19 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Correctly kills ‘in Japan, bikes belong on the sidewalk.’",
+    "Lists the standard exception cluster: signs, under 13, 70+, disability, unavoidable safety.",
+    "States sidewalk remains pedestrian-first: slow, roadway side, yield.",
+    "Sports cyclists on the roadway vs shopping mamachari: subcultures, not one national bike personality."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — walking ‘keep right or left’",
+      "problem": "Could be misread as a Japanese sidewalk keep-side rule. The sentence hedges with predictability, but visitors may import UK/JP roadway myths.",
+      "suggestion": "‘Be predictable; there is no reliable bike rail on the sidewalk.’"
+    }
+  ]
+}

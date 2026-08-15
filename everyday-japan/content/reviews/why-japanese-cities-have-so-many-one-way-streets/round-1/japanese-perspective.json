@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Complaint is the delivery van in the only legal direction, not a wish for American streets",
+    "Parking at the edge and walking as the sane local option",
+    "Wrong-way as ordinary irritation, no ceremony"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Apartment thin-wall rhyme",
+      "problem": "Density expressed twice is a metaphor, not how locals talk about arrows.",
+      "suggestion": "Leave one clause; do not expand."
+    }
+  ]
+}

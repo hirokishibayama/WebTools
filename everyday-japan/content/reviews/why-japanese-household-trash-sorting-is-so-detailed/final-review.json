@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "School-cleaning comparison / incineration share",
+      "problem": "Visibility analogy still leans on a sister article; burn share is hedged but unsourced.",
+      "suggestion": "Optional trim later; do not invent a percentage."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 90
+  },
+  "final_summary": "PASS after one revision. Sorting stays municipal, not a national personality. Removed a national ‘meat trays go in burnable’ instruction and scoped bag fees/designated bags to some cities. Street bins remain a different story.",
+  "slug": "why-japanese-household-trash-sorting-is-so-detailed",
+  "title": "Why Japanese Household Trash Sorting Is So Detailed",
+  "scored_at": "2026-08-15T23:10:00+09:00"
+}

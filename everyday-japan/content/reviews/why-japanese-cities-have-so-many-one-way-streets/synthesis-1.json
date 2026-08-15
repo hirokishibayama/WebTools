@@ -1,0 +1,30 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=0.",
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Pedestrian edge / shitamachi / thin-wall rhyme",
+      "problem": "Right-edge default vs ‘clearer edge’; unexplained shitamachi; density metaphor.",
+      "suggestion": "Leave; law and squeeze already coexist.",
+      "sources": [
+        "cultural-accuracy",
+        "reader-experience",
+        "editorial-originality"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "One-way is geometry + cheap signs, not a riddle for visitors."
+  ]
+}

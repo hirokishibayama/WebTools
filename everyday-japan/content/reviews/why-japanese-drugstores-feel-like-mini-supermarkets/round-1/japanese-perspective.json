@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Store jobs: konbini expensive-small, supermarket fresh, drugstore consumables",
+    "Flyer/private-brand hopping between Welcia and Sundrug is locally true",
+    "Weekday frozen-gyoza gap between bento and a vegetable shop"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Donki-type general discounters",
+      "problem": "Donki is insider shorthand; some readers will miss Don Quijote.",
+      "suggestion": "One gloss is enough if ever touching the line."
+    }
+  ]
+}

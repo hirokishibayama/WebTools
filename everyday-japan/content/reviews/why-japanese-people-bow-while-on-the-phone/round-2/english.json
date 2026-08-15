@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Mystic diction pile is gone from the body.",
+    "Voicemail-smile comparison remains a natural analog.",
+    "Close heading is plain."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "“a transferred motor habit”",
+      "problem": "Slightly technical for a magazine feature.",
+      "suggestion": "Fine; optional “the body keeps the dip.”"
+    }
+  ]
+}

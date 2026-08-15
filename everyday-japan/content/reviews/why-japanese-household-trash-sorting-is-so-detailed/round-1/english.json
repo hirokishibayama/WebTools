@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Concrete fridge card, yellow net, sticker",
+    "Little ‘Japan is a country where’ filler",
+    "Calm, specific magazine tone"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "The Calendar Is the City",
+      "problem": "Closer is strong; ‘meeting a local truck’ is slightly cute but earned.",
+      "suggestion": "Leave."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "No fake national dryer-ownership percentage.",
+    "Bathroom dryer, combo machines, coin laundry, and condo bylaws are described as types, not census facts.",
+    "Pollen and freeze claims are lived-climate observations, not invented law."
+  ],
+  "verified": [
+    "Combination washer-dryers and bathroom kansōki are sold and installed in Japan.",
+    "Some condominium rules restrict visible laundry or futons on outer rails.",
+    "Futons are commonly aired; thick bedding is an awkward consumer-dryer load."
+  ],
+  "questionable": [
+    "“School and home still teach a mild preference for airing things” as an institutional fact.",
+    "Heat-drying a load “feels like leaving a space heater on for hours” (experiential, not measured)."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any future exact ownership share or electricity-yen figure."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese Households Treat Drying — school/home teaching claim",
+      "problem": "Presented as current educational practice without a source.",
+      "suggestion": "Hedge to household habit and humidity, or drop “school.”"
+    }
+  ]
+}

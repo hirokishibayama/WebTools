@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "No ‘Japan is uniquely hygienic.’",
+    "‘Shop rag rather than tuxedo accent’ deflates ceremonial reading.",
+    "Gray cloth from a day’s commuting is a concrete unphotogenic image."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Closing — ‘not a riddle about the national soul’",
+      "problem": "House closer shared with the red-light piece.",
+      "suggestion": "Optional: end on washable cloth in the bag, already the traveler’s move."
+    }
+  ]
+}

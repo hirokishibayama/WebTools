@@ -1,0 +1,24 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Shop training, scripts, and coworkers as a seen audience match how staff actually talk about phone manner.",
+    "Casual friend calls without desu/masu—and therefore without a hinge—is the local split.",
+    "Standing up for a business call in some offices is a real leftover habit."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "How the Body Learns to Follow the Sentence — childhood thanks/apology → phone bow",
+      "problem": "Children in Japan learn to dip the head with sumimasen. They do not generally bow into a telephone. The section glues school manners to handset training as if they were one classroom.",
+      "suggestion": "Keep childhood as the source of embodied thanks/apology. Put phone-bowing on retail/office scripts and being visible on the floor. Call the link a later transfer of motor habit, not how kids use phones."
+    },
+    {
+      "severity": "minor",
+      "location": "“Japanese people rarely narrate this as ‘the spirit of the caller is present.’”",
+      "problem": "Straw man. Locals would not recognize that inner monologue; they would say ちゃんと応対する.",
+      "suggestion": "Quote the local register: looking proper, not sounding bored, matching the customer—already in the next sentences. Cut the spirit line."
+    }
+  ]
+}

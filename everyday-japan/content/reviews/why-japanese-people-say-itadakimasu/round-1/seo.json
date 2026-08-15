@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Search intent is meaning + prayer-or-not + visitor should-I-say-it; all answered early.",
+    "FAQ is aligned: prayer, restaurants, gochisōsama, school, rudeness, non-Japanese speakers.",
+    "Natural use of itadakimasu / gochisousama without stuffing."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "H2 “Not a Church Prayer, Not Meaningless Either”",
+      "problem": "Searchers query “prayer,” not “church.”",
+      "suggestion": "Prefer “religious prayer” in the heading if retitled."
+    }
+  ]
+}

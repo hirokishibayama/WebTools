@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Magazine cadence: short scenes, then explanation. “It is Tuesday” lands.",
+    "Avoids “Japan is a country where” and “this unique aspect.”",
+    "Concrete verbs: flap, drip, freeze stiff, beat a futon."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Throughout — “postcard” motif",
+      "problem": "Postcard-as-myth is used enough times to feel like a series tic.",
+      "suggestion": "Keep two uses; vary with “street photo” or “sunny Sunday shot.”"
+    },
+    {
+      "severity": "minor",
+      "location": "Series formula “Fact vs interpretation” / “Interpretation, not destiny”",
+      "problem": "Useful labels, slightly editorial-template.",
+      "suggestion": "Fine to keep one; the second can be plain prose."
+    }
+  ]
+}

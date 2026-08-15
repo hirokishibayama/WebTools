@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Yoroshiku onegaishimasu has no single exact English equivalent but is translatable as a social job.",
+      "status": "supported",
+      "note": "Article rejects overclaiming 'untranslatable' while noting dictionary mismatch."
+    },
+    {
+      "claim": "It always means please.",
+      "status": "false-stereotype",
+      "note": "Article distinguishes restaurant please / onegaishimasu from the relational closer."
+    },
+    {
+      "claim": "It is the same as sumimasen or daijoubu.",
+      "status": "unsupported",
+      "note": "Forward-looking closer vs present apology/attention vs 'all right' management."
+    },
+    {
+      "claim": "The phrase is expected in many first meetings and polite emails, not in every shop transaction.",
+      "status": "supported-with-care",
+      "note": "Register and setting vary; article hedges."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Do not romanticize untranslatability",
+    "Note generational and workplace variation"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

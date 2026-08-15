@@ -1,0 +1,39 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Major drugstore chains commonly sell foods, cosmetics, household goods, and OTC in one shop.",
+      "status": "supported",
+      "note": "Matsumotokiyoshi, Welcia, Sundrug, Tsuruha, Create, etc."
+    },
+    {
+      "claim": "Classified medicines require qualified staff; not all items are self-serve.",
+      "status": "supported",
+      "note": "Pharmaceutical affairs rules; registered seller / pharmacist."
+    },
+    {
+      "claim": "Urban stores often offer tax-free processes for eligible visitors.",
+      "status": "supported-with-care",
+      "note": "Policy and thresholds change; ask staff."
+    },
+    {
+      "claim": "Japanese drugstores are pharmacies only.",
+      "status": "false-stereotype",
+      "note": "Article rejects this."
+    },
+    {
+      "claim": "Matsukiyo is the only chain.",
+      "status": "false-stereotype",
+      "note": "Article lists competitors."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation",
+    "Hedge statistics; do not invent cashless percentages"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "status: review"
+  ]
+}

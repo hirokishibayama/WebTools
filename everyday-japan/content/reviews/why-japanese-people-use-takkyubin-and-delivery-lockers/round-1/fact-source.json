@@ -1,0 +1,33 @@
+{
+  "reviewer": "fact-source",
+  "score": 80,
+  "status": "pass",
+  "strengths": [
+    "Yamato takkyubin popularized in the 1970s without claiming the whole market",
+    "Konbini pickup, hotel desks, locker networks as receiving options",
+    "Locker fees correctly 'do not assume'"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Cash on delivery… one reason notes remain ordinary",
+      "problem": "COD is a shrinking catalog/TV-shopping leftover. It does not explain why cash still sits in wallets, and it is not why lockers exist.",
+      "suggestion": "Keep COD as a leftover scene; drop it as a cause of cash culture or of the locker network."
+    }
+  ],
+  "verified": [
+    "Yamato takkyubin launched as a mass consumer product in the 1970s",
+    "Japan Post Yu-Pack, Sagawa, and others compete",
+    "PUDO and other locker brands exist; okihai boxes exist in some buildings",
+    "Hotel-to-hotel luggage forwarding is an ordinary product"
+  ],
+  "questionable": [
+    "How common COD remains in 2020s e-commerce households"
+  ],
+  "unsupported": [
+    "COD as a reason cash remains ordinary"
+  ],
+  "needs_source": [
+    "Share of parcels that finish in lockers vs redelivery"
+  ]
+}

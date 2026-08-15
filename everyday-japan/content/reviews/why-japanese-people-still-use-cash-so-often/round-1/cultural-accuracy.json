@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Japan is not cash-only is structural, not a footnote",
+    "Regional/shop variation (bakery, shrine, PayPay-not-Visa) avoids a national personality",
+    "Ritual money is treated as object-and-envelope, not mystical love of paper"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Low everyday crime, high everyday caution",
+      "problem": "Even hedged, safety-as-reason-to-carry-cash can echo the national-safety myth.",
+      "suggestion": "Keep the phone-failure contrast; do not expand street-crime as character."
+    }
+  ]
+}

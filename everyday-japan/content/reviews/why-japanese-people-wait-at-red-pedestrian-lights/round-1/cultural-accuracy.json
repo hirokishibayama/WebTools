@@ -1,0 +1,25 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Rejects ‘Japanese people never jaywalk’ as a daytime-station composite.",
+    "Separates Road Traffic Act from train manners; that contrast is culturally useful.",
+    "Flashing green as finish-don’t-begin on wide Tokyo crossings is accurate everyday teaching.",
+    "Waiting is not framed as unique Japanese soul or extra obedience."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Empty Streets — ‘a camera sits on the pole’ / Learn to Stop — station cameras",
+      "problem": "Readers can take pole cameras as pedestrian-signal enforcement. Typical intersection cameras and station CCTV are not how most jaywalking is ticketed; being seen by people is the stronger local mechanism.",
+      "suggestion": "Keep ‘feeling watched.’ Treat cameras as possible, not a pedestrian red-light ticket machine. Do not invent camera-fine stats."
+    },
+    {
+      "severity": "minor",
+      "location": "Opening cluster including a bicycle rider",
+      "problem": "A bike waiting with walkers is common, but bikes are vehicles; the image can blur two legal categories before the later clarification.",
+      "suggestion": "The later bicycle paragraph already fixes this; optional: ‘a cyclist often waits with them anyway.’"
+    }
+  ]
+}

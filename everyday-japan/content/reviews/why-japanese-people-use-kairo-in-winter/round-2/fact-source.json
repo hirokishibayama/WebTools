@@ -1,0 +1,27 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Critical lexeme error is gone.",
+    "Still no fake market-yen figure; burn and sorting hedges remain."
+  ],
+  "verified": [
+    "Haru vs haranai types; seasonal konbini retail.",
+    "Room-by-room heating is common in older stock.",
+    "tesaki / ashisaki as fingertips and toes."
+  ],
+  "questionable": [
+    "Teachers forbidding sloppy stick-on use (still anecdotal)."
+  ],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Teachers forbid sloppy packs",
+      "problem": "Anecdotal workplace/school rule.",
+      "suggestion": "Keep as “some”; do not universalize."
+    }
+  ]
+}

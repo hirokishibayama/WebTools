@@ -1,0 +1,19 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Hovering bill vs untouched dish is the exact visitor flinch.",
+    "Short answer: counting surface, not distrust, not tipping; IC skips it.",
+    "Tips: dish if present, no tip, wait for change, konbini well, self-checkout is the tray.",
+    "Aha: both people need to see the number."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "A Counting Surface — ‘count change aloud’",
+      "problem": "Many shops now let the register voice or a quiet count do the work; ‘aloud’ can set a theatrical expectation.",
+      "suggestion": "Visible sequence / amount shown; some clerks still narrate."
+    }
+  ]
+}

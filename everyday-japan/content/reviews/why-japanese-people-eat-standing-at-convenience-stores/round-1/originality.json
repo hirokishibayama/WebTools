@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Complements the published walking-eating article instead of cloning it",
+    "Microwave-as-product-step and last-train/overtime overflow are the local extras",
+    "Not a konbini-services recap"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "cross-links",
+      "problem": "Announcements link is a slight stretch (food vs audio) but the 'separate rooms' beat works.",
+      "suggestion": "Keep one sentence; do not expand train PA here."
+    }
+  ]
+}

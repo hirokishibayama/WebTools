@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Low everyday crime",
+      "problem": "Hedged safety explanation remains.",
+      "suggestion": "Do not expand into national-character safety."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 89,
+    "cultural_accuracy": 87,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 88,
+    "originality": 88
+  },
+  "final_summary": "PASS after one revision. Japan stays a stacked-payments country, not cash-only; cashless ratios stay method-hedged. Part-time pay is bank-then-withdraw, and clinic terminals are billing/rollout, not privacy rules.",
+  "slug": "why-japanese-people-still-use-cash-so-often",
+  "title": "Why Japanese People Still Use Cash So Often",
+  "scored_at": "2026-08-15T23:25:00+09:00"
+}

@@ -1,0 +1,30 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Signs as traffic-control devices under road law",
+    "Pedestrians usually on the right-hand edge where cars keep left (道路交通法-consistent)",
+    "No claim that Japan invented one-ways"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Zone 30 / school routes",
+      "problem": "Zone 30 and school-route one-ways exist but are not sourced as counts.",
+      "suggestion": "Keep as a tool among tools."
+    }
+  ],
+  "verified": [
+    "Ippo tsuko as one-way traffic control",
+    "Cars keep left; pedestrians on roads without sidewalks generally use the right edge",
+    "Many 生活道路 are too narrow for two cars plus sidewalks"
+  ],
+  "questionable": [
+    "How often apps still pour through-traffic despite mazes"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Share of urban residential streets that are one-way"
+  ]
+}

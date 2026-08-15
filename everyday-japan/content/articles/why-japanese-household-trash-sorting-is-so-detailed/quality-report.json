@@ -1,0 +1,61 @@
+{
+  "slug": "why-japanese-household-trash-sorting-is-so-detailed",
+  "title": "Why Japanese Household Trash Sorting Is So Detailed",
+  "introduction": {
+    "slug": "why-japanese-household-trash-sorting-is-so-detailed",
+    "rewritten": false,
+    "introduction_score": 85,
+    "introduction_path": "assets/why-japanese-household-trash-sorting-is-so-detailed/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-household-trash-sorting-is-so-detailed",
+    "patched": false,
+    "japanese_perspective_score": 86,
+    "perspective_path": "assets/why-japanese-household-trash-sorting-is-so-detailed/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 85,
+    "japanese_perspective": 86,
+    "reader_engagement": 84,
+    "seo_quality": 88,
+    "overall": 85,
+    "notes": {
+      "cultural_accuracy": [
+        "Distinct from street-bin article",
+        "Municipality variation foregrounded"
+      ],
+      "japanese_perspective": [
+        "Crows, calendars, and rejected bags as everyday labor"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present",
+        "Cannibalization with street-bins article addressed"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

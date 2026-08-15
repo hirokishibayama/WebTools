@@ -1,0 +1,30 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Konbini vinyl umbrellas as cheap replacement goods",
+    "No claim that all Japanese open umbrellas for drizzle",
+    "Umbrella bags/stands as ordinary infrastructure"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Commute structure — large share walk to station",
+      "problem": "Directionally right for dense cities; not a cited mode-share.",
+      "suggestion": "Already labeled fact vs interpretation and scoped to dense cities."
+    }
+  ],
+  "verified": [
+    "Convenience stores sell cheap vinyl umbrellas",
+    "Walk–train–walk is a common urban commute shape",
+    "Sun parasols are a different tool"
+  ],
+  "questionable": [
+    "Minute-by-minute apps as a major cause of the low threshold"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Urban walk-to-station mode share"
+  ]
+}

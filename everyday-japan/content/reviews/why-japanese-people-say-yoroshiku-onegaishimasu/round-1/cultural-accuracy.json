@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Explicitly rejects untranslatable-magic tourism copy",
+    "Separates onegaishimasu at a counter from relational yoroshiku",
+    "Not uniquely Japanese as ‘only Japan has closing formulas’"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Lede — ‘offers it back’",
+      "problem": "Yoroshiku onegaishimasu is primarily a request for favorable treatment of what follows. Reciprocity is typically the reply こちらこそよろしくお願いします, not built into the first utterance.",
+      "suggestion": "Ask for decent future treatment; do not make the opener automatically two-way."
+    },
+    {
+      "severity": "minor",
+      "location": "Packaging of the self",
+      "problem": "Hedged, but still brushes wrapping mystique.",
+      "suggestion": "Do not grow."
+    }
+  ]
+}

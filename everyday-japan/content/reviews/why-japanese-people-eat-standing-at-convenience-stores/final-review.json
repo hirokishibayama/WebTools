@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 90,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "meiwaku",
+      "problem": "Unglossed Japanese in the alcohol-at-counter beat.",
+      "suggestion": "Optional 迷惑 / nuisance if the line is ever opened."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 91,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 89,
+    "originality": 89
+  },
+  "final_summary": "PASS without revision. Konbini standing eat-in is a pause inside the shop (heat, chopsticks, bins, few seats), not tabearuki. Variation by chain, COVID seating, and people who never eat in-store stay visible.",
+  "slug": "why-japanese-people-eat-standing-at-convenience-stores",
+  "title": "Why Japanese People Eat Standing at Convenience Stores",
+  "scored_at": "2026-08-15T23:20:00+09:00"
+}

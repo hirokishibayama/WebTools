@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Explicitly refuses the “Japan has no dryers / Japan worships the sun” story.",
+    "Regional and building variation is named: snow country freeze, pollen weeks, facade rules, rural yard poles, combo washer-dryers.",
+    "Outdoor drying is correctly framed as global, with the urban balcony as the local mix."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Title / opening question “Why do Japanese people hang laundry on balconies?”",
+      "problem": "Headline still sounds universal; the body does the hedging. Acceptable for search, but the first answer must stay hedged (it does).",
+      "suggestion": "Keep the short-answer hedges; do not let a future edit strip “many homes” and “not every building.”"
+    }
+  ]
+}

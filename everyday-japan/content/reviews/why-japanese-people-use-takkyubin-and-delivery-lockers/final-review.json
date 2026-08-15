@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Are lockers free?",
+      "problem": "Fee variation is hedged, not sourced.",
+      "suggestion": "Keep do-not-assume."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 87,
+    "seo": 89,
+    "english": 88,
+    "originality": 90
+  },
+  "final_summary": "PASS after one revision. Takkyubin is a market of carriers plus hotels, konbini, and lockers—not one black-cat firm. Truck colors match the street; COD is a leftover, not the reason for cash or lockers.",
+  "slug": "why-japanese-people-use-takkyubin-and-delivery-lockers",
+  "title": "Why Japanese People Use Takkyubin and Delivery Lockers",
+  "scored_at": "2026-08-15T23:25:00+09:00"
+}

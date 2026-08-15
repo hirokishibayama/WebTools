@@ -1,0 +1,19 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title matches the search: empty-street red pedestrian lights.",
+    "FAQ hits always-wait, illegal, empty street, fine, obedient stereotype, children.",
+    "Keywords (Road Traffic Act, flashing green, school zone) sit in natural sentences.",
+    "Internal links (no sidewalks, queues, sleep on trains, escalators) are mostly on-intent."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "What the Law Actually Says — sleep-on-trains contrast",
+      "problem": "Useful manners-vs-law contrast, slightly long as a sibling ad.",
+      "suggestion": "One sentence is enough; keep the legal distinction."
+    }
+  ]
+}

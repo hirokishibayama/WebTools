@@ -1,0 +1,33 @@
+{
+  "round": 1,
+  "revision_required": true,
+  "reason": "critical=0, major=2 (wrong truck scenery; COD as cause of cash).",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 86,
+    "cultural_accuracy": 88,
+    "fact_source": 80,
+    "seo": 89,
+    "english": 87,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "cat logo, the red-and-black truck",
+      "problem": "Does not match ordinary carrier colors. Japanese readers would not see that street.",
+      "suggestion": "Yamato cat on green-yellow, Japan Post red, Sagawa, konbini back room.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "major",
+      "location": "COD as a reason notes remain ordinary",
+      "problem": "COD is a shrinking leftover, not why wallets keep cash or why lockers exist.",
+      "suggestion": "Keep as leftover scene; drop causal claim.",
+      "sources": ["fact-source", "editorial-originality"]
+    }
+  ],
+  "priority_notes": [
+    "Takkyubin is not one company — already structural; do not recentralize Kuroneko."
+  ]
+}

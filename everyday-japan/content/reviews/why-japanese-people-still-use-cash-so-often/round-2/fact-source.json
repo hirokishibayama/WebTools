@@ -1,0 +1,27 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Privacy-rules causation removed",
+    "Cashless ratio still hedged; no invented percentage"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "clinic cash signs",
+      "problem": "Still easy to over-read as typical of all clinics.",
+      "suggestion": "Body already says some desks take cards—keep that split."
+    }
+  ],
+  "verified": [
+    "Part-time wages typically bank transfer",
+    "Clinic/hospital card acceptance is uneven",
+    "Digital payment grew; cash did not disappear"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Any single national cashless percentage (correctly omitted)"
+  ]
+}

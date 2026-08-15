@@ -1,0 +1,26 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0 after round-1 patches. Cashless % still unsourced on purpose.",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 89,
+    "cultural_accuracy": 87,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 88,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Low everyday crime / clinic 'some'",
+      "problem": "Residual hedges, not false slogans.",
+      "suggestion": "Do not expand safety or invent a cashless ratio.",
+      "sources": ["cultural-accuracy", "fact-source"]
+    }
+  ],
+  "priority_notes": [
+    "Japan is not cash-only remains the map."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Answers why trains talk so much, including English repeats and door songs",
+    "Related questions (law, locals annoyed, vs punctuality) sit in FAQ",
+    "Internal links to lines and on-time pieces without hijacking intent"
+  ],
+  "issues": []
+}

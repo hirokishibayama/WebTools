@@ -1,0 +1,10 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Intent: what it means / why so often",
+    "FAQ: literal meaning, untranslatable?, vs please, vs sumimasen, must I say it, pushy, every email"
+  ],
+  "issues": []
+}

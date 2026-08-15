@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Locals notice missing or oily register, not the poetry",
+    "Junior vs senior weight of the same words",
+    "Friends drop it; nightlife may skip it—not compulsory oxygen"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the self",
+      "problem": "Verbal wrap / packaging comparison is editor-facing more than how speakers experience the phrase.",
+      "suggestion": "Keep as comparison only."
+    }
+  ]
+}

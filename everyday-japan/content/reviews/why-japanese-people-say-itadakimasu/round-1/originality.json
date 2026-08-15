@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Coordination green-light in a group meal is a sharper angle than “gratitude culture.”",
+    "Tourist-workshop over-coaching vs weekday kitchen is a useful contrast.",
+    "Does not clone a Wikipedia etymology dump."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "sumimasen and gift-giving cross-links",
+      "problem": "Nearby Everyday Japan pieces on manners/gifts; stacking them can feel like a gratitude-series recap.",
+      "suggestion": "Keep one cross-link; keep this article’s signature as start/stop table words plus school lunch."
+    }
+  ]
+}

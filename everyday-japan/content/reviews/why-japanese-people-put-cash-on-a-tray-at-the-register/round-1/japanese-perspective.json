@@ -1,0 +1,20 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Clerks care that coins on a palm roll; the dish is cheaper than the apology play. Unromantic and true.",
+    "Locals often never think the word karuton until a visitor asks.",
+    "Impatience with the line, not pride in the dish.",
+    "Matching the shop in front of you beats performing the most Japanese version.",
+    "No invented memoir."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "‘Japanese people who work registers will tell you’",
+      "problem": "Collective clerk voice without a specific fake anecdote—acceptable, still a mild ‘locals say’ shortcut.",
+      "suggestion": "‘Register work makes the drop-and-apologize cost obvious’ without ‘will tell you.’"
+    }
+  ]
+}

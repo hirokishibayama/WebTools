@@ -1,0 +1,32 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "karuton as shop slang, etymology not asserted as proven.",
+    "No invented cash-vs-IC percentages or fee yen.",
+    "Suica/PASMO named as examples of skipping the object-exchange.",
+    "Fact vs interpretation labels used for hygiene."
+  ],
+  "verified": [
+    "A small change tray is widely used at cash registers when cash is taken.",
+    "Leaving extra on the tray is not read as a tip; staff may return it.",
+    "IC/card/self-checkout remove the tray moment."
+  ],
+  "questionable": [
+    "‘Clerks commonly count change aloud’: some do; many do not. Visibility is the more reliable fact than narration.",
+    "Carton-type root: possible shop etymology, already hedged."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Do not add a percentage of cash transactions or a merchant-fee figure without a source."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Counting Surface — count aloud / visible sequence",
+      "problem": "Two claims glued: visible layout is common; spoken count is not universal.",
+      "suggestion": "Lead with visible amount; mention spoken count as one shop style."
+    }
+  ]
+}

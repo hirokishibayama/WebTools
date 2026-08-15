@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "Repeated dryer/folklore thesis",
+      "problem": "Anti-myth is correct but restated through intro, middle, FAQ, and close.",
+      "suggestion": "Optional trim; not required by revision threshold.",
+      "sources": ["reader-experience"]
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "School still teaches airing",
+      "problem": "Curriculum-flavored claim without a source.",
+      "suggestion": "Attribute to humidity and closets.",
+      "sources": ["japanese-perspective", "fact-source"]
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 87,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 91,
+    "fact_source": 84,
+    "seo": 90,
+    "english": 86,
+    "originality": 88
+  },
+  "final_summary": "PASS without a revision round: critical=0 and only one aggregated major. Dryers, bathroom kansōki, combo machines, and coin laundry are already on the page; balcony hanging is framed as space, cost, futons, and rules—not a missing-appliance nation. Human editors may trim the repeated postcard/anti-myth lines before publish.",
+  "slug": "why-japanese-people-hang-laundry-on-balconies",
+  "title": "Why Japanese People Hang Laundry on Balconies",
+  "scored_at": "2026-08-15T23:05:00+09:00"
+}

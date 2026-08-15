@@ -1,0 +1,12 @@
+{
+  "round": 1,
+  "article_path": "everyday-japan/content/articles/why-japanese-trains-have-so-many-announcements/article.md",
+  "changes": [
+    "Separated crew point-and-call / live departure checks from recorded passenger PA",
+    "Limited express: not a quiet car; fewer manners loops, still stop names and bilingual repeats"
+  ],
+  "not_changed": [
+    "Urban vs rural announcement density",
+    "Split from the punctuality article"
+  ]
+}

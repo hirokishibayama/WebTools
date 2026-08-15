@@ -1,0 +1,16 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Heat-the-person-for-the-gap remains the angle, not a product roundup."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Sidewalks cross-link",
+      "problem": "Still a thin cousin.",
+      "suggestion": "Leave; not worth a second rewrite round."
+    }
+  ]
+}

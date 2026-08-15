@@ -1,0 +1,27 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "No law; far party cannot see a voice-call bow.",
+    "Childhood is no longer asserted as the direct cause of phone bows.",
+    "No fake percentages."
+  ],
+  "verified": [
+    "Service and office settings sometimes show a bow during calls.",
+    "Casual and younger calls often skip it."
+  ],
+  "questionable": [
+    "Typical training-video employee is “usually inclining.”"
+  ],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Workplace training video",
+      "problem": "Still unsourced typicality.",
+      "suggestion": "Hedge to “often shows a slightly formal posture.”"
+    }
+  ]
+}

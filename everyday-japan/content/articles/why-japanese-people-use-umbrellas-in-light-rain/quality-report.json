@@ -1,0 +1,60 @@
+{
+  "slug": "why-japanese-people-use-umbrellas-in-light-rain",
+  "title": "Why Japanese People Use Umbrellas in Light Rain",
+  "introduction": {
+    "slug": "why-japanese-people-use-umbrellas-in-light-rain",
+    "rewritten": false,
+    "introduction_score": 85,
+    "introduction_path": "assets/why-japanese-people-use-umbrellas-in-light-rain/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-use-umbrellas-in-light-rain",
+    "patched": false,
+    "japanese_perspective_score": 84,
+    "perspective_path": "assets/why-japanese-people-use-umbrellas-in-light-rain/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 84,
+    "japanese_perspective": 84,
+    "reader_engagement": 85,
+    "seo_quality": 87,
+    "overall": 85,
+    "notes": {
+      "cultural_accuracy": [
+        "Not-everyone hedge",
+        "Sun parasol distinguished from rain"
+      ],
+      "japanese_perspective": [
+        "Konbini vinyl umbrellas, train drips, uniforms"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

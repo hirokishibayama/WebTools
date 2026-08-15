@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Angle is heating the person for the minutes the building skips—not a gadget roundup.",
+    "Open-door retail ankles and peeling packs in tropical offices are lived details.",
+    "Not a Wikipedia chemistry stub."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Related: streets without sidewalks",
+      "problem": "Thin thematic overlap with a sibling explainer.",
+      "suggestion": "Homes-feel-different and konbini are the stronger links."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Explicitly not one black-cat company: Yamato, Japan Post, Sagawa, PUDO, Amazon, building boxes",
+    "Takkyubin in speech may still mean Yamato—FAQ tells readers to ask",
+    "Okihai is not a universal right; buildings differ"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "tags: Kuroneko",
+      "problem": "Tag weights the famous brand; body text already corrects it.",
+      "suggestion": "Keep the body correction; do not let the lead become Kuroneko-only."
+    }
+  ]
+}

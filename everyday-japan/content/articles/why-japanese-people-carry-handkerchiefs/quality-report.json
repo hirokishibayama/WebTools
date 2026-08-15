@@ -1,0 +1,58 @@
+{
+  "slug": "why-japanese-people-carry-handkerchiefs",
+  "title": "Why Japanese People Carry Handkerchiefs",
+  "introduction": {
+    "slug": "why-japanese-people-carry-handkerchiefs",
+    "rewritten": false,
+    "introduction_score": 90,
+    "introduction_path": "assets/why-japanese-people-carry-handkerchiefs/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-people-carry-handkerchiefs",
+    "patched": false,
+    "japanese_perspective_score": 90,
+    "perspective_path": "assets/why-japanese-people-carry-handkerchiefs/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 86,
+    "japanese_perspective": 88,
+    "reader_engagement": 84,
+    "seo_quality": 90,
+    "overall": 87,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits",
+        "Fact vs interpretation separated"
+      ],
+      "japanese_perspective": [
+        "Local signals found without invented memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook"
+      ],
+      "seo_quality": [
+        "FAQ present",
+        "Internal links present"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0"
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "status": "review",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

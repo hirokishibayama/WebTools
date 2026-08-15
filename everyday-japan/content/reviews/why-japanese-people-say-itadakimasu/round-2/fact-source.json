@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "No longer claims postwar kyūshoku standardized or invented the phrase.",
+    "Humble verb, group lunch chorus, gochisōsama pairing remain standard.",
+    "Shokuiku variation is hedged (some classrooms)."
+  ],
+  "verified": [
+    "Itadakimasu is a common pre-meal humble-receive phrase.",
+    "Many elementary school lunches use a group start.",
+    "Gochisōsama deshita is the common closer."
+  ],
+  "questionable": [
+    "How often classrooms use “lives in the meal” language (hedged as some/few)."
+  ],
+  "unsupported": [],
+  "needs_source": [],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "shokuiku “some classrooms”",
+      "problem": "Frequency is impressionistic.",
+      "suggestion": "Keep the hedge; do not add a percentage."
+    }
+  ]
+}

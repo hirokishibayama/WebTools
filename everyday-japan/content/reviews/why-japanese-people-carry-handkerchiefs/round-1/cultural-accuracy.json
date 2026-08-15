@@ -1,0 +1,20 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Watch item: not universal among young people; office dryer can unteach the habit.",
+    "hankachi vs tenugui vs oshibori: objects not collapsed.",
+    "Rejects extremely-clean national myth; one cloth does too many jobs.",
+    "COVID dryer changes by building and year, not a nationwide plot.",
+    "Boxed gift handkerchiefs not required to ‘understand the culture.’"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Intro — ‘barrier for a train pole you would rather not think about’",
+      "problem": "A real use, but leading with germ-pole can exoticize a mostly dry-hands/sweat tool.",
+      "suggestion": "Keep dryer/sweat first; pole grip as a later ‘sometimes’ (already in Restrooms section)."
+    }
+  ]
+}

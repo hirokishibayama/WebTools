@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Selective hearing and waking at 'the next station is' is how commuters actually live",
+    "Locals complain (sleep, ironic manners volume) without a crusade to kill speakers",
+    "Station melodies as wayfinding, not trivia, matches overtime nappers"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Tune the Noise — later paragraphs",
+      "problem": "Sleeping commuter / overtime nap is explained twice.",
+      "suggestion": "One sleep beat is enough."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Tray-and-pause opening, then “not a test of your soul,” tells visitors what to do.",
+    "Gochisōsama pairing answers the next question before the FAQ.",
+    "Tips are practical: short, optional, match the table, closing phrase matters more at a hosted meal."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Not a Church Prayer; closing “spell / password / church service”",
+      "problem": "A reader who wanted a simple meaning still has to walk through several religious foils.",
+      "suggestion": "One analogy (bless-you after a sneeze) is enough. Then school lunch and table timing."
+    }
+  ]
+}

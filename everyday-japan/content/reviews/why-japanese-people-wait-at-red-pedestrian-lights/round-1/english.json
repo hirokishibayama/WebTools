@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Concrete boredom at midnight, not ‘Japan is a country where people obey.’",
+    "Closing ‘leave the morality play at the curb’ is a magazine line, not AI awe.",
+    "Short paragraphs; Japanese terms glossed (ōdan-hodō, meiwaku, Dōro Kōtsū-hō)."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Learn to Stop — ‘Interpretation, not statute, does a lot of the waiting’",
+      "problem": "Clever but slightly cryptic.",
+      "suggestion": "Plain: people wait because someone might be watching, not only because a statute says so."
+    },
+    {
+      "severity": "minor",
+      "location": "Closing Insight",
+      "problem": "If/you parallel is a house pattern across this series.",
+      "suggestion": "Optional: one closing image (morning school vs night industrial road) without the twin misread."
+    }
+  ]
+}

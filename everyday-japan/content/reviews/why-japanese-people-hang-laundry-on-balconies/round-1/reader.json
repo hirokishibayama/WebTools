@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Opening balcony scene is concrete and immediately answers why the street looks like a postcard.",
+    "Visitor tips are usable: ask the host, watch drips, do not photograph neighbors’ laundry.",
+    "Exceptions (rain, pollen, condos, coin laundry) prevent a one-note myth."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Intro + What Visitors Are Actually Seeing + Cost/Space + FAQ + closing",
+      "problem": "The same thesis—dryers exist; this is not folklore—is restated so often that a reader who already got it in paragraph three may skim or drop mid-article.",
+      "suggestion": "Keep the anti-myth once in the short answer, once in FAQ, and once in the close. Let the middle be household logistics (washer location, drips, futon, rules)."
+    },
+    {
+      "severity": "minor",
+      "location": "Cost, Space, Sun, and the Futon Problem — “engawa-adjacent space”",
+      "problem": "engawa is dropped without a gloss; first-time visitors may bounce.",
+      "suggestion": "One parenthetical: a traditional veranda, or simply “a covered porch.”"
+    }
+  ]
+}

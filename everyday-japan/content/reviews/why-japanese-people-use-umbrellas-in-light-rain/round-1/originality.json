@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Forest as peak-hour artifact",
+    "Self-reinforcing drips once many umbrellas open",
+    "Abandoned identical vinyl as civic mess, not charm"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging resemblance",
+      "problem": "The interesting bit is self-reinforcing drips at crossings, not wrapping.",
+      "suggestion": "Keep drips; keep packaging tiny."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Face-to-face childhood manners are no longer sold as telephone class.",
+    "Staff talk (looking proper, not sounding bored) matches local register.",
+    "Shop-floor seen audience remains the strongest local insight."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Friends and family are a different engine",
+      "problem": "Slightly mechanical metaphor; meaning is clear.",
+      "suggestion": "Optional: “a different register.”"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-bow-while-on-the-phone",
+  "title": "Why Japanese People Bow While on the Phone",
+  "overall_score": 78,
+  "skill_scores": {
+    "reader": 86,
+    "japanese_perspective": 78,
+    "cultural_accuracy": 76,
+    "fact_source": 82,
+    "seo": 90,
+    "english": 74,
+    "originality": 85
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Short answer, body, FAQ, close — mystic diction",
+      "problem": "Telepathy, sacred phones, national trance, spiritual technology, sentence’s shadow: over-refuting the tourist myth keeps mystifying phone-bowing.",
+      "suggestion": "Bust once in the short answer and FAQ. Elsewhere: keigo, scripts, shop-floor visibility. Plain close.",
+      "sources": ["cultural-accuracy", "english-naturalness", "reader-experience"]
+    },
+    {
+      "severity": "major",
+      "location": "How the Body Learns — childhood bow → phone bow",
+      "problem": "Kids learn a head dip with thanks/apology; they do not generally bow into a telephone. The section treats two classrooms as one.",
+      "suggestion": "Childhood = embodied thanks. Phone bow = later transfer via retail/office scripts.",
+      "sources": ["japanese-perspective"]
+    },
+    {
+      "severity": "minor",
+      "location": "Spirit-of-the-caller straw man; “over-film”",
+      "problem": "Locals would not narrate spirits; “over-film” is coined.",
+      "suggestion": "Cut spirit line; use viral-clip vs slouched-call contrast.",
+      "sources": ["japanese-perspective", "english-naturalness"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 2,
+  "minor_count": 1,
+  "needs_revision": true,
+  "revision_reason": "major ≥ 2 (mystify-by-refutation; childhood/phone causal glue)",
+  "priority_notes": [
+    "[major/cultural+english+reader] Cut mystic vocabulary density",
+    "[major/jp] Separate childhood ojigi from workplace phone scripts",
+    "Watch: do not mystify phone-bowing"
+  ],
+  "existing_articles_count": 45,
+  "scored_at": "2026-08-15T22:57:00+09:00"
+}

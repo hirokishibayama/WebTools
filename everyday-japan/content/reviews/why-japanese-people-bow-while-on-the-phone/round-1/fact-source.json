@@ -1,0 +1,30 @@
+{
+  "reviewer": "fact-source",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Correctly states there is no law requiring a phone bow.",
+    "Training-script pairing is presented as workplace practice, not a statute.",
+    "No fake survey percentages."
+  ],
+  "verified": [
+    "People in service and office settings are sometimes observed bowing during calls.",
+    "The far party cannot see a voice-call bow."
+  ],
+  "questionable": [
+    "Managers “may not always correct a missing bow, but the model employee in the training video is usually inclining” (plausible, unsourced).",
+    "Childhood manners as the direct cause of adult phone-bowing."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any claim that a named retailer requires a bow on every call."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How the Body Learns — training video as typical",
+      "problem": "A typical training-video bow is anecdotal.",
+      "suggestion": "Hedge: “training often shows a slightly formal posture,” without claiming every video."
+    }
+  ]
+}

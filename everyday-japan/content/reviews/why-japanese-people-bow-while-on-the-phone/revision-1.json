@@ -1,0 +1,34 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-bow-while-on-the-phone",
+  "source_path": "content/articles/why-japanese-people-bow-while-on-the-phone/article.md",
+  "synced_path": "content/drafts/why-japanese-people-bow-while-on-the-phone/draft.md",
+  "changes": [
+    {
+      "severity": "major",
+      "location": "Short answer, body, FAQ, close",
+      "before": "mystical spine / national trance / telepathy / spiritual technology / Sentence’s Shadow",
+      "after": "Caller cannot see it; leftover posture; plain close heading; FAQ blunt no on sacred phones",
+      "reason": "Stop mystifying phone-bowing by over-refuting the tourist myth"
+    },
+    {
+      "severity": "major",
+      "location": "How the Body Learns",
+      "before": "Childhood thanks/apology glued directly to shop phone scripts",
+      "after": "Childhood = face-to-face manners; phone bow = later workplace transfer",
+      "reason": "Kids do not generally bow into telephones"
+    },
+    {
+      "severity": "minor",
+      "location": "Spirit-of-caller straw man; over-film",
+      "before": "spirit of the caller / over-film",
+      "after": "looking proper / viral clips vs slouched calls",
+      "reason": "Local register; native English"
+    }
+  ],
+  "not_changed": [
+    "No new facts invented",
+    "Shop vs friend split and visitor-not-required tips kept"
+  ],
+  "revised_at": "2026-08-15T23:10:00+09:00"
+}

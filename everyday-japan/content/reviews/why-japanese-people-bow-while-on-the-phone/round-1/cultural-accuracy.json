@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 76,
+  "status": "revise",
+  "strengths": [
+    "No law, no transmitted posture, younger/casual skip—correct.",
+    "Does not claim all 120 million people bow on every call.",
+    "Video-call variation is handled without mysticism."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Short answer + body + FAQ: mystical / telepathy / spiritual / trance / sacred",
+      "problem": "Over-refuting a tourist myth keeps the mystic frame as the article’s main character. That is a form of mystifying phone-bowing even while denying it.",
+      "suggestion": "State once that the other party cannot see you. Then stay with keigo, scripts, and shop-floor visibility."
+    },
+    {
+      "severity": "minor",
+      "location": "Title “Why Japanese People Bow While on the Phone”",
+      "problem": "Universal headline; body hedges. Acceptable if the first answer stays “sometimes / shops more / friends less.”",
+      "suggestion": "Do not strip the hedges in the short answer."
+    }
+  ]
+}

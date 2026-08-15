@@ -1,0 +1,11 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Title matches the observed habit; description blocks the walking-eating mix-up",
+    "FAQ: rude?, vs walking, chairs, all stores?, home vs store",
+    "Related konbini/trash/walking links support intent without a rewrite"
+  ],
+  "issues": []
+}

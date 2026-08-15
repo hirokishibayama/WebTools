@@ -1,0 +1,32 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Many restrooms lack paper towels; some have dryers—both hedged.",
+    "Elementary packing lists often include cloth + tissues—not every school’s written rule as a quote.",
+    "No fake percentages of carriers.",
+    "Toilet-paper-as-hand-towel civic warning without invented plumbing stats."
+  ],
+  "verified": [
+    "Paper-towel absence is common in public restrooms, not universal.",
+    "hankachi and tenugui differ in size and typical use.",
+    "oshibori is provided by the restaurant, not brought from home."
+  ],
+  "questionable": [
+    "COVID-era dryer removal/switch: happened in some buildings; article already says patterns differ.",
+    "Teachers checking bags: some classes, not a national daily inspection."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Do not add a survey percentage of handkerchief carriers or a nationwide restroom-equipment stat."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Confusion — COVID-era dryers",
+      "problem": "Directionally familiar, easy to over-read as a completed national policy.",
+      "suggestion": "Keep ‘some places… patterns differ by building and year.’ No nationwide claim."
+    }
+  ]
+}

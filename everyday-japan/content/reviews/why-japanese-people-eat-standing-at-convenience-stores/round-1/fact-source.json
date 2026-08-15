@@ -1,0 +1,27 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Microwaves, chopsticks, bins, optional counters/seats — accurate",
+    "Not every store has eat-in; policies changed with public-health and franchise decisions",
+    "Does not claim eating-in is required manners"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Standing for eight minutes beats cooking for forty",
+      "problem": "Round numbers are illustrative, not data.",
+      "suggestion": "Keep as sketch; do not treat as averages."
+    }
+  ],
+  "verified": [
+    "Many konbini sell heatable meals and provide customer microwaves and bins",
+    "Eat-in counters/seats vary; some stores have none",
+    "COVID-era on-site eating bans happened at some stores",
+    "Tabearuki is a separate street-manners pattern"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": []
+}

@@ -1,0 +1,17 @@
+{
+  "reviewer": "reader-experience",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Mixed-map opening still clear after the wage/clinic patches",
+    "QR tip is now literal instead of a visa joke"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "thesis restated across sections",
+      "problem": "Not-cash-only is repeated by design.",
+      "suggestion": "Do not add another slogan block."
+    }
+  ]
+}

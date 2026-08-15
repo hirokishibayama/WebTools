@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Some people in Japan bow during telephone calls even though the other party cannot see them.",
+      "status": "supported",
+      "note": "Widely observed in service and office settings; not universal."
+    },
+    {
+      "claim": "The other party can sense the bow through the phone.",
+      "status": "unsupported",
+      "note": "Article rejects telepathy/mystical framing."
+    },
+    {
+      "claim": "The movement is related to in-person ojigi and keigo, amplified by service training.",
+      "status": "interpretation-flagged",
+      "note": "Presented as interpretation of embodied politeness + scripts."
+    },
+    {
+      "claim": "Younger people and casual calls do it less.",
+      "status": "supported",
+      "note": "Register/role variation; not a census statistic."
+    },
+    {
+      "claim": "All Japanese people bow on every call.",
+      "status": "false-stereotype",
+      "note": "Article lists exceptions: friends, trains, casual shops."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "No unsourced exact market sizes"
+  ]
+}

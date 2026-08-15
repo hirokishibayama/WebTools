@@ -1,0 +1,34 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Register variants (yoroshiku / itashimasu) are real",
+    "Email closer vs spoken first meeting distinguished",
+    "No invented historical origin date"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Lede — offers it back",
+      "problem": "Over-symmetrizes a request formula as mutual offering.",
+      "suggestion": "Describe the job as a forward-looking request; reciprocity is a response pattern."
+    },
+    {
+      "severity": "minor",
+      "location": "Literal FAQ gloss",
+      "problem": "‘I request that things go favorably’ is a fair formula gloss, not a linguistic paper.",
+      "suggestion": "Fine for readers."
+    }
+  ],
+  "verified": [
+    "よろしくお願いします as a set closer in introductions and polite mail",
+    "Onegaishimasu alone as a request to staff",
+    "Sumimasen is a different job"
+  ],
+  "questionable": [
+    "The opener ‘offers it back’ as part of the same utterance"
+  ],
+  "unsupported": [],
+  "needs_source": []
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Not a Wikipedia clone of 歩道通行可; adds bell mismatch, delivery night lights at shin height, dock-vs-middle-of-block.",
+    "Complements no-sidewalks article instead of repeating it.",
+    "Local talk: sidewalk bikes as ordinary complaint, not foreign discovery."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Eating-while-walking internal link",
+      "problem": "Series cross-sell more than a cycling need.",
+      "suggestion": "Trim."
+    }
+  ]
+}

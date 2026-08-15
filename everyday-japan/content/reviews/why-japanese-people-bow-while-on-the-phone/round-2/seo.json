@@ -1,0 +1,10 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Query still answered in the first screen.",
+    "FAQ still captures the sacred-phone search without making it the body thesis."
+  ],
+  "issues": []
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Washer in the bathroom or on the balcony, drip conflicts, underwear hung inward, night hanging before a 7 a.m. commute—these are local, not tourism copy.",
+    "nureta mama as a small household failure (dishes in the sink, not a sacred rule) would make Japanese readers nod.",
+    "Futon airing is treated as moisture and bulk, not as a sun-worship ritual."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese Households Treat Drying as a Daily Task — “School and home still teach a mild preference for airing things.”",
+      "problem": "Sounds like a curriculum claim. Locals learned this from weather and mold, not from a school subject called laundry.",
+      "suggestion": "Attribute the preference to humid summers and closet smell, not to “school still teaches.”"
+    }
+  ]
+}

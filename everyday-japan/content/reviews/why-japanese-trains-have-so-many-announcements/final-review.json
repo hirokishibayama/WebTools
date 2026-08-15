@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Tune the Noise",
+      "problem": "Sleeping commuter appears twice.",
+      "suggestion": "Leave; not a second revision."
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 89,
+    "fact_source": 88,
+    "seo": 90,
+    "english": 88,
+    "originality": 90
+  },
+  "final_summary": "PASS after one revision. Passenger PA is crowd-and-schedule audio, distinct from crew checks. Limited express is not sold as a quiet car. Urban bilingual density vs rural thinness remains the map.",
+  "slug": "why-japanese-trains-have-so-many-announcements",
+  "title": "Why Japanese Trains Have So Many Announcements",
+  "scored_at": "2026-08-15T23:25:00+09:00"
+}

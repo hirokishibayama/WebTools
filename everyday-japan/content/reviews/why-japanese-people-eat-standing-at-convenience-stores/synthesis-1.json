@@ -1,0 +1,26 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Standing eat-in vs tabearuki is already the spine.",
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 91,
+    "fact_source": 88,
+    "seo": 91,
+    "english": 89,
+    "originality": 89
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "meiwaku without gloss",
+      "problem": "One unexplained Japanese term in an otherwise glossed piece.",
+      "suggestion": "Optional gloss; not a revision trigger.",
+      "sources": ["japanese-perspective", "english-naturalness"]
+    }
+  ],
+  "priority_notes": [
+    "Do not blur standing in-store eating with walking-eating. Keep microwave/overtime/bins as the why."
+  ]
+}

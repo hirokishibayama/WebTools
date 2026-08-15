@@ -1,0 +1,42 @@
+{
+  "round": 1,
+  "slug": "why-japanese-restaurants-hang-noren",
+  "title": "Why Japanese Restaurants Hang Noren",
+  "overall_score": 88,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 84,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Short answer “kitchen smell control” vs later exhaust-fan correction",
+      "problem": "Lede assigns a job the body correctly calls a stretch.",
+      "suggestion": "Drop smell from the opening bundle.",
+      "sources": ["reader-experience", "cultural-accuracy", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "Malls — fire codes / HVAC as lead reason",
+      "problem": "Everyday explanation is design and hassle; fire code is un sourced.",
+      "suggestion": "Lead with sightlines and corporate design.",
+      "sources": ["japanese-perspective", "fact-source"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 2,
+  "needs_revision": false,
+  "revision_reason": "critical = 0 and major = 0. Watch (not every shop) is already met in lede, exceptions, FAQ.",
+  "priority_notes": [
+    "[minor] Optional lede smell-control trim (not patched this round)",
+    "Watch: noren not every shop — already explicit"
+  ],
+  "existing_articles_count": 45,
+  "scored_at": "2026-08-15T22:57:00+09:00"
+}

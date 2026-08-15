@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "What it is, open/closed, not every shop, sento too—matches the query.",
+    "FAQ is complete and natural.",
+    "No keyword stuffing of “traditional Japanese noren curtain.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ “Is it an ancient sacred object?”",
+      "problem": "Useful myth query; already answered with “shop curtain with history.”",
+      "suggestion": "Keep."
+    }
+  ]
+}

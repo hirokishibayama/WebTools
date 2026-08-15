@@ -1,0 +1,27 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-use-kairo-in-winter",
+  "source_path": "content/articles/why-japanese-people-use-kairo-in-winter/article.md",
+  "synced_path": "content/drafts/why-japanese-people-use-kairo-in-winter/draft.md",
+  "changes": [
+    {
+      "severity": "critical",
+      "location": "How Winter Feels — sokubi (足先)",
+      "before": "sokubi (足先) — fingertips and toes",
+      "after": "tesaki and ashisaki (手先・足先) — fingertips and toes",
+      "reason": "Correct Japanese reading and gloss"
+    },
+    {
+      "severity": "minor",
+      "location": "Opening and scenario dump bin; airline tip",
+      "before": "dump bin / cardboard dump / pile of mysteries",
+      "after": "cardboard floor display; unused vs already-hot airline check",
+      "reason": "Trash ambiguity; unclear airline advice"
+    }
+  ],
+  "not_changed": [
+    "No new market-size figures",
+    "Not-everyone hedges (region, job, preference) kept"
+  ],
+  "revised_at": "2026-08-15T23:10:00+09:00"
+}

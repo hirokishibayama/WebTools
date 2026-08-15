@@ -1,0 +1,20 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "School packing list: handkerchief vs tissues split is locally exact.",
+    "Forgetting is common; wet cuffs; sour commuting cloth locals notice.",
+    "Used handkerchief closer to a toothbrush than a pen: the boundary Japanese people actually enforce.",
+    "Fashion square in a suit vs drugstore white pack: class/age mix without a single type.",
+    "No invented child-memoir beyond ordinary school logistics."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "School Bags — ‘Teachers still check, in some elementary classes’",
+      "problem": "True in some schools; still a vivid claim that can be pictured as nationwide inspection.",
+      "suggestion": "Keep ‘some’; optional: the kit is on the list more often than it is inspected daily."
+    }
+  ]
+}

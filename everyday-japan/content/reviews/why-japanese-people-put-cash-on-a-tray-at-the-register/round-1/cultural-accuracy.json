@@ -1,0 +1,20 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "Watch item: explicitly not a ritual of distrust or a purity rule about hands.",
+    "Hygiene as a side reading, capped; handshake/bow is a different file.",
+    "Tray not sacred: stalls, cramped konbini, casual staff, no napkin-tray.",
+    "Tipping extra on the tray as forgotten money, not gratitude.",
+    "Mid-shift 2026 vs frozen 1998 taxi tray: current, not nostalgic Japan."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Visitor Tips — ‘small two-handed presentation is fine’",
+      "problem": "Could be over-read as expected etiquette at a snack shop (the next clause already kills the anxious bow).",
+      "suggestion": "Keep ‘unnecessary deep bow’; two hands optional, not a second ritual."
+    }
+  ]
+}

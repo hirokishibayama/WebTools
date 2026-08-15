@@ -1,0 +1,24 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "“Quiet oxidation trick. No flame. No cable.” is clean.",
+    "Microclimates of a commute are shown, not announced.",
+    "Avoids “this unique aspect of Japanese culture.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "“dump bin”",
+      "problem": "Jargon / trash ambiguity.",
+      "suggestion": "floor display / cardboard basket."
+    },
+    {
+      "severity": "minor",
+      "location": "Airline tip “pile of mysteries”",
+      "problem": "Cute, unclear.",
+      "suggestion": "Plain airline-check sentence."
+    }
+  ]
+}

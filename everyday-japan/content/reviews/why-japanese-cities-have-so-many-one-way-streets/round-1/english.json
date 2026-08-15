@@ -1,0 +1,17 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Geometry plus traffic management in the short answer",
+    "No ‘Japan is a country where streets are mysterious’"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Getting Lost Is a Design Output",
+      "problem": "Title is slightly essay-workshop; body is concrete.",
+      "suggestion": "Leave; it is not AI stock."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Corridor-at-ten hook answers why to keep reading",
+    "Short answer kills the curfew myth before the body",
+    "Scenarios and tips are stay-usable (notice, laundry timing, kids, management)"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Why the Quiet Hour Exists + FAQ",
+      "problem": "The no-curfew point is necessary and already clear in the lede; later sections restate it enough that a reader may skim.",
+      "suggestion": "Keep lede + FAQ; one restatement in house-rules is enough."
+    }
+  ]
+}

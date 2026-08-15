@@ -1,0 +1,30 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Watch item (not a national curfew) is already the thesis.",
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 88,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "House rules restated / printed hours / closer",
+      "problem": "No-curfew is restated; 8–9 p.m. examples are anecdotal; last line is slightly oracular.",
+      "suggestion": "Leave; do not invent a national hour.",
+      "sources": [
+        "reader-experience",
+        "fact-source",
+        "english-naturalness"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "Quiet is building rules + thin construction + neighbor timing, not a national curfew."
+  ]
+}

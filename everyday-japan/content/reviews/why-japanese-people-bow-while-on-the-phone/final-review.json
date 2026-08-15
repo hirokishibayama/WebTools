@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Training video typically inclining",
+      "problem": "Anecdotal typicality remains.",
+      "suggestion": "Optional hedge.",
+      "sources": ["fact-source"]
+    }
+  ],
+  "revision_rounds": 1,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 88,
+    "originality": 87
+  },
+  "final_summary": "PASS after one revision. Phone-bowing is now leftover polite posture plus shop scripts, not a spiritual leftover. Childhood ojigi is separated from workplace handset training. Copied to content/drafts/why-japanese-people-bow-while-on-the-phone/draft.md.",
+  "slug": "why-japanese-people-bow-while-on-the-phone",
+  "title": "Why Japanese People Bow While on the Phone",
+  "scored_at": "2026-08-15T23:22:00+09:00"
+}

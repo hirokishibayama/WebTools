@@ -1,0 +1,16 @@
+{
+  "reviewer": "reader-experience",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Limited-express tip no longer sells silence"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Tune the Noise",
+      "problem": "Sleep/overtime still appears more than once.",
+      "suggestion": "Leave; not a second-round rewrite."
+    }
+  ]
+}

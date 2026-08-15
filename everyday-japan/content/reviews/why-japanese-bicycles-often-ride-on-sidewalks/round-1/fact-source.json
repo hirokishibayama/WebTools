@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "軽車両 / roadway default is the right legal starting point.",
+    "Exception cluster matches commonly taught Road Traffic Act sidewalk-riding conditions without a fake statute dump.",
+    "Uneven enforcement ≠ permission is correctly stated.",
+    "Helmets hedged as stronger expectations vs uncovered heads; no invented fine."
+  ],
+  "verified": [
+    "Bicycle classified as a light vehicle (軽車両); default travel on the roadway.",
+    "Sidewalk riding allowed with permission signs/markings, age/disability categories, or when roadway conditions make it unavoidable.",
+    "On sidewalks: slow, stay toward the roadway side where practicable, yield to pedestrians."
+  ],
+  "questionable": [
+    "Helmet paragraph: directionally right (recent tightening / 努力義務-type campaigns) but unspecified; OK because no fake yen or arrest claim."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Do not add a specific helmet-fine figure or a year unless citing the amendment notice."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Helmets paragraph",
+      "problem": "‘Stronger expectations’ is a hedge for 努力義務 without naming it; slightly fuzzy, not false.",
+      "suggestion": "Either omit helmets or say campaigns ask riders to wear them and compliance is incomplete. No invented penalties."
+    }
+  ]
+}

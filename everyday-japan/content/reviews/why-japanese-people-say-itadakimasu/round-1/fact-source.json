@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 72,
+  "status": "revise",
+  "strengths": [
+    "Humble verb itadaku and gochisōsama pairing are standard usage.",
+    "Visitor-not-required is correctly not presented as law.",
+    "Curriculum language “varies by school and era” is an honest hedge in the same paragraph as the weaker claim."
+  ],
+  "verified": [
+    "Itadakimasu is a common pre-meal phrase; itadaku is a humble verb of receiving.",
+    "Group itadakimasu is common in many elementary school lunches.",
+    "Gochisōsama deshita is the common closer."
+  ],
+  "questionable": [
+    "“Postwar school lunch, in many districts, standardized a group start” as the main historical cause of adult usage.",
+    "The word’s history “brushes against Buddhist vocabulary” (directionally fair, too vague to verify as stated)."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any claim that postwar kyūshoku created or legally standardized itadakimasu."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Not a Church Prayer — “Postwar school lunch… standardized a group start.”",
+      "problem": "The phrase and humble verb are older than postwar kyūshoku. School lunch spread the group recitation; it did not invent the table word. Stating standardization as origin overclaims.",
+      "suggestion": "Hedge: many adults learned a group start in the cafeteria; that explains volume better than an unbroken ancient law. Do not say postwar lunch standardized the phrase."
+    }
+  ]
+}

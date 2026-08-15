@@ -1,0 +1,62 @@
+{
+  "slug": "why-japanese-apartments-are-quiet-at-night",
+  "title": "Why Japanese Apartments Are Quiet at Night",
+  "introduction": {
+    "slug": "why-japanese-apartments-are-quiet-at-night",
+    "rewritten": false,
+    "introduction_score": 86,
+    "introduction_path": "assets/why-japanese-apartments-are-quiet-at-night/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-apartments-are-quiet-at-night",
+    "patched": false,
+    "japanese_perspective_score": 85,
+    "perspective_path": "assets/why-japanese-apartments-are-quiet-at-night/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 84,
+    "japanese_perspective": 85,
+    "reader_engagement": 84,
+    "seo_quality": 88,
+    "overall": 85,
+    "notes": {
+      "cultural_accuracy": [
+        "Shows nuance / limits",
+        "Fact vs interpretation separated",
+        "Rejects legal-silence stereotype"
+      ],
+      "japanese_perspective": [
+        "Everyday local experience without invented first-person memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present",
+        "No keyword stuffing"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

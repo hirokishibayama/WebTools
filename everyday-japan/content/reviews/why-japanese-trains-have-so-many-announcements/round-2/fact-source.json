@@ -1,0 +1,17 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "特急 is no longer implied to be a quiet product",
+    "Announcement volume still company practice, not a loudness statute"
+  ],
+  "issues": [],
+  "verified": [
+    "Recorded passenger PA is separate from crew point-and-call",
+    "Limited express still announces stops"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": []
+}

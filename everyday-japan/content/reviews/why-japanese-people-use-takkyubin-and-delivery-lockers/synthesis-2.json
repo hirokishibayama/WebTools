@@ -1,0 +1,26 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Truck colors and COD causation fixed. Multi-carrier intact.",
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 87,
+    "seo": 89,
+    "english": 88,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "locker fees",
+      "problem": "Variation unsourced, already hedged.",
+      "suggestion": "Keep do-not-assume.",
+      "sources": ["fact-source"]
+    }
+  ],
+  "priority_notes": [
+    "Takkyubin is a common word and a Yamato product name—not the whole market."
+  ]
+}

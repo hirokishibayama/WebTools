@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Specific puzzle is the bow after the eyes disappear—not a reprint of the handshake/ojigi explainer.",
+    "Coworkers as the seen audience is an angle travel blogs usually miss.",
+    "Visitor tip “match register more than angle” is useful and non-cliché."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Related article why-japanese-people-bow-instead-of-shaking-hands",
+      "problem": "Companion already mentions phone bows in passing. This piece must stay on the unseen-call puzzle.",
+      "suggestion": "Keep the “this article is not a repeat” sentence; do not expand into greeting types."
+    }
+  ]
+}

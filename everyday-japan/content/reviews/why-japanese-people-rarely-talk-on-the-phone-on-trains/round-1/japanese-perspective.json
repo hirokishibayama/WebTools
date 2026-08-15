@@ -1,0 +1,19 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 92,
+  "status": "pass",
+  "strengths": [
+    "‘On the train, I’ll call back’ as ordinary phrase is locally exact.",
+    "Annoyance specified as boss-anger or almost-asleep, not ‘I hate phones.’",
+    "Look not lecture; last-train Friday as a different country; vestibule without blocking doors.",
+    "No fake Japanese diary voice."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Texting section — ‘luxury of the next quiet platform’",
+      "problem": "Urban-frequency bias; rural long rides are mentioned but the emotional center is still the 7:40 commuter.",
+      "suggestion": "Already hedged; optional one more rural-duration beat in tips (already in ‘follow the car you are in’)."
+    }
+  ]
+}

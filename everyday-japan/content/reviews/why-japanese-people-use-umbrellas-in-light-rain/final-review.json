@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the body",
+      "problem": "Already caveated comparison to wrapping.",
+      "suggestion": "Do not expand."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 89,
+    "originality": 88
+  },
+  "final_summary": "PASS without a revision round on the current text. The crossing forest is a peak-hour sample, not a census. Cheap vinyl, humid walk–train–walk, and drips on others explain the low threshold without making umbrellas compulsory.",
+  "slug": "why-japanese-people-use-umbrellas-in-light-rain",
+  "title": "Why Japanese People Use Umbrellas in Light Rain",
+  "scored_at": "2026-08-15T23:10:00+09:00"
+}

@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "overall_score": 87,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "Empty Streets / Learn to Stop — cameras",
+      "problem": "Pole/station cameras can be over-read as pedestrian red-light enforcement.",
+      "suggestion": "Optional hedge in a later polish pass; not a revision trigger alone."
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "School cleaning drills",
+      "problem": "Off-intent sibling wink.",
+      "suggestion": "Optional cut."
+    },
+    {
+      "severity": "minor",
+      "location": "Interpretation label / exception repetition",
+      "problem": "Voice and restatement polish.",
+      "suggestion": "Optional."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 86,
+    "fact_source": 82,
+    "seo": 91,
+    "english": 87,
+    "originality": 86
+  },
+  "final_summary": "PASS without revision. Law vs manners is correctly split; empty-street waiting is hedged with night, rural, and cyclist exceptions. Top leftover issue is cameras implied as pedestrian enforcement. Ready to publish after optional hedge.",
+  "slug": "why-japanese-people-wait-at-red-pedestrian-lights",
+  "title": "Why Japanese People Wait at Red Pedestrian Lights",
+  "scored_at": "2026-08-15T22:00:00+09:00"
+}

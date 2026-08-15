@@ -1,0 +1,18 @@
+{
+  "reviewer": "english-naturalness",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Warehouse with a registered-medicines corner is the right sentence",
+    "Closing 'format doing its job' avoids Japan-is-amazing",
+    "Little stock AI ('At first glance', 'unique aspect')"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Donki-type",
+      "problem": "Jargon-y for first-time readers.",
+      "suggestion": "Gloss only if the line is already open."
+    }
+  ]
+}

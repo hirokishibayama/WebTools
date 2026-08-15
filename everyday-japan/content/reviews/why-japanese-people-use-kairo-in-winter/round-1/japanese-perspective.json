@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Room-by-room heat, kotatsu vs hallway, heated seat vs cold tile, open shop door on ankles—locals would say yes.",
+    "Peeling a pack off in an overheated office is a real complaint.",
+    "Variation (run hot, hate adhesive, mild prefectures) is adult, not a national personality."
+  ],
+  "issues": [
+    {
+      "severity": "critical",
+      "location": "How Winter Feels — “sokubi (足先) — fingertips and toes”",
+      "problem": "Wrong word and wrong gloss. 足先 is ashisaki (tips of the feet), not sokubi. Fingertips are 手先 (tesaki). Locals say 手先・足先が冷たい.",
+      "suggestion": "Replace with tesaki and ashisaki (手先・足先), fingertips and toes."
+    }
+  ]
+}

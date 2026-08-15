@@ -1,0 +1,37 @@
+{
+  "reviewer": "fact-source",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Manners/operator request vs statute is the correct split (watch item).",
+    "Priority-seat policy change over time is not frozen as 2010 blog advice.",
+    "Shinkansen deck / phone corner treated as a wrinkle, not a universal car type.",
+    "No fake bylaw numbers."
+  ],
+  "verified": [
+    "Voice calls on trains are generally not a criminal prohibition.",
+    "Many operators announce silent mode and refrain from talking on phones.",
+    "Silent phone use (text, maps, games) is ordinary."
+  ],
+  "questionable": [
+    "‘Drivers and conductors make their own calls for operations’: operations use radios/PA; ‘calls’ can be misread as passenger-style phone chat from staff."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Do not cite a specific operator’s current priority-seat electromagnetic rule as nationwide without the sticker."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Texting Is Fine — drivers and conductors",
+      "problem": "Operational radio/PA is not the same as a phone call; the uniform-vs-passenger distinction still stands.",
+      "suggestion": "‘Staff announcements and radios are work noise; a passenger meeting is not.’"
+    },
+    {
+      "severity": "minor",
+      "location": "Announcements — ‘You are unlikely to be arrested’",
+      "problem": "True in the trivial sense; frames manners as if criminal law were the alternative.",
+      "suggestion": "Unlikely to be ticketed or removed for a short call; you have still broken the local deal."
+    }
+  ]
+}

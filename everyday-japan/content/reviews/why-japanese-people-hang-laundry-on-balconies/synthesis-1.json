@@ -1,0 +1,50 @@
+{
+  "round": 1,
+  "slug": "why-japanese-people-hang-laundry-on-balconies",
+  "title": "Why Japanese People Hang Laundry on Balconies",
+  "overall_score": 88,
+  "skill_scores": {
+    "reader": 87,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 91,
+    "fact_source": 84,
+    "seo": 90,
+    "english": 86,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "location": "Intro through FAQ/close — dryer/folklore thesis",
+      "problem": "The correct anti-myth (dryers exist; this is not nature-worship) is restated so often that mid-article logistics get less attention.",
+      "suggestion": "Keep the hedge in the short answer, FAQ, and close; let the middle be washer placement, drips, futons, rules.",
+      "sources": ["reader-experience"]
+    },
+    {
+      "severity": "minor",
+      "location": "Households section — “School and home still teach…”",
+      "problem": "Sounds like curriculum; locals learned it from humidity and mold.",
+      "suggestion": "Drop “school still teach”; keep weather and closet smell.",
+      "sources": ["japanese-perspective", "fact-source"]
+    },
+    {
+      "severity": "minor",
+      "location": "“engawa-adjacent” / “postcard” motif",
+      "problem": "Unglossed term; postcard tic.",
+      "suggestion": "Gloss or drop engawa; keep two postcard uses.",
+      "sources": ["reader-experience", "english-naturalness"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 1,
+  "minor_count": 2,
+  "needs_revision": false,
+  "revision_reason": "critical = 0 and major = 1 (threshold is critical > 0 OR major ≥ 2). Dryers-exist watch is already met in the draft.",
+  "priority_notes": [
+    "[major/reader] Optional trim of repeated anti-myth (not patched this round)",
+    "[minor/jp+fact] School-teaching laundry preference",
+    "Watch: laundry dryers exist — already explicit in intro, body, FAQ, close"
+  ],
+  "existing_articles_count": 45,
+  "scored_at": "2026-08-15T22:57:00+09:00"
+}

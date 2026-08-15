@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "A noren is a split shop curtain used at many restaurants and some bathhouses.",
+      "status": "supported",
+      "note": "Standard Japanese commercial/sento practice."
+    },
+    {
+      "claim": "Hanging/taking in the noren often signals open/closed for small shops.",
+      "status": "supported-hedged",
+      "note": "Custom, not statute; lights and hours still matter."
+    },
+    {
+      "claim": "Every Japanese restaurant uses a noren.",
+      "status": "false-stereotype",
+      "note": "Malls, chains, cafes often do not."
+    },
+    {
+      "claim": "Noren are uniquely Japanese and never existed elsewhere.",
+      "status": "unsupported",
+      "note": "Article notes door curtains in other cultures; local form is distinctive."
+    },
+    {
+      "claim": "Noren-wake is a business metaphor for sharing a shop name/lineage.",
+      "status": "supported",
+      "note": "Standard Japanese business vocabulary; not a visitor ritual."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "No unsourced exact market sizes"
+  ]
+}

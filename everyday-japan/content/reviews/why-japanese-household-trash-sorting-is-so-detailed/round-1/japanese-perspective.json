@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Complaints that rules are too fine undercut ‘Japanese people love sorting’",
+    "Crows, nets, gomi no hi as choreography locals take for granted",
+    "Wrong bags and Airbnb notes as labor, not instinct"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Actually Take the Trash Out — school cleaning",
+      "problem": "Visibility of the pile is local; the school-cleaning cousin is a stretch even as analogy.",
+      "suggestion": "Keep ‘the block has to live with it for an hour’; drop or shorten the school link if touching the file."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "round": 2,
+  "slug": "why-japanese-people-bow-while-on-the-phone",
+  "title": "Why Japanese People Bow While on the Phone",
+  "overall_score": 88,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 90,
+    "english": 88,
+    "originality": 87
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Training video typically inclining",
+      "problem": "Still anecdotal typicality.",
+      "suggestion": "Optional hedge.",
+      "sources": ["fact-source", "reader-experience"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 1,
+  "needs_revision": false,
+  "revision_reason": "Round-1 majors resolved; remaining notes are minor.",
+  "priority_notes": [
+    "Watch: phone-bowing is habit/training, not mysticism — body now stays on keigo, scripts, shop floor"
+  ],
+  "scored_at": "2026-08-15T23:20:00+09:00"
+}

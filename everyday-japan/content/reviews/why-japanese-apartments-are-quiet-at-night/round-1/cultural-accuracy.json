@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Explicitly not a nationwide curfew or police silence on laughter",
+    "Apaato vs mansion, detached/rural/new towers caveated",
+    "Children as unresolved social exception, not a sacred loophole"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "How Japanese People Live — Sunday morning vs Friday party",
+      "problem": "Management notes can come faster for daytime moving noise than a Friday party, but it is building-dependent, not a rule.",
+      "suggestion": "Already hedged with ‘depending on the building’; leave."
+    }
+  ]
+}

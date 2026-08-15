@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Not every restaurant; not unique magic; door curtains exist elsewhere.",
+    "Open/closed is custom, not statute; lights and staff still count.",
+    "Tourist-street fake-old indigo vs inner glass door is an accurate caution."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Short answer “kitchen smell control”",
+      "problem": "Slightly overstates a job the later section correctly calls a stretch.",
+      "suggestion": "Drop smell from the bundle of practical jobs in the lede."
+    }
+  ]
+}

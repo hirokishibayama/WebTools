@@ -1,0 +1,33 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Household sorting rules vary by municipality (city/ward/town).",
+      "status": "supported",
+      "note": "Collection categories and days are set locally; Tokyo 23 wards are not one rule."
+    },
+    {
+      "claim": "This is the same phenomenon as scarce public street trash cans.",
+      "status": "false-stereotype",
+      "note": "Article distinguishes household collection from public bins / carry-home."
+    },
+    {
+      "claim": "Crows tear bags for food waste; nets and cages are common countermeasures.",
+      "status": "supported",
+      "note": "Widely observed urban practice; not universal on every block."
+    },
+    {
+      "claim": "Japanese people all sort perfectly by cultural instinct.",
+      "status": "unsupported",
+      "note": "Article notes mistakes, stickers, Airbnb friction, and multilingual city guides."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Do not treat one city's calendar as national law",
+    "Plastic vs burnable categories have shifted over time"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Avoid citing a single ward's list as Japan-wide"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "IC fare cards, QR apps such as PayPay, and credit expanded in urban retail from the 2000s–2020s.",
+      "status": "supported",
+      "note": "Suica 2001; PayPay 2018; chain acceptance widely reported. Do not freeze a cashless %."
+    },
+    {
+      "claim": "Cash-only and cash-preferring independent shops remain easy to find.",
+      "status": "supported",
+      "note": "Lived retail pattern; varies by shop."
+    },
+    {
+      "claim": "Otoshidama is commonly given as cash in envelopes at New Year.",
+      "status": "supported",
+      "note": "Ordinary domestic practice; some families also use digital gifts."
+    },
+    {
+      "claim": "Some clinics and small counters still prefer cash.",
+      "status": "supported-with-care",
+      "note": "Uneven; large hospitals often take cards. Ask, do not universalize."
+    },
+    {
+      "claim": "Japan is cash-only.",
+      "status": "false-stereotype",
+      "note": "Article rejects this."
+    },
+    {
+      "claim": "A single official cashless percentage characterizes Japan.",
+      "status": "unsupported-as-precise",
+      "note": "Reporting uses mixed definitions; article hedges."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation",
+    "Hedge statistics; do not invent cashless percentages"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "status: review"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "round": 2,
+  "slug": "why-japanese-people-say-itadakimasu",
+  "title": "Why Japanese People Say Itadakimasu",
+  "overall_score": 89,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "shokuiku “lives that became the meal”",
+      "problem": "Must stay paired with “food education / not required doctrine.”",
+      "suggestion": "Do not drop the hedge in a later edit.",
+      "sources": ["japanese-perspective", "fact-source"]
+    }
+  ],
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 1,
+  "needs_revision": false,
+  "revision_reason": "Round-1 majors resolved; no second rewrite.",
+  "priority_notes": [
+    "Watch: itadakimasu not mystified — table words plus hedged school food education"
+  ],
+  "scored_at": "2026-08-15T23:20:00+09:00"
+}

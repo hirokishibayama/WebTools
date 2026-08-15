@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 88,
+  "status": "pass",
+  "strengths": [
+    "Independents and rural thinner food aisles prevent Matsukiyo-as-Japan",
+    "Pharmacist/registered seller vs snack floor is legally accurate, not a wellness temple",
+    "Tourism amplified beauty; it did not invent snack aisles"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Aging and self-care shelves",
+      "problem": "Elderly one-stop trip is real; keep it practical, not a longevity slogan (already resisted).",
+      "suggestion": "Do not expand."
+    }
+  ]
+}

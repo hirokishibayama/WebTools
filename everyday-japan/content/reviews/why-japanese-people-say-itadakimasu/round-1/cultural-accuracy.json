@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 77,
+  "status": "revise",
+  "strengths": [
+    "Rejects “everyone says it every time” and “visitors must perform it.”",
+    "Christian / Buddhist / neither households are acknowledged.",
+    "Hands-together vs word-only is correctly split by age."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Body and close: cosmic hymn, church service, sacred pause, mandatory spell, password",
+      "problem": "Fighting mysticism with mystic vocabulary keeps itadakimasu in a spiritual frame. User/editorial rule: do not mystify the phrase.",
+      "suggestion": "Use manners, timing, thanks. Keep one sneeze-bless-you analogy. Cut spell/password/sacred."
+    },
+    {
+      "severity": "minor",
+      "location": "Hosted meals + gift-giving cross-link",
+      "problem": "Warns against a grand gratitude theory, then almost builds one by stacking gifts + itadakimasu.",
+      "suggestion": "Keep “narrower: start-phrase and end-phrase.” Do not expand the gift theory."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "一方通行 (ippo tsuko) is one-way traffic control, not a cultural greeting.",
+      "status": "supported",
+      "note": "Standard Road Traffic Act / signage practice."
+    },
+    {
+      "claim": "All Japanese streets are one-way.",
+      "status": "false-stereotype",
+      "note": "Article rejects; arterials, new towns, and rural roads often two-way."
+    },
+    {
+      "claim": "One-way streets are the same topic as missing sidewalks.",
+      "status": "unsupported",
+      "note": "Related narrow-street setting; this article is permitted vehicle direction."
+    },
+    {
+      "claim": "Signs are cheaper and faster than widening lots.",
+      "status": "supported-with-care",
+      "note": "Planning common sense; not a quantified cost study in this article."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Bicycle exceptions and time-limited one-ways exist",
+    "Navigation-app cut-through is a changing problem"
+  ],
+  "notes": [
+    "Human review required before publish"
+  ]
+}

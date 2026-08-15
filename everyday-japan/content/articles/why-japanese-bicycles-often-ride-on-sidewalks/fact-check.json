@@ -1,0 +1,38 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Bicycles are light vehicles (軽車両); default is the roadway.",
+      "status": "supported",
+      "note": "Road Traffic Act classification and general roadway rule."
+    },
+    {
+      "claim": "Sidewalk riding allowed with signs, under 13, 70+, disability, or unavoidable safety conditions.",
+      "status": "supported",
+      "note": "Standard 歩道通行例外 cluster taught by police/local explainers; wording summarized not quoted as a full statute dump."
+    },
+    {
+      "claim": "On sidewalks, riders should go slowly and yield to pedestrians.",
+      "status": "supported",
+      "note": "Common legal/manners teaching for sidewalk bicycle use."
+    },
+    {
+      "claim": "Healthy adults may always ride any sidewalk.",
+      "status": "false-stereotype",
+      "note": "Default is road; unmarked sidewalk use can be a violation if exceptions do not apply."
+    },
+    {
+      "claim": "Helmet rules are fully complied with.",
+      "status": "unsupported",
+      "note": "Article notes campaigns vs uncovered heads; 努力義務-type expectation hedged as 'stronger expectations' without a fake fine figure."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "Do not invent exact yen, fine, or survey percentages"
+  ]
+}

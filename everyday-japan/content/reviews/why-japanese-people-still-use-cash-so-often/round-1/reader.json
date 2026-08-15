@@ -1,0 +1,18 @@
+{
+  "reviewer": "reader-experience",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Opening scene (card lunch vs cash-only noodles) makes the mixed map concrete",
+    "Visitor tips avoid panic-withdrawing and moralizing payment methods",
+    "FAQ answers the actual searcher question: is Japan cash-only?"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Cash-Only Is the Wrong Map vs closing",
+      "problem": "The not-cash-only thesis is restated often; useful, but mid-article readers already have it.",
+      "suggestion": "Keep the hedge; do not add a fourth slogan paragraph."
+    }
+  ]
+}

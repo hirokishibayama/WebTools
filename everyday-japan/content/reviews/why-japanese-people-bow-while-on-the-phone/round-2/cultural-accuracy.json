@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Variation (shops more, friends less, video calls mixed) is intact.",
+    "Mystic frame is now mostly a FAQ search query, not the article’s plot.",
+    "No all-Japan claim."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Front-matter description “not mysticism” / FAQ sacred-phones",
+      "problem": "SEO still names the myth; acceptable as a query people actually type.",
+      "suggestion": "Keep FAQ; do not spread the word back into body sections."
+    }
+  ]
+}

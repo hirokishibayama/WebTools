@@ -1,0 +1,60 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=0. Distrust/purity reading is already rejected. Leftovers: counting-aloud overgeneralization and optional two-hands etiquette.",
+  "critical_count": 0,
+  "major_count": 0,
+  "minor_count": 6,
+  "overall_score": 89,
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 92,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 89,
+    "originality": 88
+  },
+  "priority_notes": [
+    "Watch item satisfied: tray is clerical counting, not distrust of the customer.",
+    "Tipping-on-the-tray is correctly a mistake reading.",
+    "Do not invent cash-share statistics. Revision not required."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "id": "tray-count-aloud",
+      "location": "A Counting Surface — count change aloud",
+      "problem": "Spoken count is one style; visible amount is the more reliable description.",
+      "suggestion": "Lead with visibility; hedge narration.",
+      "sources": [
+        "fact-source",
+        "reader-experience"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "tray-two-hands",
+      "location": "Visitor Tips — two-handed presentation",
+      "problem": "Could grow into a second ritual.",
+      "suggestion": "Keep it optional; anxious bow already discouraged.",
+      "sources": [
+        "cultural-accuracy"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "tray-clerks-will-tell-you",
+      "location": "Register workers will tell you",
+      "problem": "Mild collective-voice shortcut.",
+      "suggestion": "Describe the drop cost without ‘will tell you.’",
+      "sources": [
+        "japanese-perspective"
+      ]
+    }
+  ],
+  "scored_at": "2026-08-15T22:00:00+09:00",
+  "slug": "why-japanese-people-put-cash-on-a-tray-at-the-register",
+  "title": "Why Japanese People Put Cash on a Tray at the Register",
+  "existing_articles_count": 46
+}

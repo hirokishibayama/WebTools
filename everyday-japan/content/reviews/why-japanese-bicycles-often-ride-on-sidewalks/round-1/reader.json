@@ -1,0 +1,25 @@
+{
+  "reviewer": "reader-experience",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Station-front bell scene is the visitor’s actual shock.",
+    "Short answer inverts the myth: default is the road; sidewalk is conditional.",
+    "Sign name, age exceptions, yield-to-pedestrians, and walk-the-bike tips are immediately usable.",
+    "Aha: the third lane was never built, so people steal from whichever side feels safer today."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "What the Law Says — helmets paragraph",
+      "problem": "Helmet campaigns vs uncovered heads is true but a second legal story; some readers will lose the sidewalk-exception thread.",
+      "suggestion": "One sentence max, or move to FAQ. Keep sidewalk signs/age/unavoidable as the spine."
+    },
+    {
+      "severity": "minor",
+      "location": "Street Design — eating-while-walking link",
+      "problem": "Weaving + umbrellas + maps is enough; the eat-while-walking sibling is a speed bump.",
+      "suggestion": "Drop the parenthetical or keep only umbrellas and tourists with maps."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Not a national maze; arterials, new towns, rural two-way caveated",
+    "One-way as paint-and-sign vs widening, not unique spatial philosophy",
+    "Bicycle exception as plates under the sign, not ‘cyclists may’"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Pedestrian edge vs clearer edge",
+      "problem": "FAQ says usual right-hand edge; body allows whichever side has room on a very narrow one-way. Both can be true; slightly wobbly.",
+      "suggestion": "Keep law as default, practice as squeeze—already almost that."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Meat-tray instruction removed",
+    "Designated bags/fees scoped to some cities",
+    "Rejected-bag logistics unchanged and sound"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Incineration backbone",
+      "problem": "‘Large share’ still unsourced.",
+      "suggestion": "Keep hedge."
+    }
+  ],
+  "verified": [
+    "Municipal variation",
+    "Two systems vs street bins",
+    "Some cities use designated bags"
+  ],
+  "questionable": [],
+  "unsupported": [],
+  "needs_source": [
+    "Incineration share"
+  ]
+}

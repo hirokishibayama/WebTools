@@ -1,0 +1,19 @@
+{
+  "reviewer": "reader-experience",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Opens on typing instead of ‘I’m on the train,’ which is the actual contrast visitors miss (screens everywhere, voice scarce).",
+    "Short answer: manners infrastructure, not a criminal ban.",
+    "Practical: silent, no speakerphone, earphones leak test, platform callback, priority-seat extra care.",
+    "Aha: a call conscripts the car; a text does not."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Sleep, Noise — women-only cars paragraph",
+      "problem": "Useful myth-bust, slightly off the phone question mid-article.",
+      "suggestion": "One FAQ line is enough if the sticker point is already made."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "reviewer": "editorial-originality",
+  "score": 87,
+  "status": "pass",
+  "strengths": [
+    "Treats noren as shop furniture and a readable open sign, not a sacred threshold essay.",
+    "Noren-wake in one paragraph without becoming a business-history article.",
+    "Photographer blocking the doorway is a lived visitor fail."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Related links to shoes-off and home bathrooms",
+      "problem": "Sento shoes-off is real but pulls toward other explainers.",
+      "suggestion": "Keep sento as a shop-sign cousin; one shoes-off link is enough."
+    }
+  ]
+}

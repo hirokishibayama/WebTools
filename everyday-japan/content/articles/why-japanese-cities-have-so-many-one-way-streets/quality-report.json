@@ -1,0 +1,60 @@
+{
+  "slug": "why-japanese-cities-have-so-many-one-way-streets",
+  "title": "Why Japanese Cities Have So Many One-Way Streets",
+  "introduction": {
+    "slug": "why-japanese-cities-have-so-many-one-way-streets",
+    "rewritten": false,
+    "introduction_score": 85,
+    "introduction_path": "assets/why-japanese-cities-have-so-many-one-way-streets/introduction.json"
+  },
+  "japanese_perspective": {
+    "slug": "why-japanese-cities-have-so-many-one-way-streets",
+    "patched": false,
+    "japanese_perspective_score": 84,
+    "perspective_path": "assets/why-japanese-cities-have-so-many-one-way-streets/japanese-perspective.json"
+  },
+  "editorial_score": {
+    "cultural_accuracy": 84,
+    "japanese_perspective": 84,
+    "reader_engagement": 83,
+    "seo_quality": 87,
+    "overall": 84,
+    "notes": {
+      "cultural_accuracy": [
+        "Separated from no-sidewalks article",
+        "Not-all-Japan hedge present"
+      ],
+      "japanese_perspective": [
+        "Delivery, school routes, taxi loops without invented memoir"
+      ],
+      "reader_engagement": [
+        "Opening has a hook",
+        "Visitor tips + FAQ"
+      ],
+      "seo_quality": [
+        "Title matches intent",
+        "Internal links present"
+      ]
+    },
+    "verdict": "pass",
+    "scored_at": "2026-08-15T13:00:00.000Z",
+    "prompt_version": "1.0.0",
+    "human_review": "pending",
+    "publish": false
+  },
+  "scored_at": "2026-08-15T13:00:00.000Z",
+  "pipeline": [
+    "topic",
+    "research",
+    "outline",
+    "writing",
+    "introduction",
+    "japanese-perspective",
+    "image-prompt",
+    "seo",
+    "internal-link",
+    "fact-check",
+    "editorial-quality",
+    "human-review"
+  ]
+}

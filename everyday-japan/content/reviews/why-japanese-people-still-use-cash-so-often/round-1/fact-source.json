@@ -1,0 +1,33 @@
+{
+  "reviewer": "fact-source",
+  "score": 78,
+  "status": "revise",
+  "strengths": [
+    "Cashless-ratio percentages are explicitly hedged (denominators, IC, QR, years)",
+    "Fact vs interpretation block separates expansion of IC/QR/credit from 'behind/advanced' slogans",
+    "No invented nationwide cashless percentage"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Medical and municipal leftovers — privacy rules",
+      "problem": "Card terminals at clinics lag mostly for billing systems, fees, and rollout—not a privacy-rule package traveling with terminals.",
+      "suggestion": "Drop privacy rules as a co-cause; keep billing software and uneven terminal rollout."
+    }
+  ],
+  "verified": [
+    "Urban chains, hotels, and transport commonly take cards, IC, and QR",
+    "Cash-only and cash-preferring independents remain easy to find",
+    "Otoshidama is still typically a physical envelope",
+    "PayPay and similar QR apps are widely used but not universal, especially for visitors"
+  ],
+  "questionable": [
+    "Clinic cash preference as still typical vs already-card in many urban clinics"
+  ],
+  "unsupported": [
+    "Privacy rules as a reason medical billing and card terminals did not arrive together"
+  ],
+  "needs_source": [
+    "Any specific cashless-ratio figure (correctly omitted)"
+  ]
+}

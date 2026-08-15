@@ -1,0 +1,19 @@
+{
+  "reviewer": "reader-experience",
+  "score": 89,
+  "status": "pass",
+  "strengths": [
+    "Station restroom with no paper towel is the right hook.",
+    "Short answer: infrastructure + school kit + humidity; not universal; not a tenugui.",
+    "Visitor move: pack a cloth day one, tissues for nose, do not borrow used cloth, konbini replacement.",
+    "Aha: high-tech stall, analog sink."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Scenarios vs body",
+      "problem": "No-paper restroom, school bag, summer neck, tenugui vs hankachi recur.",
+      "suggestion": "Scenarios can keep airport-vs-park and cold-bottle; skip restating the packing list."
+    }
+  ]
+}

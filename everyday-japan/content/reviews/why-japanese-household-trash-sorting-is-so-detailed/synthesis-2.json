@@ -1,0 +1,29 @@
+{
+  "round": 2,
+  "revision_required": false,
+  "reason": "critical=0, major=0 after municipal hedges on trays and bag fees.",
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 88,
+    "cultural_accuracy": 88,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 90
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "School-cleaning analogy / incineration share",
+      "problem": "Optional sister-article echo; unsourced large-share burn.",
+      "suggestion": "Leave hedges; do not add numbers.",
+      "sources": [
+        "japanese-perspective",
+        "fact-source"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "Keep municipal variation as the spine."
+  ]
+}

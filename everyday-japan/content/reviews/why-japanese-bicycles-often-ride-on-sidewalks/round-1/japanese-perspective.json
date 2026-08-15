@@ -1,0 +1,19 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 91,
+  "status": "pass",
+  "strengths": [
+    "Parent with child seat vs commuter vs pedestrian flinch is how locals actually argue, not ‘we love sharing.’",
+    "Bell as ‘I’m here’ vs heard as a command is a precise local mismatch.",
+    "shotengai walk-your-bike, mamachari, station removal campaigns, food-delivery gutter: everyday, not tourism copy.",
+    "No invented Japanese first-person anecdote."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Scenarios — ‘A grandparent on a mamachari’",
+      "problem": "Age exception is 70+, not all grandparents; the image slightly over-maps family role onto the statute.",
+      "suggestion": "Keep mamachari; say older rider / listed age category, not ‘grandparent = allowed.’"
+    }
+  ]
+}

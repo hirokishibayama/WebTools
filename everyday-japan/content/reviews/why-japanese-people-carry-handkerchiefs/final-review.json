@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Intro train-pole barrier",
+      "problem": "Slightly exotic germ lead-in.",
+      "suggestion": "Optional demote to later ‘sometimes.’"
+    },
+    {
+      "severity": "minor",
+      "location": "Sibling BYO chain / COVID dryers",
+      "problem": "Polish only; hedges already present.",
+      "suggestion": "Optional."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 88,
+    "originality": 87
+  },
+  "final_summary": "PASS without revision. Not universal; hankachi ≠ tenugui; used cloth is personal. Top leftover issue is the train-pole germ image in the intro. Publishable.",
+  "slug": "why-japanese-people-carry-handkerchiefs",
+  "title": "Why Japanese People Carry Handkerchiefs",
+  "scored_at": "2026-08-15T22:00:00+09:00"
+}

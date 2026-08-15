@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "overall_score": 89,
+  "critical_issues": [],
+  "major_issues": [],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Helmets paragraph",
+      "problem": "Off-spine legal aside.",
+      "suggestion": "Optional shorten."
+    },
+    {
+      "severity": "minor",
+      "location": "Grandparent / keep-side / eat-walking link",
+      "problem": "Small over-maps and series glue.",
+      "suggestion": "Optional polish."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 89,
+    "japanese_perspective": 91,
+    "cultural_accuracy": 90,
+    "fact_source": 88,
+    "seo": 92,
+    "english": 88,
+    "originality": 88
+  },
+  "final_summary": "PASS without revision. Road is the legal default; sidewalk use is framed as signs, age/disability, and unavoidable safety—not a bike lane. Top leftover issue is the helmet aside. Publishable.",
+  "slug": "why-japanese-bicycles-often-ride-on-sidewalks",
+  "title": "Why Japanese Bicycles Often Ride on Sidewalks",
+  "scored_at": "2026-08-15T22:00:00+09:00"
+}

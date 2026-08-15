@@ -1,0 +1,73 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0 and major=1 (<2). Camera-enforcement overread is the top merged issue; remaining items are polish and sibling-link tightness.",
+  "critical_count": 0,
+  "major_count": 1,
+  "minor_count": 8,
+  "overall_score": 87,
+  "skill_scores": {
+    "reader": 88,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 86,
+    "fact_source": 82,
+    "seo": 91,
+    "english": 87,
+    "originality": 86
+  },
+  "priority_notes": [
+    "No critical factual error: signal ignoring is correctly a Road Traffic Act issue, not train-style manners.",
+    "One major: pole/station cameras can be misread as pedestrian ticketing; being seen by people is the stronger mechanism.",
+    "Japanese perspective and cultural hedges (night, rural, cyclists, drunk groups) already block the obedience myth.",
+    "SEO alone must not drive rewrite. Revision not required (major < 2)."
+  ],
+  "aggregated_issues": [
+    {
+      "severity": "major",
+      "id": "red-camera-enforcement",
+      "location": "Empty Streets / Learn to Stop — cameras",
+      "problem": "A camera on the pole can be read as how pedestrians are fined. Everyday waiting is more about school audience, other walkers, and occasional officers.",
+      "suggestion": "Hedge cameras; do not invent enforcement stats or imply automated pedestrian tickets.",
+      "sources": [
+        "cultural-accuracy",
+        "fact-source"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "red-cleaning-cousin",
+      "location": "Empty Streets — school cleaning drills",
+      "problem": "Classroom cleaning is series stitching, not how locals explain lights.",
+      "suggestion": "Cut; keep morning school-zone flags and parent audience.",
+      "sources": [
+        "reader-experience",
+        "editorial-originality"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "red-worksheet-voice",
+      "location": "‘Interpretation, not statute’",
+      "problem": "Memo phrasing / slightly cryptic.",
+      "suggestion": "Plain sentence about being watched vs the statute.",
+      "sources": [
+        "english-naturalness",
+        "reader-experience"
+      ]
+    },
+    {
+      "severity": "minor",
+      "id": "red-repetition",
+      "location": "Body, scenarios, FAQ",
+      "problem": "Night/rural/cyclist exceptions recur.",
+      "suggestion": "One authoritative exceptions pass; FAQ stays short.",
+      "sources": [
+        "reader-experience"
+      ]
+    }
+  ],
+  "scored_at": "2026-08-15T22:00:00+09:00",
+  "slug": "why-japanese-people-wait-at-red-pedestrian-lights",
+  "title": "Why Japanese People Wait at Red Pedestrian Lights",
+  "existing_articles_count": 46
+}

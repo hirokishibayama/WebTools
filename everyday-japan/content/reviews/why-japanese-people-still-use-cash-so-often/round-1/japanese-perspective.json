@@ -1,0 +1,18 @@
+{
+  "reviewer": "japanese-perspective",
+  "score": 84,
+  "status": "pass",
+  "strengths": [
+    "Situational payment (shop type, not ideology) matches how locals actually talk",
+    "Otoshidama, condolence envelopes, and clinic leftovers feel locally true",
+    "Generational cartoons are explicitly rejected in favor of shop-type split"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "How Japanese People Carry Both — part-time job sentence",
+      "problem": "Implies wages may still arrive as cash. Most arubaito is bank transfer; cash is what you withdraw afterward.",
+      "suggestion": "Say pay hits an account; notes are withdrawn for shops that still want them."
+    }
+  ]
+}

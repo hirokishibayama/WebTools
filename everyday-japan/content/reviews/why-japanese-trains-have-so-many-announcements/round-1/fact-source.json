@@ -1,0 +1,31 @@
+{
+  "reviewer": "fact-source",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "FAQ correctly says volume is company practice, not a single statute of loudness",
+    "Platform doors reduced some risks without deleting gap/door warnings",
+    "Through-running changing voice/melody is real Tokyo-area behavior"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Limited-express quieter tip",
+      "problem": "特急 still announce stops; some are more bilingual than local trains.",
+      "suggestion": "Hedge: less manner-loop, not silence."
+    }
+  ],
+  "verified": [
+    "Urban operators layer recorded calls, chimes, and increasing multilingual info",
+    "Rural and some local services are thinner; live staff speech exists",
+    "Station-unique door melodies exist on some JR East and other networks",
+    "Women-only car hour/car announcements exist on some urban lines"
+  ],
+  "questionable": [
+    "Limited-express cars as a reliable quiet alternative"
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "Any claim that announcement volume is required by a specific law (correctly avoided)"
+  ]
+}

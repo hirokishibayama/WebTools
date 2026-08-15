@@ -1,0 +1,37 @@
+{
+  "reviewer": "fact-source",
+  "score": 82,
+  "status": "pass",
+  "strengths": [
+    "Pedestrian signal obedience as Road Traffic Act, not ‘just manners,’ is the right legal frame.",
+    "No invented yen fines or survey percentages.",
+    "Enforcement hedged as possible fines vs anecdote of warnings.",
+    "Jaywalking FAQ refuses to collapse unsignaled crossing into one English penalty."
+  ],
+  "verified": [
+    "Road Traffic Act requires pedestrians to obey traffic signals.",
+    "Elementary traffic-safety lessons and 横断歩道 practice are ordinary, not a unique national curriculum quote.",
+    "Flashing pedestrian green is taught as a warning that red is coming."
+  ],
+  "questionable": [
+    "Pole/station cameras as a reason people wait: being observed is real; camera ticketing of pedestrians is over-read if stated as a common device."
+  ],
+  "unsupported": [],
+  "needs_source": [
+    "If any future draft names a fine amount or campaign year, it needs a cited ordinance/notice—do not invent one now."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Empty Streets / Learn to Stop — cameras",
+      "problem": "Camera-on-the-pole as a waiting cause mixes security CCTV with implied automated enforcement.",
+      "suggestion": "Hedge: some people mention cameras; everyday pressure is other pedestrians, school zones, and occasional officers. No fake enforcement stats."
+    },
+    {
+      "severity": "minor",
+      "location": "What the Law Actually Says — ‘fines can apply’",
+      "problem": "True but unspecified; readers hunting a number may fill one in.",
+      "suggestion": "Keep ‘possible’ and ‘not a promise.’ Do not add a yen figure without a source."
+    }
+  ]
+}

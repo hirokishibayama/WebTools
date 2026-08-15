@@ -1,0 +1,24 @@
+{
+  "reviewer": "reader-experience",
+  "score": 86,
+  "status": "pass",
+  "strengths": [
+    "Shop-floor opening (kashikomarimashita plus a dip) makes the puzzle visible in one beat.",
+    "Clear split: service calls vs friends; visitors are told not to perform a ritual.",
+    "Scenarios (hotel desk, ramen owner, teenager on a bike) are easy to picture."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "location": "Throughout myth-busting vocabulary",
+      "problem": "A reader looking up “why bow on the phone” is told telepathy, sacred phones, national trance, and spiritual technology many times. The myth stays in the mouth even as it is denied.",
+      "suggestion": "Bust the tourist story once in the short answer and once in FAQ. Elsewhere describe habit, scripts, and being watched at work."
+    },
+    {
+      "severity": "minor",
+      "location": "Closing H2 “The Unseen Bow Is the Sentence’s Shadow”",
+      "problem": "Literary title slightly remystifies after a practical article.",
+      "suggestion": "Use a plainer close: the bow is leftover posture from polite speech, not a second ritual."
+    }
+  ]
+}

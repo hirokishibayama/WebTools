@@ -1,0 +1,30 @@
+{
+  "round": 1,
+  "revision_required": false,
+  "reason": "critical=0, major=0. Watch item (not everyone) is already structural.",
+  "skill_scores": {
+    "reader": 90,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 90,
+    "fact_source": 86,
+    "seo": 91,
+    "english": 89,
+    "originality": 88
+  },
+  "aggregated_issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the body / unsourced walk share",
+      "problem": "Wrapping resemblance is extra; commute walk share is hedged but uncited.",
+      "suggestion": "Do not expand packaging; keep dense-city scope.",
+      "sources": [
+        "cultural-accuracy",
+        "fact-source",
+        "editorial-originality"
+      ]
+    }
+  ],
+  "priority_notes": [
+    "Umbrellas are a commute-humidity-cheap-vinyl stack, not everyone, not a mood."
+  ]
+}

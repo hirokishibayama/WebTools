@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "overall_score": 88,
+  "critical_issues": [],
+  "major_issues": [
+    {
+      "severity": "major",
+      "location": "Lede — ‘offers it back’",
+      "problem": "The phrase is mainly a request for favorable treatment; reciprocity is usually こちらこそよろしく, a reply.",
+      "suggestion": "Optional line edit later: request, not automatic two-way offering."
+    }
+  ],
+  "minor_issues": [
+    {
+      "severity": "minor",
+      "location": "Packaging of the self",
+      "problem": "Hedged wrapping comparison.",
+      "suggestion": "Do not grow."
+    }
+  ],
+  "revision_rounds": 0,
+  "skill_scores": {
+    "reader": 91,
+    "japanese_perspective": 90,
+    "cultural_accuracy": 84,
+    "fact_source": 86,
+    "seo": 92,
+    "english": 90,
+    "originality": 91
+  },
+  "final_summary": "PASS with no revision round (major=1). The article already treats yoroshiku as a relational closer, not untranslatable magic, and splits shop please from first-meeting/email use. Remaining major: lede ‘offers it back’ over-symmetrizes a request.",
+  "slug": "why-japanese-people-say-yoroshiku-onegaishimasu",
+  "title": "Why Japanese People Say Yoroshiku Onegaishimasu",
+  "scored_at": "2026-08-15T23:10:00+09:00"
+}

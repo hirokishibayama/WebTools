@@ -1,0 +1,18 @@
+{
+  "reviewer": "seo-search-intent",
+  "score": 90,
+  "status": "pass",
+  "strengths": [
+    "Intent is what kairo are and why they are everyday kit; answered in the short answer.",
+    "FAQ: definition, home heating, Japan-only, burns, Shinkansen, summer, everyone.",
+    "Stick-on vs pocket is findable without stuffing."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "FAQ “Do Japanese homes not have heating?”",
+      "problem": "Good adjacent query; first sentence already corrects it.",
+      "suggestion": "None required."
+    }
+  ]
+}

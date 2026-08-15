@@ -1,0 +1,24 @@
+{
+  "reviewer": "cultural-accuracy",
+  "score": 85,
+  "status": "pass",
+  "strengths": [
+    "Okinawa is not Hokkaido; not everyone uses them; new insulation vs 1970s wood.",
+    "Does not claim Japan invented chemical warmers.",
+    "Refuses “Japan enjoys the cold / lacks technology.”"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "location": "Title “Why Japanese People Use Kairo”",
+      "problem": "Universal headline; body already hedges well (region, job, personal heat).",
+      "suggestion": "Keep every “not everyone” beat; do not add a fake national rate."
+    },
+    {
+      "severity": "minor",
+      "location": "Unheated Gaps — sidewalks cross-link",
+      "problem": "Streets-without-sidewalks is a weak causal cousin of wind exposure.",
+      "suggestion": "Keep wind/bicycle; the sidewalk article is optional."
+    }
+  ]
+}

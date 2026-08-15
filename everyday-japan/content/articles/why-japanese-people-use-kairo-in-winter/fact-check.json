@@ -1,0 +1,43 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Kairo are disposable chemical warmers commonly sold in Japanese winter retail.",
+      "status": "supported",
+      "note": "Konbini/drugstore seasonal merchandising."
+    },
+    {
+      "claim": "Stick-on vs pocket types exist.",
+      "status": "supported",
+      "note": "Haru vs haranai product split."
+    },
+    {
+      "claim": "Many homes heat room-by-room rather than whole-house central air as a universal default.",
+      "status": "supported-hedged",
+      "note": "Older stock and AC/kerosene/kotatsu patterns; new insulation varies."
+    },
+    {
+      "claim": "Everyone in Japan uses kairo daily in winter.",
+      "status": "false-stereotype",
+      "note": "Region, job, and preference vary; mild prefectures use less."
+    },
+    {
+      "claim": "Exact kairo market size in yen.",
+      "status": "hedged-omitted",
+      "note": "No unsourced market figure."
+    },
+    {
+      "claim": "Misuse can cause burns.",
+      "status": "supported",
+      "note": "Package warnings; consumer-product risk."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "No unsourced exact market sizes"
+  ]
+}

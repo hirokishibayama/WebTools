@@ -1,0 +1,43 @@
+{
+  "verdict": "pass-with-notes",
+  "claims_checked": [
+    {
+      "claim": "Dryers and bathroom dryers exist in Japan; balcony hanging is still common.",
+      "status": "supported",
+      "note": "Appliance shops sell combination machines; many apartments have yokushitsu kansoki. Ownership shares vary; article hedges percentages."
+    },
+    {
+      "claim": "Every Japanese building allows balcony laundry.",
+      "status": "false-stereotype",
+      "note": "Some condo bylaws restrict visible laundry or futons on outer rails."
+    },
+    {
+      "claim": "Futons are commonly aired because they hold moisture and fit poorly in many consumer dryers.",
+      "status": "supported",
+      "note": "Lived housing practice; coin laundry used as backup."
+    },
+    {
+      "claim": "Cedar pollen season can push drying indoors for allergy-sensitive households.",
+      "status": "supported",
+      "note": "Common public-health/lifestyle advice; not universal protocol."
+    },
+    {
+      "claim": "Laundry can freeze on poles in cold regions.",
+      "status": "supported",
+      "note": "Ordinary winter observation in snow country / inland cold."
+    },
+    {
+      "claim": "Exact national dryer-ownership or electricity-cost figures.",
+      "status": "hedged-omitted",
+      "note": "No unsourced market size or household percentage claimed."
+    }
+  ],
+  "caveats_about_absolutes": [
+    "Avoid Japanese people always/never",
+    "Note regional, generational, and situational variation"
+  ],
+  "notes": [
+    "Human review required before publish",
+    "No unsourced exact market sizes"
+  ]
+}
