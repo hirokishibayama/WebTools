@@ -13,9 +13,9 @@ tags:
   - bilingual trains
   - platform manners
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph inside a Japanese commuter train: overhead
   speakers and LED next-station display, standing passengers, muted interior
@@ -67,7 +67,7 @@ Japanese people often describe the soundtrack as useful and slightly too much at
 
 Regulars filter. They know their stop by the unique melody some stations use, or by the number of minutes from the last junction. They ignore the English they do not need. They wake at “the next station is…” the way a person wakes at their own name. Priority-seat announcements can feel preachy to a commuter who already moved; they are aimed at the person who did not.
 
-Staff live inside the same loop. Drivers and conductors follow procedures that include calling doors and confirming departure. On some lines the human voice is still part of safety culture: say what you see. Recorded layers were added on top, not instead of, that habit.
+Crews live inside a different loop from the passenger speakers. Drivers and conductors still point, confirm departure, and on some lines make a live call. That is onboard checking, not the recorded soundtrack in the car. Recorded layers were added for riders, not as a replacement for how staff check the train.
 
 Locals also complain. Overnight workers want to sleep. Parents with a crying child already feel watched. A manners announcement about noise, played loudly, can be ironic. None of that usually produces a campaign to strip the speakers. The default assumption is that a crowded, timed system should keep talking, and individuals should learn to fade it.
 
@@ -147,7 +147,7 @@ Last-train announcements have a different emotional weight. The voice is not hel
 
 **Headphones are normal; speakerphone is not.** The announcement about calls is describing a real irritation. Keep sound private.
 
-**If you need quiet, some limited-express cars are calmer.** Ordinary commuter cars will keep talking. That is the format.
+**A reserved-seat limited express is not a quiet car.** It may carry fewer crowding-and-manners reminders, but it still names stops and often adds bilingual repeats. Ordinary commuter cars talk more often because more people board, alight, and transfer. Neither format is silence.
 
 **Different companies, different voices.** Changing lines at one station can change the soundtrack completely. That is [operator patchwork](/why-japanese-trains-have-so-many-different-lines), not a mood swing.
 

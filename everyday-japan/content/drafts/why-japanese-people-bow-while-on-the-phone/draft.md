@@ -13,9 +13,9 @@ tags:
   - Japanese manners
   - ojigi
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese shop back counter: a staff
   member in a simple uniform holds a handset, upper body inclined in a small

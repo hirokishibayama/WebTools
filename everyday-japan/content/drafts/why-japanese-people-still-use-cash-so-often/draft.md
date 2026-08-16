@@ -13,9 +13,9 @@ tags:
   - PayPay
   - IC cards Japan
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph at a small Japanese shop counter: a customer
   placing a few yen notes beside a tray, a card reader and QR stand visible but
@@ -56,7 +56,7 @@ This article is about *why cash stayed useful*. It is not an argument that Japan
 
 For many Japanese people, the wallet is a toolkit, not a statement.
 
-Growing up in Japan, children often receive **otoshidama (お年玉)** — New Year cash in small envelopes—from relatives. The gift is money you can hold. Later, a first part-time job may still be paid in ways that end up as cash in an ATM. School trips teach kids to keep a purse with coins for drinks and a note for lunch. Adults add an IC card for trains, then a QR app because a chain ran a points campaign, then a credit card for online shopping. The stack accumulates.
+Growing up in Japan, children often receive **otoshidama (お年玉)** — New Year cash in small envelopes—from relatives. The gift is money you can hold. A first part-time job is usually paid into a bank account; cash is what you withdraw afterward for the shops that still want notes. School trips teach kids to keep a purse with coins for drinks and a note for lunch. Adults add an IC card for trains, then a QR app because a chain ran a points campaign, then a credit card for online shopping. The stack accumulates.
 
 Japanese people often describe payment as situational, not ideological.
 
@@ -88,7 +88,7 @@ Several ordinary conditions kept notes in circulation even as cashless options m
 
 **Ritual money.** Otoshidama, some temple offerings, some congratulations and condolences, and some school or neighborhood cash collections are still physical. [Careful envelopes and wrapping](/why-japanese-packaging-is-so-careful) matter in those moments. A QR code does not yet feel like the same object.
 
-**Medical and municipal leftovers.** Many large hospitals take cards now. Some small clinics, municipal counters, and older offices still post cash signs. Change is uneven because billing software, privacy rules, and terminal rollout did not move as one project.
+**Medical and municipal leftovers.** Many large hospitals take cards now. Some small clinics, municipal counters, and older offices still post cash signs. Change is uneven because billing software and card terminals did not roll out as one project.
 
 **Interpretation, not romance:** Japan did not “refuse modernity.” Payment infrastructure layered. Campaigns, IC transit, and smartphones added rails. The old rail—notes and coins—kept serving shops and rituals that never rebuilt the counter.
 
@@ -134,7 +134,7 @@ The honest timeline is accumulation: passbook culture, then IC, then QR and cred
 
 **Ask before ordering at tiny restaurants.** A glance at the door or a short “card OK?” saves a cooked meal you cannot pay for. If the answer is cash only, that is ordinary, not a slight.
 
-**Install a QR app only if you will use it.** PayPay and similar apps help at many chains and some taxis. They are not universal, and setup can require a Japanese phone number or a card that the app accepts. Do not treat the download as a completed visa.
+**Install a QR app only if you will use it.** PayPay and similar apps help at many chains and some taxis. They are not universal, and setup can require a Japanese phone number or a card that the app accepts. Downloading one does not mean every counter will take it.
 
 **IC cards cover transit and a lot of retail—not everything.** They are excellent at stations, many konbini, and [vending machines](/why-japanese-vending-machines-are-everywhere). They will not replace cash at every independent counter.
 

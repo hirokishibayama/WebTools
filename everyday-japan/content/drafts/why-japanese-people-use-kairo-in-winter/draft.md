@@ -13,9 +13,9 @@ tags:
   - heat packs Japan
   - commuting
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph at a Japanese convenience-store winter
   display: packets of disposable heat packs on a low shelf, a commuter’s gloved

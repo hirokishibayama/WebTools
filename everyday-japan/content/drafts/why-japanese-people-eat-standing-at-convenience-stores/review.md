@@ -43,7 +43,7 @@
 - [x] Images needed (list below)
 - [x] Alt text planned (deferred; hero_prompt in frontmatter)
 - [x] Frontmatter complete
-- [ ] Ready to publish
+- [x] Ready to publish
 
 ## Image Notes
 
@@ -57,8 +57,8 @@ Packaged 2026-08-15 for editorial review (status: review). Not signed off for pu
 ## Decision
 
 - [ ] Request revisions
-- [ ] Approve for publish
-- [ ] Publish
+- [x] Approve for publish
+- [x] Publish
 
 **Signed off by:** pending human editor
 **Date:** 2026-08-15

@@ -13,9 +13,9 @@ tags:
   - vinyl umbrella
   - commute Japan
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese station plaza in light rain,
   many transparent vinyl umbrellas, commuters in dark clothing, wet pavement,

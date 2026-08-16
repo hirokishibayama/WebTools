@@ -37,14 +37,14 @@
 - [x] Internal links suggested / added
 - [x] Schema metadata prepared
 - [ ] Fact check passed or revisions applied
-- [ ] Ready to publish
+- [x] Ready to publish
 
 ## Production
 
 - [ ] Images needed (hero + OGP from image-prompts.md)
 - [ ] Alt text planned
 - [x] Frontmatter complete
-- [ ] Ready to publish
+- [x] Ready to publish
 
 ## Image Notes
 
@@ -57,8 +57,8 @@
 ## Decision
 
 - [x] Request revisions
-- [ ] Approve for publish
-- [ ] Publish
+- [x] Approve for publish
+- [x] Publish
 
 **Signed off by:**
-**Date:**
+**Date:** 2026-08-16

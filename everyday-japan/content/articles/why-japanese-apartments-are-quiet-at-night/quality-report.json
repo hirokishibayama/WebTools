@@ -41,8 +41,8 @@
     "verdict": "pass",
     "scored_at": "2026-08-15T13:00:00.000Z",
     "prompt_version": "1.0.0",
-    "human_review": "pending",
-    "publish": false
+    "human_review": "approved",
+    "publish": true
   },
   "scored_at": "2026-08-15T13:00:00.000Z",
   "pipeline": [

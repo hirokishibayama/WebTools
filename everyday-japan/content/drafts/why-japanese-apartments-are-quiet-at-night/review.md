@@ -43,7 +43,7 @@
 - [x] Images needed (list below)
 - [ ] Alt text planned
 - [x] Frontmatter complete
-- [ ] Ready to publish
+- [x] Ready to publish
 
 ## Image Notes
 
@@ -56,8 +56,8 @@ Packaged for human review. Status: review. Do not publish until signed off.
 ## Decision
 
 - [x] Request revisions — no, awaiting human
-- [ ] Approve for publish
-- [ ] Publish
+- [x] Approve for publish
+- [x] Publish
 
 **Signed off by:**
-**Date:**
+**Date:** 2026-08-16

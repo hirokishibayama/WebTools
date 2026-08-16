@@ -14,9 +14,9 @@ tags:
   - 一方通行
   - driving in Japan
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a narrow Japanese residential one-way
   street with a blue-and-white 一方通行 sign, a compact car and a delivery bicycle,
@@ -59,7 +59,7 @@ Locals still get caught. A new supermarket changes the flow. A school zone adds 
 
 Delivery culture leans on the maze. Parcel drivers, kombini logistics, and meal scooters treat one-way networks as a known cost. They still block the road when they stop, because there is no extra lane. The one-way rule does not create a loading bay. It only reduces the chance of two trucks meeting at a corner with a mirror.
 
-People walk these streets the same way they walk other shared roads: usually toward the right-hand edge, where cars keep left, listening for engines, not treating a painted line as a wall. On a very narrow one-way the “clearer edge” may be whichever side still has room. The one-way helps you guess where the engine will appear. It does not make the street a pedestrian mall.
+People walk these streets the same way they walk other shared roads: usually on the left, with the flow of cars, listening for engines, not treating a painted line as a wall. On a very narrow one-way the clearer edge may be whichever side still has room. The one-way helps you guess where the engine will appear. It does not make the street a pedestrian mall.
 
 Taxi drivers collect a professional memory of which blocks reverse. Visitors who rent a car for a day collect a professional headache. Parking in a lot and walking is, for many locals, the sane option in the oldest grids. That is not a moral stance against driving. It is an admission that the arrows win.
 
@@ -127,7 +127,7 @@ Delivery drivers are the expert users and the main obstruction. They know the le
 
 **Do not reverse down a one-way to save thirty seconds.** There is no room, and someone will appear.
 
-**On foot, still share the road.** One-way does not mean car-free. Listen. Keep to the edge.
+**On foot, still share the road.** One-way does not mean car-free. Listen. Locals usually keep left with the cars; on a squeeze, use whichever edge is clear.
 
 **Watch for plates under the sign.** Time-limited one-ways and “except two-wheelers” exist. The small text is the actual rule.
 
@@ -157,7 +157,7 @@ Land, cost, and time. Houses sit on the edge. Signs are cheaper than buying fron
 
 ### Can I walk against the traffic?
 
-Pedestrians are not cars. The usual default on a road without a sidewalk is the right-hand edge. You may still meet bikes and backing vehicles. Use the clearer edge and your eyes.
+Pedestrians are not cars. In daily life people usually keep left with the cars. You may still meet bikes and backing vehicles. Use the clearer edge and your eyes.
 
 ### Why do taxis take long routes?
 

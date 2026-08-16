@@ -13,9 +13,9 @@ tags:
   - garbage collection
   - living in Japan
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese residential street at dawn with
   color-coded household garbage bags under a yellow crow-prevention net, muted
@@ -79,7 +79,7 @@ When someone says *sumimasen* after leaving a bag in the wrong place, it is the 
 
 **Resource recovery.** PET bottles, cans, and glass have value as streams. Asking households to rinse and separate reduces sorting labor later—or at least that is the official hope. In practice, contamination is common. The detailed list is an attempt to push work onto kitchens.
 
-**Land and cost.** Landfill space is limited relative to population in many regions. Incineration and recycling are expensive. Cities use calendars and bag fees to reduce volume and to make costs visible. Whether that always works is a policy argument. The visitor only meets the calendar.
+**Land and cost.** Landfill space is limited relative to population in many regions. Incineration and recycling are expensive. Calendars are the common tool. Some cities add designated bags or fees to reduce volume and make costs visible; others do not. Whether that always works is a policy argument. The visitor only meets the local version.
 
 **Packaging volume.** Convenience food and [multi-layer wrapping](/why-japanese-packaging-is-so-careful) produce a lot of film and trays. A single mixed bin would hide that volume. Separate plastic days make it visible. Waste-reduction debates in Japan often target overwrapping for this reason. Sorting and packaging are cousins, not the same topic.
 
@@ -97,7 +97,7 @@ Visitors often think a rejected bag is hostility.
 
 It is usually logistics. The truck is routed for one stream. Crews may leave a mixed or wrong-day bag with a sticker rather than sort it on the street. The sticker feels personal. The cause is a route, not a halted incinerator.
 
-Crows teach faster than stickers. A neighborhood that uses nets is telling you the food waste is attractive. Put meat trays in burnable, tie the bag, use the net. In some blocks the station is a cage. In others it is a painted square on the asphalt of a [narrow street without a sidewalk](/why-japanese-streets-often-have-no-sidewalks), and the bags occupy the walking edge until the truck comes.
+Crows teach faster than stickers. A neighborhood that uses nets is telling you the food waste is attractive. Tie food-waste bags well and use the net. Whether a meat tray is burnable or plastic is a local-diagram question, not a national rule. In some blocks the station is a cage. In others it is a painted square on the asphalt of a [narrow street without a sidewalk](/why-japanese-streets-often-have-no-sidewalks), and the bags occupy the walking edge until the truck comes.
 
 Short-term rentals concentrate mistakes because guests leave on Sunday night and the next burnable day is Tuesday. Hosts beg people not to leave mixed sacks in the hall. That plea is about fees and neighbor relations, the same thin-wall politics as night noise.
 

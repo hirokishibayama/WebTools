@@ -13,9 +13,9 @@ tags:
   - Japanese restrooms
   - Japanese manners
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese public restroom sink area
   without paper towels: a person drying hands with a small cloth handkerchief,

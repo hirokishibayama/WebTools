@@ -13,9 +13,9 @@ tags:
   - Kuroneko
   - konbini pickup
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese apartment entrance with a
   bank of parcel lockers beside mailboxes, a resident collecting a box,
@@ -50,13 +50,13 @@ The other half of the story is absence. If nobody is home, the driver cannot com
 
 For many Japanese people, a delivery is a calendar item, not a surprise.
 
-Growing up in Japan, children see a parent rewrite a redelivery slip on the door, or walk to the nearest locker wall after dinner. School excursion luggage may travel by takkyubin so students carry less. Relatives send regional food in cooled boxes. The cat logo, the red-and-black truck, the Japan Post mini-van, and the konbini back-room shelf are all ordinary scenery.
+Growing up in Japan, children see a parent rewrite a redelivery slip on the door, or walk to the nearest locker wall after dinner. School excursion luggage may travel by takkyubin so students carry less. Relatives send regional food in cooled boxes. A cat logo on a green-yellow truck, a Japan Post red van, a Sagawa lorry, and the konbini back-room shelf are all ordinary scenery.
 
 Japanese people often plan around the driver’s window. Time specification—morning, 14:00–16:00, evening—exists because being home at noon is not the default. If the window fails, the slip offers a site, a locker, or a new slot. Younger renters in auto-lock buildings may never hear the intercom. They tell the app “locker” or “okihai” (leave at the door) and hope the building allows it.
 
 Apartment culture matters. Many units have thin genkan space. A pile of boxes is a trip hazard and a humidity problem. People pick up promptly from lockers because the locker is shared, like a [carefully queued](/why-japanese-people-queue-so-carefully) public tool: if you leave your Amazon carton in the slot for three days, someone else’s dinner cannot land.
 
-Cool takkyubin (**reitou / reizo** options) is part of gift and food culture: melon from a relative, frozen dumplings, hotel sweets that must not melt. [Packaging](/why-japanese-packaging-is-so-careful) and insulation make the promise credible. The delivery is not only transport. It is a temperature chain ordinary families use without calling it logistics.
+Cool takkyubin (**reitou / reizo** — frozen / chilled options) is part of gift and food culture: melon from a relative, frozen dumplings, hotel sweets that must not melt. [Packaging](/why-japanese-packaging-is-so-careful) and insulation make the promise credible. The delivery is not only transport. It is a temperature chain ordinary families use without calling it logistics.
 
 Hotel forwarding is the tourist-facing version of the same trust: a labeled bag will exist at a named desk tomorrow. Locals use the same trust to send ski gear to a resort, or a suitcase home from a business trip so they can ride the shinkansen without a wheelie in the aisle.
 
@@ -64,7 +64,7 @@ Complaints are ordinary too. Drivers are overworked. Redelivery is environmental
 
 Seasonal peaks make the habit visible. Before Golden Week and the New Year, people ship gifts and extra clothes ahead of themselves. Students moving into apartments send boxes so they can travel light on the shinkansen. A family sending peaches from a relative in another prefecture treats the cooled label as seriously as the fruit. None of this is “loving delivery.” It is how distance is managed when flying with three suitcases is expensive and trains punish bulk.
 
-Cash on delivery still appears for some catalog and TV-shopping orders, which is one reason [notes remain ordinary](/why-japanese-people-still-use-cash-so-often) even as apps grow. Most e-commerce is prepaid now. The older COD slip has not vanished from every household’s memory. Couriers collecting payment at the door are a shrinking scene, not a myth from zero.
+Cash on delivery still appears for some catalog and TV-shopping orders, but it is a shrinking slice of parcels—not why [cash stays in wallets](/why-japanese-people-still-use-cash-so-often), and not why lockers exist. Most e-commerce is prepaid. Couriers collecting payment at the door are a leftover scene, not the engine of the network.
 
 Neighbors notice locker etiquette the way they notice trash day. A box left until it smells, a hatch jammed with a too-large carton, a bicycle blocking the locker wall—these are building politics. People who use the system daily already know the unwritten timing: pick up on the way home from the station, not “sometime this weekend.”
 

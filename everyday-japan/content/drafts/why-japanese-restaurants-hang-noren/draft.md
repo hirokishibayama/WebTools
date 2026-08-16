@@ -13,9 +13,9 @@ tags:
   - shop curtain
   - sento
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a small Japanese restaurant entrance by
   day: a short split fabric curtain in the doorway, warm interior light behind,
@@ -32,7 +32,7 @@ The cloth is a **noren (暖簾)**. Travel copy sometimes calls it an ancient vei
 
 Why do Japanese restaurants hang *noren*?
 
-The short answer is a bundle of practical jobs: a visible open/closed cue, a soft split in the doorway, a bit of shade and kitchen smell control, a place to put a name or a mark. Public bathhouses hang them too. Chain cafes and glass-front lunch spots often do not. The object is ordinary shop furniture with a long history—not a unique magic technology, and not a rule every restaurant obeys.
+The short answer is a bundle of practical jobs: a visible open/closed cue, a soft split in the doorway, a bit of shade on the first seats, a place to put a name or a mark. Public bathhouses hang them too. Chain cafes and glass-front lunch spots often do not. The object is ordinary shop furniture with a long history—not a unique magic technology, and not a rule every restaurant obeys.
 
 ---
 
@@ -54,7 +54,7 @@ For many small restaurants, opening is a sequence: lights, register, soup, then 
 
 Japanese people rarely describe the curtain as mysterious. They describe it as the shop’s face. A faded *noren* looks like a faded awning: a bit tired, still functional. A new one looks like a renovation. When a long-running shop allows a former apprentice to open a branch, people still use the metaphor **noren-wake (暖簾分け)** — dividing the *noren* — for sharing the name. That is business vocabulary. It does not mean every visitor must bow to cotton.
 
-Smoke, grease, and air play supporting roles. A split curtain cuts some of the blast from an open kitchen and some of the stare from the street. It does not replace a ventilation fan. Treating *noren* as Japan’s unique scientific solution to kitchen exhaust is a stretch. Fans and ducts do the real air work. Takeout still leaves in bags; the curtain is not involved.
+Smoke, grease, and air play supporting roles. A split curtain knocks down some of the stare from the street and a little of the blast from an open kitchen. It does not replace a ventilation fan, and it is not a serious odor-control system. Treating *noren* as Japan’s unique scientific solution to kitchen exhaust is a stretch. Fans and ducts do the real air work. Takeout still leaves in bags; the curtain is not involved.
 
 Bathhouses use the same object with a different message: this is a sento, male and female sides may have different cloths or markings, and the doorway is not a private apartment. The *noren* does not replace [shoes-off rules](/why-japanese-people-take-off-their-shoes-everywhere) inside. It only marks the trade. People who already know [how Japanese bathrooms work at home](/why-japanese-bathrooms-are-surprisingly-advanced) still meet a different script at a sento—wash first, keep the water clean—which the curtain does not explain. The cloth only says: this doorway is a public bath, not a cafe.
 
@@ -88,7 +88,7 @@ Tourist streets can overproduce them: brand-new “old” indigo, identical font
 
 Honesty requires the other facades.
 
-**Malls, stations, food halls.** Fire codes, HVAC, and corporate design guidelines often want clear sightlines. A hanging cloth is a hassle.
+**Malls, stations, food halls.** Shared corridors usually want clear sightlines and a corporate look. A hanging cloth is extra hassle for housekeeping and for whoever manages the shared air system; some buildings simply do not allow extra fabric in the opening. Design and operations, not a Japan-specific ban, are the usual reasons.
 
 **Many cafes and chain restaurants.** English menus, big windows, and a host stand replace the duck-under entrance.
 
@@ -122,7 +122,7 @@ If you only photograph a backstreet at dusk, Japan is a nation of split curtains
 
 ## Visitor Tips Without Worshipping Cotton
 
-**If the *noren* is down and the lights are off, do not insist.** Look for a hours sign.
+**If the *noren* is down and the lights are off, do not insist.** Look for an hours sign.
 
 **Part it and walk through.** You do not need a special bow. Hold it for the person behind you if your hands are free.
 

@@ -13,9 +13,9 @@ tags:
   - Japanese etiquette
   - Japanese email
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese office or shop first meeting,
   two people exchanging business cards with a slight bow, muted interior light,

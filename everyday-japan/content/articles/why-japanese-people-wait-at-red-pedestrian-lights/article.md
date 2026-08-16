@@ -13,9 +13,9 @@ tags:
   - Japanese manners
   - traffic safety Japan
   - everyday Japan
-published_at: '2026-08-15'
-updated_at: '2026-08-15'
-status: review
+published_at: '2026-08-16'
+updated_at: '2026-08-16'
+status: published
 hero_prompt: >-
   Documentary editorial photograph of a Japanese urban intersection at dusk:
   pedestrians waiting at a red pedestrian signal on a nearly empty crossing,
